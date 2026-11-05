@@ -7,7 +7,7 @@
 - `typing-practice.html`: 타자 연습
 - `subtitle-textbook-library.html`: 자막 교재
 - `source-library.html`: 소스 자료실
-- `sources/`: Markdown 다섯 파일과 교재 이미지
+- `sources/`: Markdown 여섯 파일과 교재 이미지
 - `.nojekyll`: 정적 파일 게시용 빈 파일
 
 ## 통합 학습지
@@ -43,4 +43,14 @@ sources의 Markdown 변경은 소스 자료실에 반영됩니다. 학습지와 
 
 ## Language Art 원문
 
-`sources/language-art.md`는 목차 61개와 Word 교재 본문·표를 통합한 자료입니다. 이미지 27개는 `sources/images/language-art/`에 있으며 원본 픽셀 크기를 유지한 무손실 최적화를 적용했습니다. 업로드할 때 이 이미지 폴더도 함께 올려야 합니다.
+`sources/language-art.md`는 목차 61개와 Word 교재 본문·표를 통합한 자료입니다. 이미지 27개는 `sources/images/language-art/`에 있으며 JPG로 경량화했으며 지도와 글자 자료는 선명도를 우선했습니다. 업로드 ZIP은 아래의 이미지 내장 HTML을 사용합니다.
+
+## Story Writing Club 원문
+
+`sources/story-writing-club.md`에 목차 101편과 본문·표를 통합했습니다. 원래 외부 링크를 유지하며 확보한 이미지는 `sources/images/story-writing-club/`에 저장했습니다. 이미지는 아래의 이미지 내장 HTML로 제공합니다.
+
+Story Writing Club 이미지는 JPG로 경량화했습니다. 일반 사진·삽화는 100KB 안팎을 목표로 조정했고 지도·글자 자료는 선명도를 우선했습니다. 원본 이미지는 별도로 포함하지 않습니다.
+
+## 이미지 내장 교재
+
+소스 자료실에서 Language Art와 Story Writing Club을 선택하면 각각 `sources/language-art.html`, `sources/story-writing-club.html`이 열립니다. 이미지가 HTML에 포함되어 별도 이미지 폴더 업로드는 필요하지 않습니다. 두 MD 원문은 sources 폴더에 유지합니다. MD는 외부 이미지 경로를 포함한 원본 자료이며, 배포 ZIP에서 이미지는 HTML로 제공하므로 이미지까지 보려면 HTML을 이용하세요.

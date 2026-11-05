@@ -966,7 +966,7 @@ William Wordsworth (1770-1850) was one of the most important Romantic poets. He 
 
 In this poem, Wordsworth stands early in the morning on Westminster Bridge. In 1802, the south side of the river was sparsely developed, so that the dense city could be seen in one direction, and mostly fields in the other (see map below).
 
-![교재 삽화 2](images/language-art/image5.png)
+![교재 삽화 2](images/language-art/image5.jpg)
 
 Questions on ‘Composed Upon Westminster Bridge, September 3rd, 1802’ by William Wordsworth (1770-1850)
 
@@ -1151,7 +1151,7 @@ Then William rose for a second speech.
 
 “Equal to them,” said William. “Why, just think of the things they’ve got. They’ve got lots of money, haven’t they?—lots more than what we have, an’ they can buy anything they want, an’ they stay up for dinner always, and go out late at night, an’ eat what they want with no one sayin’ had they better, or cert’nly not, or what happened last time, an’ they smoke an’ don’t go to school, an’ go to the pictures, an’ they’ve got lots more things ’n we’ve got—bicycles an’ grammerphones, an’ fountain-pens, an’ watches, an’ things what we’ve not got. Well, an’ we’re ’uman beings, too, an’ we ought to be equal, an’ why shun’t we be equal?—an’ now’s the time for Action! They said so.”
 
-There was a silence.![교재 삽화 3](images/language-art/image14.png)
+There was a silence.![교재 삽화 3](images/language-art/image14.jpg)
 
 “But——” said Douglas slowly, “we can’t just take things, can we?”
 
@@ -1211,7 +1211,7 @@ Various other members of the Bolshevist Society appeared, filled with wrath and 
 
 “Do you think someone in the Government found out about us being Bolshevists and is trying to intimidate us?”
 
-Jameson Jameson thought this very likely, and they discussed it excitedly in the middle of the road, some hatless, some hatted, all talking breathlessly. Then at the other end of the road appeared a group of boys. They were happy, rollicking boys. They all carried bags of sweets which they ate lavishly and handed round to their friends equally lavishly. One held a camera—or the remains of a camera—whose mechanism the entire party had just been investigating. One more had a large wrist-watch upon a small wrist. One walked (or rather leapt) upon a silver-topped walking-stick. One, the quietest of the group, was smoking a cigarette. At the side near the ditch about half a dozen rode intermittently upon a bicycle. The descent of the bicycle and its cargo into the ditch was greeted with roars of laughter. They were very happy boys. They sang as they walked.![교재 삽화 4](images/language-art/image27.png)
+Jameson Jameson thought this very likely, and they discussed it excitedly in the middle of the road, some hatless, some hatted, all talking breathlessly. Then at the other end of the road appeared a group of boys. They were happy, rollicking boys. They all carried bags of sweets which they ate lavishly and handed round to their friends equally lavishly. One held a camera—or the remains of a camera—whose mechanism the entire party had just been investigating. One more had a large wrist-watch upon a small wrist. One walked (or rather leapt) upon a silver-topped walking-stick. One, the quietest of the group, was smoking a cigarette. At the side near the ditch about half a dozen rode intermittently upon a bicycle. The descent of the bicycle and its cargo into the ditch was greeted with roars of laughter. They were very happy boys. They sang as they walked.![교재 삽화 4](images/language-art/image27.jpg)
 
 “We’ve been to the pictures.”
 
@@ -2232,7 +2232,7 @@ In the novel’s opening scene, Lewis creates sympathy for Digory. Although it w
 
 ## 19. Smith (1967)
 
-Extract from Smith (1967) by Leon Garfield (1921-1996)![교재 삽화 5](images/language-art/image19.png)
+Extract from Smith (1967) by Leon Garfield (1921-1996)![교재 삽화 5](images/language-art/image19.jpg)
 
 In this extract, which is the opening of the novel, Garfield introduces his hero, the pickpocket Smith, who lives in eighteenth-century London.
 
@@ -2258,7 +2258,7 @@ Now a sharpish wind sprang up, and the cathedral birds eyed the leaden sky (whic
 
 "Pickpocket! Pickpocket! Jug-jug-jug him!" 
 
-The old gentleman was very deep in Smith's country now, and paused many a time to peer down the shambling lanes and alleys. Then he'd shake his head vaguely and touch at his coat pocket—as if a queer, deep sense had warned him of a pair of sharp eyes fairly cutting into the cloth like scissors. At last, he saw something familiar: some landmark he'd remembered. Godliman Street. Yes: he was on Godliman Street. .. ![교재 삽화 6](images/language-art/image13.png)
+The old gentleman was very deep in Smith's country now, and paused many a time to peer down the shambling lanes and alleys. Then he'd shake his head vaguely and touch at his coat pocket—as if a queer, deep sense had warned him of a pair of sharp eyes fairly cutting into the cloth like scissors. At last, he saw something familiar: some landmark he'd remembered. Godliman Street. Yes: he was on Godliman Street. .. ![교재 삽화 6](images/language-art/image13.jpg)
 
 As suddenly as it had sprung up, the wind died—and the cathedral birds flew back to their dome. 
 
@@ -2338,7 +2338,7 @@ C. It is astonishing that he has survived to this age.
 
 D. London was filled with young criminals in those days.
 
-![교재 삽화 7](images/language-art/image18.png)
+![교재 삽화 7](images/language-art/image18.jpg)
 
 Fiction Writing
 
@@ -2356,7 +2356,7 @@ Write a first-person account of a day in the life of a pickpocket in eighteenth-
 | Paragraph Four: Nearly being caught.<br>First sentence: ‘Perhaps I had become overconfident, after so many years of getting away with it.’ | terror, hanging, gallows, witnesses, judgement, court, trial |
 | Paragraph Five: Returning safely to your cellar. Reflecting on the day.<br>First sentence: ‘I sank down upon my bed of straw, my heart pounding, relieved to have escaped the gallows for another day.’ | exhaustion, panic, calm, warmth, comfort |
 
-Extract from A Christmas Carol (1843) by Charles Dickens (1812-1870)![교재 삽화 8](images/language-art/image15.png)
+Extract from A Christmas Carol (1843) by Charles Dickens (1812-1870)![교재 삽화 8](images/language-art/image15.jpg)
 
 Summary of Chapter One: 'Marley's Ghost'
 
@@ -4440,7 +4440,7 @@ Write a story about someone who receives an unjust punishment. You could use thi
 | Paragraph Four:<br>The hours dragged on through that seemingly endless day. | burning, heat, thirst, exhaustion, mercy, drink, grateful |
 | Paragraph Five:<br>Finally, it was over, and I knew who my true friends were. | unforgettable, lesson, loyalty, love, friendship |
 
-![교재 삽화 13](images/language-art/image21.png)
+![교재 삽화 13](images/language-art/image21.jpg)
 
 <a id="item-40"></a>
 
