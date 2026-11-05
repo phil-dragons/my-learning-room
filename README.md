@@ -7,7 +7,7 @@
 - `typing-practice.html`: 타자 연습
 - `subtitle-textbook-library.html`: 자막 교재
 - `source-library.html`: 소스 자료실
-- `sources/`: 원본 Markdown 네 파일
+- `sources/`: Markdown 다섯 파일과 교재 이미지
 - `.nojekyll`: 정적 파일 게시용 빈 파일
 
 ## 통합 학습지
@@ -40,3 +40,7 @@ ZIP을 풀고 **내용물을 저장소 최상위에** 업로드하세요. index.
 ## 소스 자료실
 
 sources의 Markdown 변경은 소스 자료실에 반영됩니다. 학습지와 타자 연습의 내장 교재 데이터는 별도로 갱신해야 합니다.
+
+## Language Art 원문
+
+`sources/language-art.md`는 목차 61개와 Word 교재 본문·표를 통합한 자료입니다. 이미지 27개는 `sources/images/language-art/`에 있으며 원본 픽셀 크기를 유지한 무손실 최적화를 적용했습니다. 업로드할 때 이 이미지 폴더도 함께 올려야 합니다.
