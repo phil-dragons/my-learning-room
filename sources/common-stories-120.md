@@ -24,18 +24,169 @@ languages: [en, ko]
 
 이야기 속 형태가 대표형과 다르면 표에 따로 적었습니다. 철자 대안·복수형·파생형 등을 사용한 경우에도 원래 단어군 하나로 셉니다. 세트 순서는 상황별 학습 순서이며, 엄격한 난이도 순위는 아닙니다.
 
-## 바로 가기
+## 세트 바로 가기
 
-- [C001–C020 · 여행, 음식, 학교](#c001)
-- [C021–C040 · 운동, 건강, 자연](#c021)
-- [C041–C060 · 일, 관계, 사회](#c041)
-- [C061–C080 · 지역 활동, 문제 해결](#c061)
-- [C081–C100 · 관찰, 생활, 창작](#c081)
-- [C101–C120 · 이야기, 선택, 연결 표현](#c101)
+### C001–C010
+
+- [C001 · The Bag on the Bus / 버스에서 찾은 가방](#c001)
+- [C002 · My First Flight / 첫 비행](#c002)
+- [C003 · A Small Problem at the Hotel / 호텔의 작은 문제](#c003)
+- [C004 · The Day We Took the Wrong Turn / 길을 잘못 든 날](#c004)
+- [C005 · A Picnic by the Sea / 바닷가 소풍](#c005)
+- [C006 · A Storm at Camp / 야영지의 폭풍](#c006)
+- [C007 · The First Fruit in the Garden / 정원의 첫 열매](#c007)
+- [C008 · Making Soup / 수프를 만드는 날](#c008)
+- [C009 · Helping with Breakfast / 아침 식사 도우미](#c009)
+- [C010 · Grocery Shopping / 시장 장보기](#c010)
+
+### C011–C020
+
+- [C011 · Ordering at a Restaurant / 식당에서의 주문](#c011)
+- [C012 · My First Day in a New Class / 새 학급의 첫날](#c012)
+- [C013 · Getting Ready for a Test / 시험 준비](#c013)
+- [C014 · Clues in the Library / 도서관의 단서](#c014)
+- [C015 · A Science Experiment / 과학 실험](#c015)
+- [C016 · Speaking to the Class / 학급 발표](#c016)
+- [C017 · Solving a Math Problem Together / 함께 푸는 수학 문제](#c017)
+- [C018 · The School Play / 학교 연극](#c018)
+- [C019 · Our Band's First Concert / 밴드의 첫 공연](#c019)
+- [C020 · Getting Ready for an Art Show / 미술 전시 준비](#c020)
+
+### C021–C030
+
+- [C021 · The Final Match / 운동회의 결승전](#c021)
+- [C022 · Learning to Run / 달리기 연습](#c022)
+- [C023 · At the Swimming Pool / 수영장에서](#c023)
+- [C024 · Fixing My Bike / 자전거 수리](#c024)
+- [C025 · An Accident on the Road / 길에서 일어난 사고](#c025)
+- [C026 · Feeling Sick in the Morning / 몸이 아픈 아침](#c026)
+- [C027 · A Visit to the Dentist / 치과에 가는 날](#c027)
+- [C028 · Choosing New Clothes / 새 옷 고르기](#c028)
+- [C029 · Cleaning the Room / 방 정리](#c029)
+- [C030 · Building a Small Bookshelf / 작은 책장 만들기](#c030)
+
+### C031–C040
+
+- [C031 · My Phone Runs Out of Power / 휴대 전화가 꺼졌다](#c031)
+- [C032 · Computer Class at School / 학교 컴퓨터 수업](#c032)
+- [C033 · At the Animal Shelter / 동물 보호소](#c033)
+- [C034 · Watching Animals at the Zoo / 동물원 관찰](#c034)
+- [C035 · Small Creatures in the Forest / 숲속의 작은 생명](#c035)
+- [C036 · A Day on the Farm / 농장에서 보낸 하루](#c036)
+- [C037 · Cleaning the Beach / 해변 청소](#c037)
+- [C038 · On a Mountain Path / 산길에서](#c038)
+- [C039 · A Boat Trip / 보트를 타고](#c039)
+- [C040 · An Old Kingdom at the Museum / 박물관의 옛 왕국](#c040)
+
+### C041–C050
+
+- [C041 · A New Part-Time Job / 새 아르바이트](#c041)
+- [C042 · Two Friends Open a Shop / 가게를 여는 두 친구](#c042)
+- [C043 · A Promise at the Bank / 은행에서의 약속](#c043)
+- [C044 · A Visit to a Factory / 공장 견학](#c044)
+- [C045 · A Town Meeting / 마을 회의](#c045)
+- [C046 · The School Election / 학교 회장 선거](#c046)
+- [C047 · The Missing Bike / 사라진 자전거](#c047)
+- [C048 · A Visit to a Courtroom / 법정 견학](#c048)
+- [C049 · After an Argument with a Friend / 친구와 다툰 뒤](#c049)
+- [C050 · Being There for a Friend / 힘든 친구 곁에서](#c050)
+
+### C051–C060
+
+- [C051 · Getting Ready for a Birthday / 동생의 생일 준비](#c051)
+- [C052 · A New Beginning for Our Family / 가족의 새 출발](#c052)
+- [C053 · Grandpa's Retirement / 할아버지의 은퇴](#c053)
+- [C054 · Moving to a New Neighborhood / 새 동네로 이사](#c054)
+- [C055 · A Message from a Stranger / 모르는 사람에게 온 메일](#c055)
+- [C056 · Editing the Class Newspaper / 학급 신문 편집](#c056)
+- [C057 · At the Cinema / 영화관에서](#c057)
+- [C058 · A Sound in the Night / 밤에 들린 소리](#c058)
+- [C059 · At the Space Exhibit / 우주 전시관](#c059)
+- [C060 · Studying the Weather / 날씨 연구](#c060)
+
+### C061–C070
+
+- [C061 · An Event to Help Others / 기부 행사](#c061)
+- [C062 · Sending a Package / 우편물을 보내며](#c062)
+- [C063 · At the Train Station / 기차역에서](#c063)
+- [C064 · A Misunderstanding in the Park / 공원에서의 오해](#c064)
+- [C065 · Clues to the Missing Key / 잃어버린 열쇠의 단서](#c065)
+- [C066 · A Small Incident by the Stream / 낚시터의 작은 사건](#c066)
+- [C067 · A Playground Challenge / 놀이터의 도전](#c067)
+- [C068 · A Visit to the Fire Station / 소방서 견학](#c068)
+- [C069 · A Lesson on War and Peace / 전쟁과 평화 수업](#c069)
+- [C070 · A Secret Agent's Mission / 비밀 요원의 임무](#c070)
+
+### C071–C080
+
+- [C071 · A Shop Solves a Complaint / 불평을 해결하는 가게](#c071)
+- [C072 · Advertising a New Product / 새 상품 광고](#c072)
+- [C073 · A New Invention / 새로운 발명](#c073)
+- [C074 · Learning from Mistakes / 실수에서 배우기](#c074)
+- [C075 · Our Class Survey / 우리 반 설문 조사](#c075)
+- [C076 · A Plan to Plant Trees / 나무 심기 계획](#c076)
+- [C077 · Learning a New Language / 새로운 언어 배우기](#c077)
+- [C078 · Clearing Up a Misunderstanding / 작은 오해 풀기](#c078)
+- [C079 · Planning a Family Trip / 가족 여행 의논](#c079)
+- [C080 · Solving Problems as a New Team / 새 팀의 문제 해결](#c080)
+
+### C081–C090
+
+- [C081 · In Front of the Mirror / 거울 앞에서](#c081)
+- [C082 · The Story of a Lost City / 잃어버린 도시 이야기](#c082)
+- [C083 · A Magic Show / 마술 쇼](#c083)
+- [C084 · A Kingdom in a Dream / 꿈속의 왕국](#c084)
+- [C085 · Healthy Choices / 건강한 선택](#c085)
+- [C086 · A Lesson on Alcohol and Smoking / 술과 담배에 관한 수업](#c086)
+- [C087 · A Very Busy Day / 너무 바쁜 하루](#c087)
+- [C088 · Difficult News / 어려운 소식](#c088)
+- [C089 · Rules at School / 학교에서 지켜야 할 것](#c089)
+- [C090 · How Factory Work Has Changed / 공장에서 바뀐 하루](#c090)
+
+### C091–C100
+
+- [C091 · An Experiment with Night Sounds / 밤의 소음 실험](#c091)
+- [C092 · An Accident While Cleaning / 청소하다 생긴 일](#c092)
+- [C093 · The Film Club / 촬영 동아리](#c093)
+- [C094 · An Afternoon of Poetry / 시를 쓰는 오후](#c094)
+- [C095 · Shapes on the Playground / 운동장에 그린 도형](#c095)
+- [C096 · A Lesson on Comparing Sizes / 크기를 비교하는 수업](#c096)
+- [C097 · Borrowing Tools / 공구를 빌리다](#c097)
+- [C098 · Mending Clothes for Spring / 봄맞이 옷 수선](#c098)
+- [C099 · A Small Mistake, a Big Problem / 작은 실수의 큰 결과](#c099)
+- [C100 · A Walk at Dawn / 새벽의 산책](#c100)
+
+### C101–C110
+
+- [C101 · The Map Inside the Cape / 망토 속의 지도](#c101)
+- [C102 · My Sister Becomes a Teacher / 선생님이 된 언니](#c102)
+- [C103 · My First Opera / 처음 본 오페라](#c103)
+- [C104 · Making Chocolate Treats / 초콜릿 간식 만들기](#c104)
+- [C105 · At the Human Body Exhibit / 우리 몸 전시관](#c105)
+- [C106 · Our Own Make-Believe Town / 우리만의 가상 도시](#c106)
+- [C107 · Rescued from a Flood / 홍수에서 구조되다](#c107)
+- [C108 · Trying Golf for the First Time / 처음 해 보는 골프](#c108)
+- [C109 · The Meeting I Forgot / 잊어버린 회의](#c109)
+- [C110 · Time to Stop Playing / 게임을 멈출 시간](#c110)
+
+### C111–C120
+
+- [C111 · A Look Inside a Vacation Home / 휴가용 집 살펴보기](#c111)
+- [C112 · The Secret of the Pattern / 무늬의 비밀](#c112)
+- [C113 · The Town Parade / 마을 퍼레이드](#c113)
+- [C114 · It Is Okay Not to Be Perfect / 완벽하지 않아도 괜찮아](#c114)
+- [C115 · A New Morning Routine / 달라진 아침 습관](#c115)
+- [C116 · A Shadow in the Shed / 창고의 그림자](#c116)
+- [C117 · Booking a Trip to a Small Island / 작은 섬 여행 예약](#c117)
+- [C118 · Steps Toward Freedom / 자유를 향한 발걸음](#c118)
+- [C119 · A Sea-Themed Party / 바다 모양 파티](#c119)
+- [C120 · Small Changes from Daily Study / 꾸준히 공부한 뒤의 작은 변화](#c120)
+
+---
 
 <a id="c001"></a>
 
-## C001 — 버스에서 찾은 가방
+## C001 · The Bag on the Bus / 버스에서 찾은 가방
 
 <!-- set-data: {"set_id":"C001","level":"common","targets":[{"word_id":"v1802","headword":"notice","story_form":"notice"},{"word_id":"v0131","headword":"anxious","story_form":"anxious"},{"word_id":"v2326","headword":"search","story_form":"search"},{"word_id":"v0771","headword":"describe","story_form":"describe"},{"word_id":"v2182","headword":"relief","story_form":"relief"},{"word_id":"v1994","headword":"polite","story_form":"polite"},{"word_id":"v2198","headword":"reply","story_form":"reply"},{"word_id":"v2156","headword":"recognize","story_form":"recognize"},{"word_id":"v1877","headword":"own","story_form":"own"},{"word_id":"v2076","headword":"promise","story_form":"promise"}]} -->
 
@@ -74,7 +225,7 @@ He holds his **own** bag with **relief** and says, “I **promise** to be more c
 
 <a id="c002"></a>
 
-## C002 — 첫 비행
+## C002 · My First Flight / 첫 비행
 
 <!-- set-data: {"set_id":"C002","level":"common","targets":[{"word_id":"v0081","headword":"airport","story_form":"airport"},{"word_id":"v0079","headword":"airline","story_form":"airline"},{"word_id":"v1097","headword":"flight","story_form":"flight"},{"word_id":"v1185","headword":"gate","story_form":"gate"},{"word_id":"v0747","headword":"delay","story_form":"delay"},{"word_id":"v0123","headword":"announce","story_form":"announce"},{"word_id":"v1696","headword":"minute","story_form":"minute"},{"word_id":"v1916","headword":"patient","story_form":"patient"},{"word_id":"v2179","headword":"relax","story_form":"relax"},{"word_id":"v2328","headword":"seat","story_form":"seat"}]} -->
 
@@ -113,7 +264,7 @@ At last, we get on the plane, and I **relax** in my **seat** by a window.
 
 <a id="c003"></a>
 
-## C003 — 호텔의 작은 문제
+## C003 · A Small Problem at the Hotel / 호텔의 작은 문제
 
 <!-- set-data: {"set_id":"C003","level":"common","targets":[{"word_id":"v1346","headword":"hotel","story_form":"hotel"},{"word_id":"v2208","headword":"reserve","story_form":"reserve"},{"word_id":"v0494","headword":"clerk","story_form":"clerk"},{"word_id":"v1257","headword":"guest","story_form":"guest"},{"word_id":"v1592","headword":"lock","story_form":"lock"},{"word_id":"v1509","headword":"knock","story_form":"knock"},{"word_id":"v0173","headword":"assist","story_form":"assist"},{"word_id":"v2197","headword":"replace","story_form":"replace"},{"word_id":"v0533","headword":"comfort","story_form":"comfort"},{"word_id":"v0142","headword":"appreciate","story_form":"appreciate"}]} -->
 
@@ -152,7 +303,7 @@ We **appreciate** his help and spend the evening in **comfort**.
 
 <a id="c004"></a>
 
-## C004 — 길을 잘못 든 날
+## C004 · The Day We Took the Wrong Turn / 길을 잘못 든 날
 
 <!-- set-data: {"set_id":"C004","level":"common","targets":[{"word_id":"v2271","headword":"route","story_form":"route"},{"word_id":"v0811","headword":"direct","story_form":"direct"},{"word_id":"v1590","headword":"local","story_form":"local"},{"word_id":"v0826","headword":"distance","story_form":"distance"},{"word_id":"v0274","headword":"beyond","story_form":"beyond"},{"word_id":"v2129","headword":"rail","story_form":"rail"},{"word_id":"v2756","headword":"toward","story_form":"toward"},{"word_id":"v2144","headword":"reach","story_form":"reach"},{"word_id":"v1258","headword":"guide","story_form":"guide"},{"word_id":"v1134","headword":"fortunate","story_form":"fortunate"}]} -->
 
@@ -191,7 +342,7 @@ We feel **fortunate** when we **reach** the lake before lunch.
 
 <a id="c005"></a>
 
-## C005 — 바닷가 소풍
+## C005 · A Picnic by the Sea / 바닷가 소풍
 
 <!-- set-data: {"set_id":"C005","level":"common","targets":[{"word_id":"v0513","headword":"coast","story_form":"coast"},{"word_id":"v1954","headword":"picnic","story_form":"picnic"},{"word_id":"v0293","headword":"blanket","story_form":"blanket"},{"word_id":"v0329","headword":"bowl","story_form":"bowl"},{"word_id":"v2442","headword":"snack","story_form":"snack"},{"word_id":"v1558","headword":"lemon","story_form":"lemon"},{"word_id":"v2363","headword":"shade","story_form":"shade"},{"word_id":"v1195","headword":"gentle","story_form":"gentle"},{"word_id":"v2912","headword":"wave","story_form":"wave"},{"word_id":"v2387","headword":"shore","story_form":"shore"}]} -->
 
@@ -230,7 +381,7 @@ After lunch, we walk by the water and look for shells.
 
 <a id="c006"></a>
 
-## C006 — 야영지의 폭풍
+## C006 · A Storm at Camp / 야영지의 폭풍
 
 <!-- set-data: {"set_id":"C006","level":"common","targets":[{"word_id":"v2548","headword":"storm","story_form":"storm"},{"word_id":"v2378","headword":"shelter","story_form":"shelter"},{"word_id":"v1090","headword":"flash","story_form":"flash"},{"word_id":"v1050","headword":"fear","story_form":"fear"},{"word_id":"v0388","headword":"calm","story_form":"calm"},{"word_id":"v2087","headword":"protect","story_form":"protect"},{"word_id":"v2614","headword":"survive","story_form":"survive"},{"word_id":"v2480","headword":"spare","story_form":"spare"},{"word_id":"v2334","headword":"secure","story_form":"secure"},{"word_id":"v2754","headword":"tough","story_form":"tough"}]} -->
 
@@ -269,7 +420,7 @@ We **survive** the **tough** night and see the sun in the morning.
 
 <a id="c007"></a>
 
-## C007 — 정원의 첫 열매
+## C007 · The First Fruit in the Garden / 정원의 첫 열매
 
 <!-- set-data: {"set_id":"C007","level":"common","targets":[{"word_id":"v2336","headword":"seed","story_form":"seed"},{"word_id":"v2457","headword":"soil","story_form":"soil"},{"word_id":"v1976","headword":"plant","story_form":"plant"},{"word_id":"v2265","headword":"root","story_form":"root"},{"word_id":"v1541","headword":"leaf","story_form":"leaf"},{"word_id":"v0302","headword":"bloom","story_form":"bloom"},{"word_id":"v2555","headword":"strawberry","story_form":"strawberry"},{"word_id":"v2623","headword":"sweet","story_form":"sweet"},{"word_id":"v2132","headword":"raise","story_form":"raise"},{"word_id":"v2174","headword":"regular","story_form":"regular"}]} -->
 
@@ -308,7 +459,7 @@ At last, I pick a **sweet** **strawberry** and share it with Dad.
 
 <a id="c008"></a>
 
-## C008 — 수프를 만드는 날
+## C008 · Making Soup / 수프를 만드는 날
 
 <!-- set-data: {"set_id":"C008","level":"common","targets":[{"word_id":"v2155","headword":"recipe","story_form":"recipe"},{"word_id":"v0473","headword":"chop","story_form":"chop"},{"word_id":"v1742","headword":"mushroom","story_form":"mushroom"},{"word_id":"v0309","headword":"boil","story_form":"boil"},{"word_id":"v2541","headword":"stir","story_form":"stir"},{"word_id":"v2016","headword":"pour","story_form":"pour"},{"word_id":"v1931","headword":"pepper","story_form":"pepper"},{"word_id":"v2299","headword":"sauce","story_form":"sauce"},{"word_id":"v2013","headword":"pot","story_form":"pot"},{"word_id":"v1649","headword":"meal","story_form":"meal"}]} -->
 
@@ -347,7 +498,7 @@ The kitchen smells good, and everyone comes to the table.
 
 <a id="c009"></a>
 
-## C009 — 아침 식사 도우미
+## C009 · Helping with Breakfast / 아침 식사 도우미
 
 <!-- set-data: {"set_id":"C009","level":"common","targets":[{"word_id":"v0210","headword":"bacon","story_form":"bacon"},{"word_id":"v1159","headword":"fry","story_form":"fry"},{"word_id":"v1888","headword":"pan","story_form":"pan"},{"word_id":"v2735","headword":"toast","story_form":"toast"},{"word_id":"v1335","headword":"honey","story_form":"honey"},{"word_id":"v0242","headword":"bean","story_form":"bean"},{"word_id":"v0821","headword":"dish","story_form":"dish"},{"word_id":"v2779","headword":"tray","story_form":"tray"},{"word_id":"v2353","headword":"serve","story_form":"serve"},{"word_id":"v2602","headword":"supper","story_form":"supper"}]} -->
 
@@ -384,7 +535,7 @@ She smiles and says, “Thank you! I will make **supper** tonight.”
 
 <a id="c010"></a>
 
-## C010 — 시장 장보기
+## C010 · Grocery Shopping / 시장 장보기
 
 <!-- set-data: {"set_id":"C010","level":"common","targets":[{"word_id":"v1248","headword":"grocery","story_form":"grocery"},{"word_id":"v2046","headword":"price","story_form":"price"},{"word_id":"v0547","headword":"compare","story_form":"compare"},{"word_id":"v2105","headword":"purchase","story_form":"purchase"},{"word_id":"v1923","headword":"pear","story_form":"pear"},{"word_id":"v1663","headword":"melon","story_form":"melon"},{"word_id":"v2004","headword":"pork","story_form":"pork"},{"word_id":"v0856","headword":"dozen","story_form":"dozen"},{"word_id":"v0111","headword":"amount","story_form":"amount"},{"word_id":"v0358","headword":"budget","story_form":"budget"}]} -->
 
@@ -423,7 +574,7 @@ There is enough for dinner, and we still have some money left.
 
 <a id="c011"></a>
 
-## C011 — 식당에서의 주문
+## C011 · Ordering at a Restaurant / 식당에서의 주문
 
 <!-- set-data: {"set_id":"C011","level":"common","targets":[{"word_id":"v1669","headword":"menu","story_form":"menu"},{"word_id":"v1852","headword":"order","story_form":"order"},{"word_id":"v2028","headword":"prefer","story_form":"prefer"},{"word_id":"v2240","headword":"rice","story_form":"rice"},{"word_id":"v1956","headword":"pie","story_form":"pie"},{"word_id":"v2651","headword":"tea","story_form":"tea"},{"word_id":"v2730","headword":"tip","story_form":"tip"},{"word_id":"v0448","headword":"charge","story_form":"charge"},{"word_id":"v2752","headword":"total","story_form":"total"},{"word_id":"v2298","headword":"satisfy","story_form":"satisfy"}]} -->
 
@@ -462,7 +613,7 @@ Dad adds a **tip** and checks the **total** before we leave.
 
 <a id="c012"></a>
 
-## C012 — 새 학급의 첫날
+## C012 · My First Day in a New Class / 새 학급의 첫날
 
 <!-- set-data: {"set_id":"C012","level":"common","targets":[{"word_id":"v1245","headword":"greet","story_form":"greet"},{"word_id":"v1641","headword":"mate","story_form":"mate"},{"word_id":"v0206","headword":"awkward","story_form":"awkward"},{"word_id":"v1525","headword":"language","story_form":"language"},{"word_id":"v0018","headword":"accent","story_form":"accent"},{"word_id":"v0097","headword":"aloud","story_form":"aloud"},{"word_id":"v2347","headword":"sentence","story_form":"sentence"},{"word_id":"v2196","headword":"repeat","story_form":"repeat"},{"word_id":"v1056","headword":"fellow","story_form":"fellow"},{"word_id":"v0263","headword":"belong","story_form":"belong"}]} -->
 
@@ -501,7 +652,7 @@ By the end of the lesson, I feel that I **belong** here.
 
 <a id="c013"></a>
 
-## C013 — 시험 준비
+## C013 · Getting Ready for a Test / 시험 준비
 
 <!-- set-data: {"set_id":"C013","level":"common","targets":[{"word_id":"v2310","headword":"schedule","story_form":"schedule"},{"word_id":"v2032","headword":"prepare","story_form":"prepare"},{"word_id":"v2164","headword":"refer","story_form":"refer"},{"word_id":"v0798","headword":"dictionary","story_form":"dictionary"},{"word_id":"v0744","headword":"define","story_form":"define"},{"word_id":"v2489","headword":"spell","story_form":"spell"},{"word_id":"v2079","headword":"pronounce","story_form":"pronounce"},{"word_id":"v0636","headword":"correct","story_form":"correct"},{"word_id":"v2020","headword":"practice","story_form":"practice"},{"word_id":"v1390","headword":"improve","story_form":"improve"}]} -->
 
@@ -540,7 +691,7 @@ On test day, the words feel much easier.
 
 <a id="c014"></a>
 
-## C014 — 도서관의 단서
+## C014 · Clues in the Library / 도서관의 단서
 
 <!-- set-data: {"set_id":"C014","level":"common","targets":[{"word_id":"v0159","headword":"article","story_form":"article"},{"word_id":"v1612","headword":"magazine","story_form":"magazine"},{"word_id":"v2733","headword":"title","story_form":"title"},{"word_id":"v2683","headword":"text","story_form":"text"},{"word_id":"v2573","headword":"subject","story_form":"subject"},{"word_id":"v1894","headword":"paragraph","story_form":"paragraph"},{"word_id":"v2124","headword":"quote","story_form":"quote"},{"word_id":"v0629","headword":"copy","story_form":"copy"},{"word_id":"v2475","headword":"source","story_form":"source"},{"word_id":"v2199","headword":"report","story_form":"report"}]} -->
 
@@ -579,7 +730,7 @@ I cannot wait to show mine to my family.
 
 <a id="c015"></a>
 
-## C015 — 과학 실험
+## C015 · A Science Experiment / 과학 실험
 
 <!-- set-data: {"set_id":"C015","level":"common","targets":[{"word_id":"v1515","headword":"laboratory","story_form":"laboratory"},{"word_id":"v0996","headword":"experiment","story_form":"experiment"},{"word_id":"v1652","headword":"measure","story_form":"measure"},{"word_id":"v2663","headword":"temperature","story_form":"temperature"},{"word_id":"v1816","headword":"observe","story_form":"observe"},{"word_id":"v2158","headword":"record","story_form":"record"},{"word_id":"v2224","headword":"result","story_form":"result"},{"word_id":"v0999","headword":"explain","story_form":"explain"},{"word_id":"v0896","headword":"effect","story_form":"effect"},{"word_id":"v0746","headword":"degree","story_form":"degree"}]} -->
 
@@ -618,7 +769,7 @@ We draw a picture to show the **result**.
 
 <a id="c016"></a>
 
-## C016 — 학급 발표
+## C016 · Speaking to the Class / 학급 발표
 
 <!-- set-data: {"set_id":"C016","level":"common","targets":[{"word_id":"v2749","headword":"topic","story_form":"topic"},{"word_id":"v2487","headword":"speech","story_form":"speech"},{"word_id":"v0191","headword":"audience","story_form":"audience"},{"word_id":"v0186","headword":"attention","story_form":"attention"},{"word_id":"v1005","headword":"express","story_form":"express"},{"word_id":"v1842","headword":"opinion","story_form":"opinion"},{"word_id":"v0922","headword":"emphasize","story_form":"emphasize"},{"word_id":"v1918","headword":"pause","story_form":"pause"},{"word_id":"v0003","headword":"able","story_form":"able"},{"word_id":"v0341","headword":"breath","story_form":"breath"}]} -->
 
@@ -657,7 +808,7 @@ When I finish, my friends cheer and ask questions.
 
 <a id="c017"></a>
 
-## C017 — 함께 푸는 수학 문제
+## C017 · Solving a Math Problem Together / 함께 푸는 수학 문제
 
 <!-- set-data: {"set_id":"C017","level":"common","targets":[{"word_id":"v0385","headword":"calculate","story_form":"calculate"},{"word_id":"v2594","headword":"sum","story_form":"sum"},{"word_id":"v0836","headword":"divide","story_form":"divide"},{"word_id":"v0946","headword":"equal","story_form":"equal"},{"word_id":"v2115","headword":"quarter","story_form":"quarter"},{"word_id":"v1270","headword":"half","story_form":"half"},{"word_id":"v1069","headword":"figure","story_form":"figure"},{"word_id":"v0973","headword":"exact","story_form":"exact"},{"word_id":"v2461","headword":"solve","story_form":"solve"},{"word_id":"v1677","headword":"method","story_form":"method"}]} -->
 
@@ -696,7 +847,7 @@ Our teacher likes the **method** we use to **solve** the problem.
 
 <a id="c018"></a>
 
-## C018 — 학교 연극
+## C018 · The School Play / 학교 연극
 
 <!-- set-data: {"set_id":"C018","level":"common","targets":[{"word_id":"v0860","headword":"drama","story_form":"drama"},{"word_id":"v2513","headword":"stage","story_form":"stage"},{"word_id":"v2260","headword":"role","story_form":"role"},{"word_id":"v0446","headword":"character","story_form":"character"},{"word_id":"v1637","headword":"mask","story_form":"mask"},{"word_id":"v2040","headword":"pretend","story_form":"pretend"},{"word_id":"v1935","headword":"perform","story_form":"perform"},{"word_id":"v0939","headword":"entertain","story_form":"entertain"},{"word_id":"v0680","headword":"crowd","story_form":"crowd"},{"word_id":"v2421","headword":"skill","story_form":"skill"}]} -->
 
@@ -735,7 +886,7 @@ When the king finds his crown in a shoe, the children laugh.
 
 <a id="c019"></a>
 
-## C019 — 밴드의 첫 공연
+## C019 · Our Band's First Concert / 밴드의 첫 공연
 
 <!-- set-data: {"set_id":"C019","level":"common","targets":[{"word_id":"v0220","headword":"band","story_form":"band"},{"word_id":"v1437","headword":"instrument","story_form":"instrument"},{"word_id":"v2802","headword":"tune","story_form":"tune"},{"word_id":"v0246","headword":"beat","story_form":"beat"},{"word_id":"v0570","headword":"concert","story_form":"concert"},{"word_id":"v1602","headword":"loud","story_form":"loud"},{"word_id":"v2892","headword":"volume","story_form":"volume"},{"word_id":"v2742","headword":"tone","story_form":"tone"},{"word_id":"v0457","headword":"cheer","story_form":"cheer"},{"word_id":"v1487","headword":"joy","story_form":"joy"}]} -->
 
@@ -774,7 +925,7 @@ Our families **cheer** at the end, and we go home full of **joy**.
 
 <a id="c020"></a>
 
-## C020 — 미술 전시 준비
+## C020 · Getting Ready for an Art Show / 미술 전시 준비
 
 <!-- set-data: {"set_id":"C020","level":"common","targets":[{"word_id":"v0823","headword":"display","story_form":"display"},{"word_id":"v1143","headword":"frame","story_form":"frame"},{"word_id":"v1948","headword":"photograph","story_form":"photograph"},{"word_id":"v1917","headword":"pattern","story_form":"pattern"},{"word_id":"v2369","headword":"shape","story_form":"shape"},{"word_id":"v2107","headword":"purple","story_form":"purple"},{"word_id":"v2403","headword":"silver","story_form":"silver"},{"word_id":"v1513","headword":"label","story_form":"label"},{"word_id":"v0668","headword":"create","story_form":"create"},{"word_id":"v0045","headword":"admire","story_form":"admire"}]} -->
 
@@ -813,7 +964,7 @@ By noon, our little show is ready.
 
 <a id="c021"></a>
 
-## C021 — 운동회의 결승전
+## C021 · The Final Match / 운동회의 결승전
 
 <!-- set-data: {"set_id":"C021","level":"common","targets":[{"word_id":"v0511","headword":"coach","story_form":"coach"},{"word_id":"v1542","headword":"league","story_form":"league"},{"word_id":"v0441","headword":"champion","story_form":"champion"},{"word_id":"v1640","headword":"match","story_form":"match"},{"word_id":"v1074","headword":"final","story_form":"final"},{"word_id":"v0605","headword":"contest","story_form":"contest"},{"word_id":"v2060","headword":"prize","story_form":"prize"},{"word_id":"v0898","headword":"effort","story_form":"effort"},{"word_id":"v2090","headword":"proud","story_form":"proud"},{"word_id":"v0031","headword":"achieve","story_form":"achieve"}]} -->
 
@@ -850,7 +1001,7 @@ We do not win, but our families are **proud** of us.
 
 <a id="c022"></a>
 
-## C022 — 달리기 연습
+## C022 · Learning to Run / 달리기 연습
 
 <!-- set-data: {"set_id":"C022","level":"common","targets":[{"word_id":"v1740","headword":"muscle","story_form":"muscle"},{"word_id":"v2559","headword":"stretch","story_form":"stretch"},{"word_id":"v0342","headword":"breathe","story_form":"breathe"},{"word_id":"v2529","headword":"steady","story_form":"steady"},{"word_id":"v2140","headword":"rate","story_form":"rate"},{"word_id":"v1950","headword":"physical","story_form":"physical"},{"word_id":"v1297","headword":"health","story_form":"health"},{"word_id":"v1085","headword":"fit","story_form":"fit"},{"word_id":"v2218","headword":"rest","story_form":"rest"},{"word_id":"v1175","headword":"gain","story_form":"gain"}]} -->
 
@@ -887,7 +1038,7 @@ This **physical** activity helps me **gain** strength, but I also need **rest**.
 
 <a id="c023"></a>
 
-## C023 — 수영장에서
+## C023 · At the Swimming Pool / 수영장에서
 
 <!-- set-data: {"set_id":"C023","level":"common","targets":[{"word_id":"v1999","headword":"pool","story_form":"pool"},{"word_id":"v0834","headword":"dive","story_form":"dive"},{"word_id":"v1099","headword":"float","story_form":"float"},{"word_id":"v2412","headword":"sink","story_form":"sink"},{"word_id":"v0893","headword":"edge","story_form":"edge"},{"word_id":"v1773","headword":"net","story_form":"net"},{"word_id":"v1436","headword":"instruct","story_form":"instruct"},{"word_id":"v1112","headword":"follow","story_form":"follow"},{"word_id":"v2278","headword":"rule","story_form":"rule"},{"word_id":"v0199","headword":"avoid","story_form":"avoid"}]} -->
 
@@ -924,7 +1075,7 @@ When my toy begins to **sink**, the teacher uses a **net** to get it.
 
 <a id="c024"></a>
 
-## C024 — 자전거 수리
+## C024 · Fixing My Bike / 자전거 수리
 
 <!-- set-data: {"set_id":"C024","level":"common","targets":[{"word_id":"v0333","headword":"brake","story_form":"brake"},{"word_id":"v2937","headword":"wheel","story_form":"wheel"},{"word_id":"v1188","headword":"gear","story_form":"gear"},{"word_id":"v0436","headword":"chain","story_form":"chain"},{"word_id":"v1598","headword":"loose","story_form":"loose"},{"word_id":"v2724","headword":"tight","story_form":"tight"},{"word_id":"v2746","headword":"tool","story_form":"tool"},{"word_id":"v2195","headword":"repair","story_form":"repair"},{"word_id":"v2493","headword":"spin","story_form":"spin"},{"word_id":"v2243","headword":"ride","story_form":"ride"}]} -->
 
@@ -961,7 +1112,7 @@ The bike works again, so we go for a short trip together.
 
 <a id="c025"></a>
 
-## C025 — 길에서 일어난 사고
+## C025 · An Accident on the Road / 길에서 일어난 사고
 
 <!-- set-data: {"set_id":"C025","level":"common","targets":[{"word_id":"v0021","headword":"accident","story_form":"accident"},{"word_id":"v0663","headword":"crash","story_form":"crash"},{"word_id":"v1417","headword":"injure","story_form":"injure"},{"word_id":"v2871","headword":"victim","story_form":"victim"},{"word_id":"v0109","headword":"ambulance","story_form":"ambulance"},{"word_id":"v1379","headword":"immediate","story_form":"immediate"},{"word_id":"v0076","headword":"aid","story_form":"aid"},{"word_id":"v2983","headword":"wound","story_form":"wound"},{"word_id":"v0589","headword":"conscious","story_form":"conscious"},{"word_id":"v2159","headword":"recover","story_form":"recover"}]} -->
 
@@ -1000,7 +1151,7 @@ Later, we hear that he will **recover**.
 
 <a id="c026"></a>
 
-## C026 — 몸이 아픈 아침
+## C026 · Feeling Sick in the Morning / 몸이 아픈 아침
 
 <!-- set-data: {"set_id":"C026","level":"common","targets":[{"word_id":"v1373","headword":"ill","story_form":"ill"},{"word_id":"v1062","headword":"fever","story_form":"fever"},{"word_id":"v0644","headword":"cough","story_form":"cough"},{"word_id":"v2468","headword":"sore","story_form":"sore"},{"word_id":"v2714","headword":"throat","story_form":"throat"},{"word_id":"v1659","headword":"medicine","story_form":"medicine"},{"word_id":"v1658","headword":"medical","story_form":"medical"},{"word_id":"v0691","headword":"cure","story_form":"cure"},{"word_id":"v2587","headword":"suffer","story_form":"suffer"},{"word_id":"v2352","headword":"serious","story_form":"serious"}]} -->
 
@@ -1037,7 +1188,7 @@ The doctor says I will not **suffer** for long and gives me some **medicine**.
 
 <a id="c027"></a>
 
-## C027 — 치과에 가는 날
+## C027 · A Visit to the Dentist / 치과에 가는 날
 
 <!-- set-data: {"set_id":"C027","level":"common","targets":[{"word_id":"v0761","headword":"dentist","story_form":"dentist"},{"word_id":"v1882","headword":"pain","story_form":"pain"},{"word_id":"v1478","headword":"jaw","story_form":"jaw"},{"word_id":"v0456","headword":"cheek","story_form":"cheek"},{"word_id":"v0288","headword":"bite","story_form":"bite"},{"word_id":"v0462","headword":"chew","story_form":"chew"},{"word_id":"v0975","headword":"examine","story_form":"examine"},{"word_id":"v2043","headword":"prevent","story_form":"prevent"},{"word_id":"v2430","headword":"slight","story_form":"slight"},{"word_id":"v1360","headword":"hurt","story_form":"hurt"}]} -->
 
@@ -1074,7 +1225,7 @@ After helping me, she explains how to **prevent** the same problem.
 
 <a id="c028"></a>
 
-## C028 — 새 옷 고르기
+## C028 · Choosing New Clothes / 새 옷 고르기
 
 <!-- set-data: {"set_id":"C028","level":"common","targets":[{"word_id":"v1479","headword":"jeans","story_form":"jeans"},{"word_id":"v2621","headword":"sweater","story_form":"sweater"},{"word_id":"v2307","headword":"scarf","story_form":"scarf"},{"word_id":"v0643","headword":"cotton","story_form":"cotton"},{"word_id":"v2975","headword":"wool","story_form":"wool"},{"word_id":"v1041","headword":"fashion","story_form":"fashion"},{"word_id":"v0335","headword":"brand","story_form":"brand"},{"word_id":"v1884","headword":"pair","story_form":"pair"},{"word_id":"v2592","headword":"suit","story_form":"suit"},{"word_id":"v1035","headword":"fancy","story_form":"fancy"}]} -->
 
@@ -1111,7 +1262,7 @@ I choose simple clothes that **suit** me, and we both leave happy.
 
 <a id="c029"></a>
 
-## C029 — 방 정리
+## C029 · Cleaning the Room / 방 정리
 
 <!-- set-data: {"set_id":"C029","level":"common","targets":[{"word_id":"v2376","headword":"shelf","story_form":"shelf"},{"word_id":"v1959","headword":"pile","story_form":"pile"},{"word_id":"v2470","headword":"sort","story_form":"sort"},{"word_id":"v1110","headword":"fold","story_form":"fold"},{"word_id":"v0879","headword":"dust","story_form":"dust"},{"word_id":"v2962","headword":"wipe","story_form":"wipe"},{"word_id":"v2622","headword":"sweep","story_form":"sweep"},{"word_id":"v1760","headword":"neat","story_form":"neat"},{"word_id":"v1170","headword":"furniture","story_form":"furniture"},{"word_id":"v1587","headword":"livingroom","story_form":"living room"}]} -->
 
@@ -1150,7 +1301,7 @@ Soon the room is **neat**, and we can sit down together.
 
 <a id="c030"></a>
 
-## C030 — 작은 책장 만들기
+## C030 · Building a Small Bookshelf / 작은 책장 만들기
 
 <!-- set-data: {"set_id":"C030","level":"common","targets":[{"word_id":"v1812","headword":"oak","story_form":"oak"},{"word_id":"v1748","headword":"nail","story_form":"nail"},{"word_id":"v1676","headword":"metal","story_form":"metal"},{"word_id":"v2533","headword":"steel","story_form":"steel"},{"word_id":"v0281","headword":"bind","story_form":"bind"},{"word_id":"v1216","headword":"glue","story_form":"glue"},{"word_id":"v0182","headword":"attach","story_form":"attach"},{"word_id":"v2567","headword":"structure","story_form":"structure"},{"word_id":"v2460","headword":"solid","story_form":"solid"},{"word_id":"v2562","headword":"string","story_form":"string"}]} -->
 
@@ -1187,7 +1338,7 @@ The finished **structure** feels **solid** and has room for all my books.
 
 <a id="c031"></a>
 
-## C031 — 휴대 전화가 꺼졌다
+## C031 · My Phone Runs Out of Power / 휴대 전화가 꺼졌다
 
 <!-- set-data: {"set_id":"C031","level":"common","targets":[{"word_id":"v0236","headword":"battery","story_form":"battery"},{"word_id":"v0382","headword":"cable","story_form":"cable"},{"word_id":"v0587","headword":"connect","story_form":"connect"},{"word_id":"v0904","headword":"electric","story_form":"electric"},{"word_id":"v2604","headword":"supply","story_form":"supply"},{"word_id":"v2628","headword":"switch","story_form":"switch"},{"word_id":"v2321","headword":"screen","story_form":"screen"},{"word_id":"v0496","headword":"click","story_form":"click"},{"word_id":"v1675","headword":"message","story_form":"message"},{"word_id":"v0600","headword":"contact","story_form":"contact"}]} -->
 
@@ -1224,7 +1375,7 @@ I **click** on Mom’s name and tell her I am on my way home.
 
 <a id="c032"></a>
 
-## C032 — 학교 컴퓨터 수업
+## C032 · Computer Class at School / 학교 컴퓨터 수업
 
 <!-- set-data: {"set_id":"C032","level":"common","targets":[{"word_id":"v0515","headword":"code","story_form":"code"},{"word_id":"v2633","headword":"system","story_form":"system"},{"word_id":"v0535","headword":"command","story_form":"command"},{"word_id":"v1164","headword":"function","story_form":"function"},{"word_id":"v0195","headword":"automatic","story_form":"automatic"},{"word_id":"v2064","headword":"process","story_form":"process"},{"word_id":"v1047","headword":"fault","story_form":"fault"},{"word_id":"v0787","headword":"detect","story_form":"detect"},{"word_id":"v0184","headword":"attempt","story_form":"attempt"},{"word_id":"v0997","headword":"expert","story_form":"expert"}]} -->
 
@@ -1261,7 +1412,7 @@ A computer **expert** helps me **detect** it, and the names appear in the right 
 
 <a id="c033"></a>
 
-## C033 — 동물 보호소
+## C033 · At the Animal Shelter / 동물 보호소
 
 <!-- set-data: {"set_id":"C033","level":"common","targets":[{"word_id":"v1944","headword":"pet","story_form":"pet"},{"word_id":"v0048","headword":"adopt","story_form":"adopt"},{"word_id":"v0383","headword":"cage","story_form":"cage"},{"word_id":"v1054","headword":"feed","story_form":"feed"},{"word_id":"v1168","headword":"fur","story_form":"fur"},{"word_id":"v0227","headword":"bark","story_form":"bark"},{"word_id":"v0705","headword":"cute","story_form":"cute"},{"word_id":"v2893","headword":"volunteer","story_form":"volunteer"},{"word_id":"v2217","headword":"responsible","story_form":"responsible"},{"word_id":"v2781","headword":"treat","story_form":"treat"}]} -->
 
@@ -1300,7 +1451,7 @@ I talk with my family before we decide.
 
 <a id="c034"></a>
 
-## C034 — 동물원 관찰
+## C034 · Watching Animals at the Zoo / 동물원 관찰
 
 <!-- set-data: {"set_id":"C034","level":"common","targets":[{"word_id":"v1205","headword":"giraffe","story_form":"giraffe"},{"word_id":"v2997","headword":"zebra","story_form":"zebra"},{"word_id":"v0844","headword":"dolphin","story_form":"dolphin"},{"word_id":"v2934","headword":"whale","story_form":"whale"},{"word_id":"v2954","headword":"wild","story_form":"wild"},{"word_id":"v2483","headword":"species","story_form":"species"},{"word_id":"v1756","headword":"native","story_form":"native"},{"word_id":"v1823","headword":"ocean","story_form":"ocean"},{"word_id":"v1203","headword":"giant","story_form":"giant"},{"word_id":"v2138","headword":"rare","story_form":"rare"}]} -->
 
@@ -1339,7 +1490,7 @@ I want to learn how to help them.
 
 <a id="c035"></a>
 
-## C035 — 숲속의 작은 생명
+## C035 · Small Creatures in the Forest / 숲속의 작은 생명
 
 <!-- set-data: {"set_id":"C035","level":"common","targets":[{"word_id":"v0128","headword":"ant","story_form":"ant"},{"word_id":"v0359","headword":"bug","story_form":"bug"},{"word_id":"v1152","headword":"frog","story_form":"frog"},{"word_id":"v2443","headword":"snake","story_form":"snake"},{"word_id":"v1772","headword":"nest","story_form":"nest"},{"word_id":"v0334","headword":"branch","story_form":"branch"},{"word_id":"v1964","headword":"pine","story_form":"pine"},{"word_id":"v0372","headword":"bush","story_form":"bush"},{"word_id":"v0664","headword":"crawl","story_form":"crawl"},{"word_id":"v1316","headword":"hide","story_form":"hide"}]} -->
 
@@ -1376,7 +1527,7 @@ I **hide** behind a tree and watch quietly so I do not scare them.
 
 <a id="c036"></a>
 
-## C036 — 농장에서 보낸 하루
+## C036 · A Day on the Farm / 농장에서 보낸 하루
 
 <!-- set-data: {"set_id":"C036","level":"common","targets":[{"word_id":"v1520","headword":"lamb","story_form":"lamb"},{"word_id":"v2374","headword":"sheep","story_form":"sheep"},{"word_id":"v1058","headword":"fence","story_form":"fence"},{"word_id":"v1536","headword":"lawn","story_form":"lawn"},{"word_id":"v0651","headword":"countryside","story_form":"countryside"},{"word_id":"v2510","headword":"stable","story_form":"stable"},{"word_id":"v0411","headword":"cart","story_form":"cart"},{"word_id":"v1588","headword":"load","story_form":"load"},{"word_id":"v2261","headword":"roll","story_form":"roll"},{"word_id":"v2099","headword":"pull","story_form":"pull"}]} -->
 
@@ -1413,7 +1564,7 @@ Then we fix the **fence** so the animals can stay safely inside.
 
 <a id="c037"></a>
 
-## C037 — 해변 청소
+## C037 · Cleaning the Beach / 해변 청소
 
 <!-- set-data: {"set_id":"C037","level":"common","targets":[{"word_id":"v1997","headword":"pollute","story_form":"pollute"},{"word_id":"v2908","headword":"waste","story_form":"waste"},{"word_id":"v0280","headword":"bin","story_form":"bin"},{"word_id":"v2984","headword":"wrap","story_form":"wrap"},{"word_id":"v2193","headword":"remove","story_form":"remove"},{"word_id":"v1186","headword":"gather","story_form":"gather"},{"word_id":"v1284","headword":"harm","story_form":"harm"},{"word_id":"v0706","headword":"cycle","story_form":"cycle"},{"word_id":"v2163","headword":"reduce","story_form":"reduce"},{"word_id":"v2214","headword":"resource","story_form":"resource"}]} -->
 
@@ -1452,7 +1603,7 @@ At home, we try to **reduce** the rubbish we make.
 
 <a id="c038"></a>
 
-## C038 — 산길에서
+## C038 · On a Mountain Path / 산길에서
 
 <!-- set-data: {"set_id":"C038","level":"common","targets":[{"word_id":"v0498","headword":"cliff","story_form":"cliff"},{"word_id":"v2851","headword":"valley","story_form":"valley"},{"word_id":"v1753","headword":"narrow","story_form":"narrow"},{"word_id":"v1915","headword":"path","story_form":"path"},{"word_id":"v2269","headword":"rough","story_form":"rough"},{"word_id":"v1730","headword":"mount","story_form":"mount"},{"word_id":"v1545","headword":"leap","story_form":"leap"},{"word_id":"v2432","headword":"slip","story_form":"slip"},{"word_id":"v2266","headword":"rope","story_form":"rope"},{"word_id":"v0215","headword":"balance","story_form":"balance"}]} -->
 
@@ -1491,7 +1642,7 @@ We slowly **mount** the last few steps and stop to look at the view.
 
 <a id="c039"></a>
 
-## C039 — 보트를 타고
+## C039 · A Boat Trip / 보트를 타고
 
 <!-- set-data: {"set_id":"C039","level":"common","targets":[{"word_id":"v2288","headword":"sail","story_form":"sail"},{"word_id":"v0402","headword":"captain","story_form":"captain"},{"word_id":"v0732","headword":"deck","story_form":"deck"},{"word_id":"v2005","headword":"port","story_form":"port"},{"word_id":"v0238","headword":"bay","story_form":"bay"},{"word_id":"v1469","headword":"island","story_form":"island"},{"word_id":"v2721","headword":"tide","story_form":"tide"},{"word_id":"v0695","headword":"current","story_form":"current"},{"word_id":"v2905","headword":"warn","story_form":"warn"},{"word_id":"v1109","headword":"fog","story_form":"fog"}]} -->
 
@@ -1528,7 +1679,7 @@ When **fog** appears, he comes to **warn** us, and we turn back before it gets t
 
 <a id="c040"></a>
 
-## C040 — 박물관의 옛 왕국
+## C040 · An Old Kingdom at the Museum / 박물관의 옛 왕국
 
 <!-- set-data: {"set_id":"C040","level":"common","targets":[{"word_id":"v1741","headword":"museum","story_form":"museum"},{"word_id":"v0433","headword":"century","story_form":"century"},{"word_id":"v0923","headword":"empire","story_form":"empire"},{"word_id":"v2274","headword":"royal","story_form":"royal"},{"word_id":"v0681","headword":"crown","story_form":"crown"},{"word_id":"v1885","headword":"palace","story_form":"palace"},{"word_id":"v0416","headword":"castle","story_form":"castle"},{"word_id":"v1213","headword":"glory","story_form":"glory"},{"word_id":"v1232","headword":"grand","story_form":"grand"},{"word_id":"v1911","headword":"past","story_form":"past"}]} -->
 
@@ -1565,7 +1716,7 @@ It tells of the **empire**’s **glory**, but also of the hard lives of its peop
 
 <a id="c041"></a>
 
-## C041 — 새 아르바이트
+## C041 · A New Part-Time Job / 새 아르바이트
 
 <!-- set-data: {"set_id":"C041","level":"common","targets":[{"word_id":"v0407","headword":"career","story_form":"career"},{"word_id":"v0140","headword":"apply","story_form":"apply"},{"word_id":"v1324","headword":"hire","story_form":"hire"},{"word_id":"v0321","headword":"boss","story_form":"boss"},{"word_id":"v2290","headword":"salary","story_form":"salary"},{"word_id":"v0887","headword":"earn","story_form":"earn"},{"word_id":"v0880","headword":"duty","story_form":"duty"},{"word_id":"v0924","headword":"employ","story_form":"employ"},{"word_id":"v0141","headword":"appoint","story_form":"appoint"},{"word_id":"v0995","headword":"experience","story_form":"experience"}]} -->
 
@@ -1604,7 +1755,7 @@ I am excited to begin.
 
 <a id="c042"></a>
 
-## C042 — 가게를 여는 두 친구
+## C042 · Two Friends Open a Shop / 가게를 여는 두 친구
 
 <!-- set-data: {"set_id":"C042","level":"common","targets":[{"word_id":"v0537","headword":"commerce","story_form":"commerce"},{"word_id":"v1082","headword":"firm","story_form":"firm"},{"word_id":"v0401","headword":"capital","story_form":"capital"},{"word_id":"v1462","headword":"invest","story_form":"invest"},{"word_id":"v2069","headword":"profit","story_form":"profit"},{"word_id":"v0994","headword":"expense","story_form":"expense"},{"word_id":"v1075","headword":"finance","story_form":"finance"},{"word_id":"v0061","headword":"afford","story_form":"afford"},{"word_id":"v2249","headword":"risk","story_form":"risk"},{"word_id":"v0724","headword":"deal","story_form":"deal"}]} -->
 
@@ -1643,7 +1794,7 @@ After a month, they make a small **profit**.
 
 <a id="c043"></a>
 
-## C043 — 은행에서의 약속
+## C043 · A Promise at the Bank / 은행에서의 약속
 
 <!-- set-data: {"set_id":"C043","level":"common","targets":[{"word_id":"v0026","headword":"account","story_form":"account"},{"word_id":"v1589","headword":"loan","story_form":"loan"},{"word_id":"v0727","headword":"debt","story_form":"debt"},{"word_id":"v1446","headword":"interest","story_form":"interest"},{"word_id":"v0670","headword":"credit","story_form":"credit"},{"word_id":"v0841","headword":"document","story_form":"document"},{"word_id":"v1559","headword":"lend","story_form":"lend"},{"word_id":"v0609","headword":"contract","story_form":"contract"},{"word_id":"v0875","headword":"due","story_form":"due"},{"word_id":"v2400","headword":"sign","story_form":"sign"}]} -->
 
@@ -1682,7 +1833,7 @@ She asks for a **document** with all the details.
 
 <a id="c044"></a>
 
-## C044 — 공장 견학
+## C044 · A Visit to a Factory / 공장 견학
 
 <!-- set-data: {"set_id":"C044","level":"common","targets":[{"word_id":"v1022","headword":"factory","story_form":"factory"},{"word_id":"v1627","headword":"manufacture","story_form":"manufacture"},{"word_id":"v2065","headword":"produce","story_form":"produce"},{"word_id":"v1610","headword":"machine","story_form":"machine"},{"word_id":"v0932","headword":"engine","story_form":"engine"},{"word_id":"v1729","headword":"motor","story_form":"motor"},{"word_id":"v1404","headword":"industry","story_form":"industry"},{"word_id":"v2113","headword":"quality","story_form":"quality"},{"word_id":"v1428","headword":"inspect","story_form":"inspect"},{"word_id":"v2518","headword":"standard","story_form":"standard"}]} -->
 
@@ -1719,7 +1870,7 @@ Our guide explains how this **industry** gives jobs to many people.
 
 <a id="c045"></a>
 
-## C045 — 마을 회의
+## C045 · A Town Meeting / 마을 회의
 
 <!-- set-data: {"set_id":"C045","level":"common","targets":[{"word_id":"v0646","headword":"council","story_form":"council"},{"word_id":"v0539","headword":"committee","story_form":"committee"},{"word_id":"v0438","headword":"chairman","story_form":"chairman"},{"word_id":"v0483","headword":"citizen","story_form":"citizen"},{"word_id":"v2097","headword":"public","story_form":"public"},{"word_id":"v2084","headword":"propose","story_form":"propose"},{"word_id":"v0726","headword":"debate","story_form":"debate"},{"word_id":"v2894","headword":"vote","story_form":"vote"},{"word_id":"v1992","headword":"policy","story_form":"policy"},{"word_id":"v0544","headword":"community","story_form":"community"}]} -->
 
@@ -1756,7 +1907,7 @@ At the end, we **vote** to support a **policy** that keeps part of the land gree
 
 <a id="c046"></a>
 
-## C046 — 학교 회장 선거
+## C046 · The School Election / 학교 회장 선거
 
 <!-- set-data: {"set_id":"C046","level":"common","targets":[{"word_id":"v0903","headword":"elect","story_form":"elect"},{"word_id":"v0464","headword":"chief","story_form":"chief"},{"word_id":"v2200","headword":"represent","story_form":"represent"},{"word_id":"v0486","headword":"claim","story_form":"claim"},{"word_id":"v0137","headword":"appeal","story_form":"appeal"},{"word_id":"v2605","headword":"support","story_form":"support"},{"word_id":"v1844","headword":"oppose","story_form":"oppose"},{"word_id":"v1027","headword":"fair","story_form":"fair"},{"word_id":"v1336","headword":"honor","story_form":"honor"},{"word_id":"v1540","headword":"lead","story_form":"lead"}]} -->
 
@@ -1793,7 +1944,7 @@ The winner says it is an **honor** to work for everyone.
 
 <a id="c047"></a>
 
-## C047 — 사라진 자전거
+## C047 · The Missing Bike / 사라진 자전거
 
 <!-- set-data: {"set_id":"C047","level":"common","targets":[{"word_id":"v0673","headword":"crime","story_form":"crime"},{"word_id":"v2698","headword":"thief","story_form":"thief"},{"word_id":"v2531","headword":"steal","story_form":"steal"},{"word_id":"v1830","headword":"officer","story_form":"officer"},{"word_id":"v1463","headword":"investigate","story_form":"investigate"},{"word_id":"v0968","headword":"evidence","story_form":"evidence"},{"word_id":"v2615","headword":"suspect","story_form":"suspect"},{"word_id":"v1419","headword":"innocent","story_form":"innocent"},{"word_id":"v0029","headword":"accuse","story_form":"accuse"},{"word_id":"v2799","headword":"truth","story_form":"truth"}]} -->
 
@@ -1832,7 +1983,7 @@ The **officer** finds a video, and we finally learn the **truth**.
 
 <a id="c048"></a>
 
-## C048 — 법정 견학
+## C048 · A Visit to a Courtroom / 법정 견학
 
 <!-- set-data: {"set_id":"C048","level":"common","targets":[{"word_id":"v1494","headword":"justice","story_form":"justice"},{"word_id":"v1488","headword":"judge","story_form":"judge"},{"word_id":"v1537","headword":"lawyer","story_form":"lawyer"},{"word_id":"v1535","headword":"law","story_form":"law"},{"word_id":"v1553","headword":"legal","story_form":"legal"},{"word_id":"v0155","headword":"arrest","story_form":"arrest"},{"word_id":"v2056","headword":"prison","story_form":"prison"},{"word_id":"v2102","headword":"punish","story_form":"punish"},{"word_id":"v1260","headword":"guilt","story_form":"guilt"},{"word_id":"v0046","headword":"admit","story_form":"admit"}]} -->
 
@@ -1869,7 +2020,7 @@ The **judge** explains that the **law** must protect **justice**, not simply **p
 
 <a id="c049"></a>
 
-## C049 — 친구와 다툰 뒤
+## C049 · After an Argument with a Friend / 친구와 다툰 뒤
 
 <!-- set-data: {"set_id":"C049","level":"common","targets":[{"word_id":"v0149","headword":"argue","story_form":"argue"},{"word_id":"v0119","headword":"anger","story_form":"anger"},{"word_id":"v0291","headword":"blame","story_form":"blame"},{"word_id":"v2276","headword":"rude","story_form":"rude"},{"word_id":"v2368","headword":"shame","story_form":"shame"},{"word_id":"v1127","headword":"forgive","story_form":"forgive"},{"word_id":"v0019","headword":"accept","story_form":"accept"},{"word_id":"v0984","headword":"excuse","story_form":"excuse"},{"word_id":"v0312","headword":"bond","story_form":"bond"},{"word_id":"v2798","headword":"trust","story_form":"trust"}]} -->
 
@@ -1908,7 +2059,7 @@ We know our **bond** matters, but we will need time to build **trust** again.
 
 <a id="c050"></a>
 
-## C050 — 힘든 친구 곁에서
+## C050 · Being There for a Friend / 힘든 친구 곁에서
 
 <!-- set-data: {"set_id":"C050","level":"common","targets":[{"word_id":"v0920","headword":"emotion","story_form":"emotion"},{"word_id":"v1720","headword":"mood","story_form":"mood"},{"word_id":"v0767","headword":"depress","story_form":"depress"},{"word_id":"v0813","headword":"disappoint","story_form":"disappoint"},{"word_id":"v1667","headword":"mental","story_form":"mental"},{"word_id":"v0628","headword":"cope","story_form":"cope"},{"word_id":"v2186","headword":"rely","story_form":"rely"},{"word_id":"v1352","headword":"hug","story_form":"hug"},{"word_id":"v2370","headword":"share","story_form":"share"},{"word_id":"v0569","headword":"concern","story_form":"concern"}]} -->
 
@@ -1947,7 +2098,7 @@ We also talk to a teacher about getting **mental** health support.
 
 <a id="c051"></a>
 
-## C051 — 동생의 생일 준비
+## C051 · Getting Ready for a Birthday / 동생의 생일 준비
 
 <!-- set-data: {"set_id":"C051","level":"common","targets":[{"word_id":"v0154","headword":"arrange","story_form":"arrange"},{"word_id":"v0735","headword":"decorate","story_form":"decorate"},{"word_id":"v0217","headword":"balloon","story_form":"balloon"},{"word_id":"v1204","headword":"gift","story_form":"gift"},{"word_id":"v2610","headword":"surprise","story_form":"surprise"},{"word_id":"v0753","headword":"delight","story_form":"delight"},{"word_id":"v0365","headword":"bunch","story_form":"bunch"},{"word_id":"v0328","headword":"bow","story_form":"bow"},{"word_id":"v1820","headword":"occasion","story_form":"occasion"},{"word_id":"v0125","headword":"annual","story_form":"annual"}]} -->
 
@@ -1984,7 +2135,7 @@ Her face fills with **delight** when she opens the door.
 
 <a id="c052"></a>
 
-## C052 — 가족의 새 출발
+## C052 · A New Beginning for Our Family / 가족의 새 출발
 
 <!-- set-data: {"set_id":"C052","level":"common","targets":[{"word_id":"v2029","headword":"pregnant","story_form":"pregnant"},{"word_id":"v1057","headword":"female","story_form":"female"},{"word_id":"v1621","headword":"male","story_form":"male"},{"word_id":"v2362","headword":"sex","story_form":"sex"},{"word_id":"v0993","headword":"expect","story_form":"expect"},{"word_id":"v2812","headword":"twin","story_form":"twin"},{"word_id":"v0846","headword":"domestic","story_form":"domestic"},{"word_id":"v0340","headword":"breast","story_form":"breast"},{"word_id":"v0715","headword":"darling","story_form":"darling"},{"word_id":"v0296","headword":"bless","story_form":"bless"}]} -->
 
@@ -2021,7 +2172,7 @@ Our family comes to **bless** the babies and help with **domestic** work.
 
 <a id="c053"></a>
 
-## C053 — 할아버지의 은퇴
+## C053 · Grandpa's Retirement / 할아버지의 은퇴
 
 <!-- set-data: {"set_id":"C053","level":"common","targets":[{"word_id":"v2228","headword":"retire","story_form":"retire"},{"word_id":"v2344","headword":"senior","story_form":"senior"},{"word_id":"v1491","headword":"junior","story_form":"junior"},{"word_id":"v2066","headword":"profession","story_form":"profession"},{"word_id":"v1512","headword":"knowledge","story_form":"knowledge"},{"word_id":"v0055","headword":"advice","story_form":"advice"},{"word_id":"v0056","headword":"advise","story_form":"advise"},{"word_id":"v2215","headword":"respect","story_form":"respect"},{"word_id":"v2964","headword":"wise","story_form":"wise"},{"word_id":"v2852","headword":"value","story_form":"value"}]} -->
 
@@ -2058,7 +2209,7 @@ Everyone thinks these are **wise** words.
 
 <a id="c054"></a>
 
-## C054 — 새 동네로 이사
+## C054 · Moving to a New Neighborhood / 새 동네로 이사
 
 <!-- set-data: {"set_id":"C054","level":"common","targets":[{"word_id":"v1768","headword":"neighbor","story_form":"neighbor"},{"word_id":"v0832","headword":"district","story_form":"district"},{"word_id":"v0652","headword":"county","story_form":"county"},{"word_id":"v2877","headword":"village","story_form":"village"},{"word_id":"v0642","headword":"cottage","story_form":"cottage"},{"word_id":"v2194","headword":"rent","story_form":"rent"},{"word_id":"v1591","headword":"locate","story_form":"locate"},{"word_id":"v1091","headword":"flat","story_form":"flat"},{"word_id":"v1032","headword":"familiar","story_form":"familiar"},{"word_id":"v2357","headword":"settle","story_form":"settle"}]} -->
 
@@ -2097,7 +2248,7 @@ Our old **flat** was smaller, but I still miss it sometimes.
 
 <a id="c055"></a>
 
-## C055 — 모르는 사람에게 온 메일
+## C055 · A Message from a Stranger / 모르는 사람에게 온 메일
 
 <!-- set-data: {"set_id":"C055","level":"common","targets":[{"word_id":"v1369","headword":"identity","story_form":"identity"},{"word_id":"v2058","headword":"private","story_form":"private"},{"word_id":"v2057","headword":"privacy","story_form":"privacy"},{"word_id":"v2330","headword":"secret","story_form":"secret"},{"word_id":"v0020","headword":"access","story_form":"access"},{"word_id":"v2203","headword":"request","story_form":"request"},{"word_id":"v1004","headword":"expose","story_form":"expose"},{"word_id":"v1372","headword":"ignore","story_form":"ignore"},{"word_id":"v0299","headword":"block","story_form":"block"},{"word_id":"v0203","headword":"aware","story_form":"aware"}]} -->
 
@@ -2136,7 +2287,7 @@ Dad reads the **request** and helps me check my settings.
 
 <a id="c056"></a>
 
-## C056 — 학급 신문 편집
+## C056 · Editing the Class Newspaper / 학급 신문 편집
 
 <!-- set-data: {"set_id":"C056","level":"common","targets":[{"word_id":"v0894","headword":"edit","story_form":"edit"},{"word_id":"v0954","headword":"essay","story_form":"essay"},{"word_id":"v0536","headword":"comment","story_form":"comment"},{"word_id":"v0347","headword":"brief","story_form":"brief"},{"word_id":"v0786","headword":"detail","story_form":"detail"},{"word_id":"v0604","headword":"content","story_form":"content"},{"word_id":"v1395","headword":"include","story_form":"include"},{"word_id":"v2340","headword":"select","story_form":"select"},{"word_id":"v2038","headword":"press","story_form":"press"},{"word_id":"v2863","headword":"version","story_form":"version"}]} -->
 
@@ -2173,7 +2324,7 @@ Our paper is small, but working on it teaches us why the **press** must check fa
 
 <a id="c057"></a>
 
-## C057 — 영화관에서
+## C057 · At the Cinema / 영화관에서
 
 <!-- set-data: {"set_id":"C057","level":"common","targets":[{"word_id":"v0478","headword":"cinema","story_form":"cinema"},{"word_id":"v0532","headword":"comedy","story_form":"comedy"},{"word_id":"v2309","headword":"scene","story_form":"scene"},{"word_id":"v0415","headword":"cast","story_form":"cast"},{"word_id":"v1355","headword":"humor","story_form":"humor"},{"word_id":"v1484","headword":"joke","story_form":"joke"},{"word_id":"v0112","headword":"amuse","story_form":"amuse"},{"word_id":"v0319","headword":"bore","story_form":"bore"},{"word_id":"v1532","headword":"laugh","story_form":"laugh"},{"word_id":"v1036","headword":"fantastic","story_form":"fantastic"}]} -->
 
@@ -2210,7 +2361,7 @@ Even the long parts do not **bore** us, and we talk about the film all the way h
 
 <a id="c058"></a>
 
-## C058 — 밤에 들린 소리
+## C058 · A Sound in the Night / 밤에 들린 소리
 
 <!-- set-data: {"set_id":"C058","level":"common","targets":[{"word_id":"v0164","headword":"asleep","story_form":"asleep"},{"word_id":"v0201","headword":"awake","story_form":"awake"},{"word_id":"v0082","headword":"alarm","story_form":"alarm"},{"word_id":"v2586","headword":"sudden","story_form":"sudden"},{"word_id":"v1789","headword":"noise","story_form":"noise"},{"word_id":"v2364","headword":"shadow","story_form":"shadow"},{"word_id":"v1151","headword":"fright","story_form":"fright"},{"word_id":"v2320","headword":"scream","story_form":"scream"},{"word_id":"v1202","headword":"ghost","story_form":"ghost"},{"word_id":"v2148","headword":"real","story_form":"real"}]} -->
 
@@ -2247,7 +2398,7 @@ Then Dad turns on the light: the **real** cause is our cat knocking over a coat 
 
 <a id="c059"></a>
 
-## C059 — 우주 전시관
+## C059 · At the Space Exhibit / 우주 전시관
 
 <!-- set-data: {"set_id":"C059","level":"common","targets":[{"word_id":"v1975","headword":"planet","story_form":"planet"},{"word_id":"v2258","headword":"rocket","story_form":"rocket"},{"word_id":"v1701","headword":"mission","story_form":"mission"},{"word_id":"v2884","headword":"vision","story_form":"vision"},{"word_id":"v1486","headword":"journey","story_form":"journey"},{"word_id":"v1353","headword":"huge","story_form":"huge"},{"word_id":"v2657","headword":"technology","story_form":"technology"},{"word_id":"v1120","headword":"force","story_form":"force"},{"word_id":"v2608","headword":"surface","story_form":"surface"},{"word_id":"v2270","headword":"round","story_form":"round"}]} -->
 
@@ -2286,7 +2437,7 @@ New **technology** may help turn this **vision** of the future into real life.
 
 <a id="c060"></a>
 
-## C060 — 날씨 연구
+## C060 · Studying the Weather / 날씨 연구
 
 <!-- set-data: {"set_id":"C060","level":"common","targets":[{"word_id":"v0499","headword":"climate","story_form":"climate"},{"word_id":"v0180","headword":"atmosphere","story_form":"atmosphere"},{"word_id":"v0198","headword":"average","story_form":"average"},{"word_id":"v1013","headword":"extreme","story_form":"extreme"},{"word_id":"v1101","headword":"flood","story_form":"flood"},{"word_id":"v1147","headword":"freeze","story_form":"freeze"},{"word_id":"v1664","headword":"melt","story_form":"melt"},{"word_id":"v0451","headword":"chart","story_form":"chart"},{"word_id":"v1236","headword":"graph","story_form":"graph"},{"word_id":"v0113","headword":"analysis","story_form":"analysis"}]} -->
 
@@ -2323,7 +2474,7 @@ Our **analysis** helps us see why one hot day does not tell the whole story.
 
 <a id="c061"></a>
 
-## C061 — 기부 행사
+## C061 · An Event to Help Others / 기부 행사
 
 <!-- set-data: {"set_id":"C061","level":"common","targets":[{"word_id":"v0848","headword":"donate","story_form":"donate"},{"word_id":"v1165","headword":"fund","story_form":"fund"},{"word_id":"v0269","headword":"benefit","story_form":"benefit"},{"word_id":"v0613","headword":"contribute","story_form":"contribute"},{"word_id":"v2499","headword":"sponsor","story_form":"sponsor"},{"word_id":"v1053","headword":"fee","story_form":"fee"},{"word_id":"v0648","headword":"count","story_form":"count"},{"word_id":"v2092","headword":"provide","story_form":"provide"},{"word_id":"v2108","headword":"purpose","story_form":"purpose"},{"word_id":"v2452","headword":"society","story_form":"society"}]} -->
 
@@ -2360,7 +2511,7 @@ We **count** the money and talk about our **purpose**: everyone can **contribute
 
 <a id="c062"></a>
 
-## C062 — 우편물을 보내며
+## C062 · Sending a Package / 우편물을 보내며
 
 <!-- set-data: {"set_id":"C062","level":"common","targets":[{"word_id":"v0943","headword":"envelope","story_form":"envelope"},{"word_id":"v2516","headword":"stamp","story_form":"stamp"},{"word_id":"v2012","headword":"post","story_form":"post"},{"word_id":"v0754","headword":"deliver","story_form":"deliver"},{"word_id":"v2153","headword":"receive","story_form":"receive"},{"word_id":"v1879","headword":"pack","story_form":"pack"},{"word_id":"v1473","headword":"item","story_form":"item"},{"word_id":"v0580","headword":"confirm","story_form":"confirm"},{"word_id":"v2325","headword":"seal","story_form":"seal"},{"word_id":"v2926","headword":"weigh","story_form":"weigh"}]} -->
 
@@ -2399,7 +2550,7 @@ Aunt May calls to **confirm** that she did **receive** it.
 
 <a id="c063"></a>
 
-## C063 — 기차역에서
+## C063 · At the Train Station / 기차역에서
 
 <!-- set-data: {"set_id":"C063","level":"common","targets":[{"word_id":"v2524","headword":"station","story_form":"station"},{"word_id":"v1271","headword":"hall","story_form":"hall"},{"word_id":"v2771","headword":"transfer","story_form":"transfer"},{"word_id":"v2776","headword":"transport","story_form":"transport"},{"word_id":"v2859","headword":"vehicle","story_form":"vehicle"},{"word_id":"v2766","headword":"traffic","story_form":"traffic"},{"word_id":"v1320","headword":"highway","story_form":"highway"},{"word_id":"v2853","headword":"van","story_form":"van"},{"word_id":"v1549","headword":"leave","story_form":"leave"},{"word_id":"v2282","headword":"rush","story_form":"rush"}]} -->
 
@@ -2436,7 +2587,7 @@ We will **transfer** to another train near the city, so Dad keeps both tickets r
 
 <a id="c064"></a>
 
-## C064 — 공원에서의 오해
+## C064 · A Misunderstanding in the Park / 공원에서의 오해
 
 <!-- set-data: {"set_id":"C064","level":"common","targets":[{"word_id":"v0297","headword":"blind","story_form":"blind"},{"word_id":"v1200","headword":"gesture","story_form":"gesture"},{"word_id":"v1209","headword":"glance","story_form":"glance"},{"word_id":"v2520","headword":"stare","story_form":"stare"},{"word_id":"v0914","headword":"embarrass","story_form":"embarrass"},{"word_id":"v1896","headword":"pardon","story_form":"pardon"},{"word_id":"v0323","headword":"bother","story_form":"bother"},{"word_id":"v0542","headword":"communicate","story_form":"communicate"},{"word_id":"v1626","headword":"manner","story_form":"manner"},{"word_id":"v1828","headword":"offer","story_form":"offer"}]} -->
 
@@ -2473,7 +2624,7 @@ He says I do not **bother** him and tells me how we can **communicate** best.
 
 <a id="c065"></a>
 
-## C065 — 잃어버린 열쇠의 단서
+## C065 · Clues to the Missing Key / 잃어버린 열쇠의 단서
 
 <!-- set-data: {"set_id":"C065","level":"common","targets":[{"word_id":"v1746","headword":"mystery","story_form":"mystery"},{"word_id":"v0509","headword":"clue","story_form":"clue"},{"word_id":"v2762","headword":"trace","story_form":"trace"},{"word_id":"v2502","headword":"spot","story_form":"spot"},{"word_id":"v0268","headword":"beneath","story_form":"beneath"},{"word_id":"v0408","headword":"carpet","story_form":"carpet"},{"word_id":"v2729","headword":"tiny","story_form":"tiny"},{"word_id":"v0661","headword":"crack","story_form":"crack"},{"word_id":"v0692","headword":"curious","story_form":"curious"},{"word_id":"v0138","headword":"appear","story_form":"appear"}]} -->
 
@@ -2510,7 +2661,7 @@ The key does not **appear** there, but we find it under a muddy shoe nearby.
 
 <a id="c066"></a>
 
-## C066 — 낚시터의 작은 사건
+## C066 · A Small Incident by the Stream / 낚시터의 작은 사건
 
 <!-- set-data: {"set_id":"C066","level":"common","targets":[{"word_id":"v2556","headword":"stream","story_form":"stream"},{"word_id":"v1104","headword":"flow","story_form":"flow"},{"word_id":"v0267","headword":"bend","story_form":"bend"},{"word_id":"v1962","headword":"pin","story_form":"pin"},{"word_id":"v2963","headword":"wire","story_form":"wire"},{"word_id":"v2777","headword":"trap","story_form":"trap"},{"word_id":"v2180","headword":"release","story_form":"release"},{"word_id":"v0088","headword":"alive","story_form":"alive"},{"word_id":"v0683","headword":"cruel","story_form":"cruel"},{"word_id":"v1969","headword":"pity","story_form":"pity"}]} -->
 
@@ -2547,7 +2698,7 @@ We **release** the fish and agree that leaving the **trap** there would be **cru
 
 <a id="c067"></a>
 
-## C067 — 놀이터의 도전
+## C067 · A Playground Challenge / 놀이터의 도전
 
 <!-- set-data: {"set_id":"C067","level":"common","targets":[{"word_id":"v2627","headword":"swing","story_form":"swing"},{"word_id":"v2429","headword":"slide","story_form":"slide"},{"word_id":"v2515","headword":"stairs","story_form":"stairs"},{"word_id":"v0326","headword":"bounce","story_form":"bounce"},{"word_id":"v1506","headword":"knee","story_form":"knee"},{"word_id":"v2319","headword":"scratch","story_form":"scratch"},{"word_id":"v0713","headword":"dare","story_form":"dare"},{"word_id":"v0439","headword":"challenge","story_form":"challenge"},{"word_id":"v0399","headword":"capable","story_form":"capable"},{"word_id":"v2582","headword":"succeed","story_form":"succeed"}]} -->
 
@@ -2586,7 +2737,7 @@ We go slowly and **succeed** without getting hurt.
 
 <a id="c068"></a>
 
-## C068 — 소방서 견학
+## C068 · A Visit to the Fire Station / 소방서 견학
 
 <!-- set-data: {"set_id":"C068","level":"common","targets":[{"word_id":"v1089","headword":"flame","story_form":"flame"},{"word_id":"v2440","headword":"smoke","story_form":"smoke"},{"word_id":"v1967","headword":"pipe","story_form":"pipe"},{"word_id":"v2504","headword":"spray","story_form":"spray"},{"word_id":"v2100","headword":"pump","story_form":"pump"},{"word_id":"v0952","headword":"escape","story_form":"escape"},{"word_id":"v0990","headword":"exit","story_form":"exit"},{"word_id":"v0783","headword":"destroy","story_form":"destroy"},{"word_id":"v0709","headword":"damage","story_form":"damage"},{"word_id":"v1254","headword":"guard","story_form":"guard"}]} -->
 
@@ -2623,7 +2774,7 @@ To **guard** against danger, we must know where the **exit** is and how to **esc
 
 <a id="c069"></a>
 
-## C069 — 전쟁과 평화 수업
+## C069 · A Lesson on War and Peace / 전쟁과 평화 수업
 
 <!-- set-data: {"set_id":"C069","level":"common","targets":[{"word_id":"v0152","headword":"army","story_form":"army"},{"word_id":"v1758","headword":"navy","story_form":"navy"},{"word_id":"v1685","headword":"military","story_form":"military"},{"word_id":"v2458","headword":"soldier","story_form":"soldier"},{"word_id":"v0929","headword":"enemy","story_form":"enemy"},{"word_id":"v0237","headword":"battle","story_form":"battle"},{"word_id":"v0183","headword":"attack","story_form":"attack"},{"word_id":"v0741","headword":"defense","story_form":"defense"},{"word_id":"v2917","headword":"weapon","story_form":"weapon"},{"word_id":"v1921","headword":"peace","story_form":"peace"}]} -->
 
@@ -2660,7 +2811,7 @@ We discuss why **military** leaders may choose **defense** rather than **attack*
 
 <a id="c070"></a>
 
-## C070 — 비밀 요원의 임무
+## C070 · A Secret Agent's Mission / 비밀 요원의 임무
 
 <!-- set-data: {"set_id":"C070","level":"common","targets":[{"word_id":"v2507","headword":"spy","story_form":"spy"},{"word_id":"v0070","headword":"agent","story_form":"agent"},{"word_id":"v1264","headword":"gun","story_form":"gun"},{"word_id":"v0311","headword":"bomb","story_form":"bomb"},{"word_id":"v2646","headword":"target","story_form":"target"},{"word_id":"v0452","headword":"chase","story_form":"chase"},{"word_id":"v2255","headword":"rob","story_form":"rob"},{"word_id":"v0627","headword":"cop","story_form":"cop"},{"word_id":"v2878","headword":"violent","story_form":"violent"},{"word_id":"v1227","headword":"grab","story_form":"grab"}]} -->
 
@@ -2697,7 +2848,7 @@ The heroes **chase** him, **grab** the bag, and call for help.
 
 <a id="c071"></a>
 
-## C071 — 불평을 해결하는 가게
+## C071 · A Shop Solves a Complaint / 불평을 해결하는 가게
 
 <!-- set-data: {"set_id":"C071","level":"common","targets":[{"word_id":"v0497","headword":"client","story_form":"client"},{"word_id":"v0553","headword":"complain","story_form":"complain"},{"word_id":"v0755","headword":"demand","story_form":"demand"},{"word_id":"v0762","headword":"deny","story_form":"deny"},{"word_id":"v0981","headword":"exchange","story_form":"exchange"},{"word_id":"v1253","headword":"guarantee","story_form":"guarantee"},{"word_id":"v2081","headword":"proper","story_form":"proper"},{"word_id":"v2216","headword":"respond","story_form":"respond"},{"word_id":"v1277","headword":"handle","story_form":"handle"},{"word_id":"v0144","headword":"appropriate","story_form":"appropriate"}]} -->
 
@@ -2734,7 +2885,7 @@ She knows how to **handle** the problem, and the **client** thanks her.
 
 <a id="c072"></a>
 
-## C072 — 새 상품 광고
+## C072 · Advertising a New Product / 새 상품 광고
 
 <!-- set-data: {"set_id":"C072","level":"common","targets":[{"word_id":"v0054","headword":"advertize","story_form":"advertise"},{"word_id":"v0418","headword":"catalogue","story_form":"catalogue"},{"word_id":"v1051","headword":"feature","story_form":"feature"},{"word_id":"v0188","headword":"attract","story_form":"attract"},{"word_id":"v1389","headword":"impress","story_form":"impress"},{"word_id":"v2002","headword":"popular","story_form":"popular"},{"word_id":"v2077","headword":"promote","story_form":"promote"},{"word_id":"v2294","headword":"sample","story_form":"sample"},{"word_id":"v0470","headword":"choice","story_form":"choice"},{"word_id":"v1853","headword":"ordinary","story_form":"ordinary"}]} -->
 
@@ -2773,7 +2924,7 @@ It becomes a **popular** **choice** because it costs no more than an **ordinary*
 
 <a id="c073"></a>
 
-## C073 — 새로운 발명
+## C073 · A New Invention / 새로운 발명
 
 <!-- set-data: {"set_id":"C073","level":"common","targets":[{"word_id":"v1461","headword":"invent","story_form":"invent"},{"word_id":"v0933","headword":"engineer","story_form":"engineer"},{"word_id":"v0789","headword":"develop","story_form":"develop"},{"word_id":"v0568","headword":"concept","story_form":"concept"},{"word_id":"v0530","headword":"combine","story_form":"combine"},{"word_id":"v2019","headword":"practical","story_form":"practical"},{"word_id":"v2015","headword":"potential","story_form":"potential"},{"word_id":"v0051","headword":"advantage","story_form":"advantage"},{"word_id":"v0050","headword":"advance","story_form":"advance"},{"word_id":"v0349","headword":"brilliant","story_form":"brilliant"}]} -->
 
@@ -2810,7 +2961,7 @@ She calls it a **brilliant** idea with **potential** for further **advance**.
 
 <a id="c074"></a>
 
-## C074 — 실수에서 배우기
+## C074 · Learning from Mistakes / 실수에서 배우기
 
 <!-- set-data: {"set_id":"C074","level":"common","targets":[{"word_id":"v0584","headword":"confuse","story_form":"confuse"},{"word_id":"v1158","headword":"frustrate","story_form":"frustrate"},{"word_id":"v2121","headword":"quit","story_form":"quit"},{"word_id":"v0788","headword":"determine","story_form":"determine"},{"word_id":"v0608","headword":"continue","story_form":"continue"},{"word_id":"v2072","headword":"progress","story_form":"progress"},{"word_id":"v2583","headword":"success","story_form":"success"},{"word_id":"v0816","headword":"discipline","story_form":"discipline"},{"word_id":"v0567","headword":"concentrate","story_form":"concentrate"},{"word_id":"v1639","headword":"master","story_form":"master"}]} -->
 
@@ -2847,7 +2998,7 @@ My **progress** is slow, but my first small **success** makes me smile.
 
 <a id="c075"></a>
 
-## C075 — 우리 반 설문 조사
+## C075 · Our Class Survey / 우리 반 설문 조사
 
 <!-- set-data: {"set_id":"C075","level":"common","targets":[{"word_id":"v2613","headword":"survey","story_form":"survey"},{"word_id":"v2206","headword":"research","story_form":"research"},{"word_id":"v1582","headword":"list","story_form":"list"},{"word_id":"v0958","headword":"estimate","story_form":"estimate"},{"word_id":"v2302","headword":"scale","story_form":"scale"},{"word_id":"v2135","headword":"range","story_form":"range"},{"word_id":"v0420","headword":"category","story_form":"category"},{"word_id":"v2484","headword":"specific","story_form":"specific"},{"word_id":"v1401","headword":"indicate","story_form":"indicate"},{"word_id":"v1191","headword":"general","story_form":"general"}]} -->
 
@@ -2886,7 +3037,7 @@ We put the favorite books on a **list** for the library.
 
 <a id="c076"></a>
 
-## C076 — 나무 심기 계획
+## C076 · A Plan to Plant Trees / 나무 심기 계획
 
 <!-- set-data: {"set_id":"C076","level":"common","targets":[{"word_id":"v2554","headword":"strategy","story_form":"strategy"},{"word_id":"v0170","headword":"assess","story_form":"assess"},{"word_id":"v0592","headword":"consider","story_form":"consider"},{"word_id":"v1021","headword":"factor","story_form":"factor"},{"word_id":"v0231","headword":"basis","story_form":"basis"},{"word_id":"v0956","headword":"establish","story_form":"establish"},{"word_id":"v0172","headword":"assign","story_form":"assign"},{"word_id":"v1623","headword":"manage","story_form":"manage"},{"word_id":"v0555","headword":"complete","story_form":"complete"},{"word_id":"v1868","headword":"overall","story_form":"overall"}]} -->
 
@@ -2923,7 +3074,7 @@ Two teachers **manage** the work, and we **complete** the **overall** project in
 
 <a id="c077"></a>
 
-## C077 — 새로운 언어 배우기
+## C077 · Learning a New Language / 새로운 언어 배우기
 
 <!-- set-data: {"set_id":"C077","level":"common","targets":[{"word_id":"v1123","headword":"foreign","story_form":"foreign"},{"word_id":"v1111","headword":"folk","story_form":"folk"},{"word_id":"v2765","headword":"tradition","story_form":"tradition"},{"word_id":"v0617","headword":"converse","story_form":"converse"},{"word_id":"v2178","headword":"relate","story_form":"relate"},{"word_id":"v0174","headword":"associate","story_form":"associate"},{"word_id":"v0606","headword":"context","story_form":"context"},{"word_id":"v1650","headword":"mean","story_form":"mean"},{"word_id":"v2345","headword":"sense","story_form":"sense"},{"word_id":"v1375","headword":"illustrate","story_form":"illustrate"}]} -->
 
@@ -2964,7 +3115,7 @@ We then **converse** in pairs about meals at home.
 
 <a id="c078"></a>
 
-## C078 — 작은 오해 풀기
+## C078 · Clearing Up a Misunderstanding / 작은 오해 풀기
 
 <!-- set-data: {"set_id":"C078","level":"common","targets":[{"word_id":"v0175","headword":"assume","story_form":"assume"},{"word_id":"v0853","headword":"doubt","story_form":"doubt"},{"word_id":"v2150","headword":"reason","story_form":"reason"},{"word_id":"v1819","headword":"obvious","story_form":"obvious"},{"word_id":"v2338","headword":"seem","story_form":"seem"},{"word_id":"v2091","headword":"prove","story_form":"prove"},{"word_id":"v0481","headword":"circumstance","story_form":"circumstances"},{"word_id":"v1427","headword":"insist","story_form":"insist"},{"word_id":"v0621","headword":"convince","story_form":"convince"},{"word_id":"v2188","headword":"remark","story_form":"remark"}]} -->
 
@@ -3005,7 +3156,7 @@ I decide to ask about the **circumstances** before judging next time.
 
 <a id="c079"></a>
 
-## C079 — 가족 여행 의논
+## C079 · Planning a Family Trip / 가족 여행 의논
 
 <!-- set-data: {"set_id":"C079","level":"common","targets":[{"word_id":"v2590","headword":"suggest","story_form":"suggest"},{"word_id":"v1443","headword":"intend","story_form":"intend"},{"word_id":"v0776","headword":"desire","story_form":"desire"},{"word_id":"v1936","headword":"perhaps","story_form":"perhaps"},{"word_id":"v2011","headword":"possible","story_form":"possible"},{"word_id":"v1761","headword":"necessary","story_form":"necessary"},{"word_id":"v0091","headword":"allow","story_form":"allow"},{"word_id":"v0764","headword":"depend","story_form":"depend"},{"word_id":"v1858","headword":"otherwise","story_form":"otherwise"},{"word_id":"v2833","headword":"unless","story_form":"unless"}]} -->
 
@@ -3042,7 +3193,7 @@ Mom will **allow** us to go **unless** a storm comes; **otherwise**, we will sta
 
 <a id="c080"></a>
 
-## C080 — 새 팀의 문제 해결
+## C080 · Solving Problems as a New Team / 새 팀의 문제 해결
 
 <!-- set-data: {"set_id":"C080","level":"common","targets":[{"word_id":"v0581","headword":"conflict","story_form":"conflict"},{"word_id":"v0187","headword":"attitude","story_form":"attitude"},{"word_id":"v1402","headword":"individual","story_form":"individual"},{"word_id":"v0541","headword":"common","story_form":"common"},{"word_id":"v2830","headword":"unite","story_form":"unite"},{"word_id":"v2355","headword":"session","story_form":"session"},{"word_id":"v1618","headword":"maintain","story_form":"maintain"},{"word_id":"v0038","headword":"adapt","story_form":"adapt"},{"word_id":"v0101","headword":"alter","story_form":"alter"},{"word_id":"v2053","headword":"principle","story_form":"principle"}]} -->
 
@@ -3079,7 +3230,7 @@ To **maintain** this rule, we **adapt** each **session** and **alter** the order
 
 <a id="c081"></a>
 
-## C081 — 거울 앞에서
+## C081 · In Front of the Mirror / 거울 앞에서
 
 <!-- set-data: {"set_id":"C081","level":"common","targets":[{"word_id":"v1698","headword":"mirror","story_form":"mirror"},{"word_id":"v2166","headword":"reflect","story_form":"reflect"},{"word_id":"v0300","headword":"blonde","story_form":"blonde"},{"word_id":"v1278","headword":"handsome","story_form":"handsome"},{"word_id":"v1225","headword":"gorgeous","story_form":"gorgeous"},{"word_id":"v0693","headword":"curl","story_form":"curl"},{"word_id":"v2372","headword":"shave","story_form":"shave"},{"word_id":"v2441","headword":"smooth","story_form":"smooth"},{"word_id":"v2047","headword":"pride","story_form":"pride"},{"word_id":"v2399","headword":"sight","story_form":"sight"}]} -->
 
@@ -3116,7 +3267,7 @@ We laugh at the **sight** of our wet faces and take **pride** in getting ready o
 
 <a id="c082"></a>
 
-## C082 — 잃어버린 도시 이야기
+## C082 · The Story of a Lost City / 잃어버린 도시 이야기
 
 <!-- set-data: {"set_id":"C082","level":"common","targets":[{"word_id":"v0772","headword":"desert","story_form":"desert"},{"word_id":"v0803","headword":"dig","story_form":"dig"},{"word_id":"v0370","headword":"bury","story_form":"bury"},{"word_id":"v0812","headword":"dirt","story_form":"dirt"},{"word_id":"v2277","headword":"ruin","story_form":"ruin"},{"word_id":"v0345","headword":"brick","story_form":"brick"},{"word_id":"v2758","headword":"tower","story_form":"tower"},{"word_id":"v1304","headword":"height","story_form":"height"},{"word_id":"v2415","headword":"site","story_form":"site"},{"word_id":"v0989","headword":"exist","story_form":"exist"}]} -->
 
@@ -3153,7 +3304,7 @@ At sunset, we draw the lost city as we imagine it once looked.
 
 <a id="c083"></a>
 
-## C083 — 마술 쇼
+## C083 · A Magic Show / 마술 쇼
 
 <!-- set-data: {"set_id":"C083","level":"common","targets":[{"word_id":"v1613","headword":"magic","story_form":"magic"},{"word_id":"v2788","headword":"trick","story_form":"trick"},{"word_id":"v0106","headword":"amaze","story_form":"amaze"},{"word_id":"v1636","headword":"marvel","story_form":"marvel"},{"word_id":"v1040","headword":"fascinate","story_form":"fascinate"},{"word_id":"v0517","headword":"coin","story_form":"coin"},{"word_id":"v1985","headword":"pocket","story_form":"pocket"},{"word_id":"v0925","headword":"empty","story_form":"empty"},{"word_id":"v2973","headword":"wonder","story_form":"wonder"},{"word_id":"v1323","headword":"hint","story_form":"hint"}]} -->
 
@@ -3190,7 +3341,7 @@ The whole show is a **marvel**, and we cheer loudly.
 
 <a id="c084"></a>
 
-## C084 — 꿈속의 왕국
+## C084 · A Kingdom in a Dream / 꿈속의 왕국
 
 <!-- set-data: {"set_id":"C084","level":"common","targets":[{"word_id":"v0118","headword":"angel","story_form":"angel"},{"word_id":"v1301","headword":"heaven","story_form":"heaven"},{"word_id":"v1307","headword":"hell","story_form":"hell"},{"word_id":"v0969","headword":"evil","story_form":"evil"},{"word_id":"v2471","headword":"soul","story_form":"soul"},{"word_id":"v2494","headword":"spirit","story_form":"spirit"},{"word_id":"v1028","headword":"faith","story_form":"faith"},{"word_id":"v0260","headword":"belief","story_form":"belief"},{"word_id":"v2022","headword":"pray","story_form":"pray"},{"word_id":"v1125","headword":"forever","story_form":"forever"}]} -->
 
@@ -3227,7 +3378,7 @@ People **pray** for peace, and their hopeful **spirit** changes the kingdom.
 
 <a id="c085"></a>
 
-## C085 — 건강한 선택
+## C085 · Healthy Choices / 건강한 선택
 
 <!-- set-data: {"set_id":"C085","level":"common","targets":[{"word_id":"v0800","headword":"diet","story_form":"diet"},{"word_id":"v0599","headword":"consume","story_form":"consume"},{"word_id":"v1357","headword":"hunger","story_form":"hunger"},{"word_id":"v2544","headword":"stomach","story_form":"stomach"},{"word_id":"v0289","headword":"bitter","story_form":"bitter"},{"word_id":"v2474","headword":"sour","story_form":"sour"},{"word_id":"v0675","headword":"crisp","story_form":"crisp"},{"word_id":"v1811","headword":"nut","story_form":"nuts"},{"word_id":"v2106","headword":"pure","story_form":"pure"},{"word_id":"v1702","headword":"mix","story_form":"mix"}]} -->
 
@@ -3266,7 +3417,7 @@ I drink **pure** water and stop eating when my **stomach** feels full.
 
 <a id="c086"></a>
 
-## C086 — 술과 담배에 관한 수업
+## C086 · A Lesson on Alcohol and Smoking / 술과 담배에 관한 수업
 
 <!-- set-data: {"set_id":"C086","level":"common","targets":[{"word_id":"v0084","headword":"alcohol","story_form":"alcohol"},{"word_id":"v0253","headword":"beer","story_form":"beer"},{"word_id":"v2096","headword":"pub","story_form":"pub"},{"word_id":"v0224","headword":"bar","story_form":"bar"},{"word_id":"v0477","headword":"cigarette","story_form":"cigarette"},{"word_id":"v0870","headword":"drug","story_form":"drug"},{"word_id":"v1989","headword":"poison","story_form":"poison"},{"word_id":"v2169","headword":"refuse","story_form":"refuse"},{"word_id":"v1409","headword":"influence","story_form":"influence"},{"word_id":"v2658","headword":"teenage","story_form":"teenage"}]} -->
 
@@ -3303,7 +3454,7 @@ We practice how to **refuse** something we do not want.
 
 <a id="c087"></a>
 
-## C087 — 너무 바쁜 하루
+## C087 · A Very Busy Day / 너무 바쁜 하루
 
 <!-- set-data: {"set_id":"C087","level":"common","targets":[{"word_id":"v0386","headword":"calendar","story_form":"calendar"},{"word_id":"v0185","headword":"attend","story_form":"attend"},{"word_id":"v0965","headword":"event","story_form":"event"},{"word_id":"v1793","headword":"noon","story_form":"noon"},{"word_id":"v1937","headword":"period","story_form":"period"},{"word_id":"v1713","headword":"moment","story_form":"moment"},{"word_id":"v1453","headword":"interrupt","story_form":"interrupt"},{"word_id":"v0833","headword":"disturb","story_form":"disturb"},{"word_id":"v2558","headword":"stress","story_form":"stress"},{"word_id":"v0889","headword":"ease","story_form":"ease"}]} -->
 
@@ -3340,7 +3491,7 @@ They do not **disturb** me, and a few slow breaths **ease** my worries.
 
 <a id="c088"></a>
 
-## C088 — 어려운 소식
+## C088 · Difficult News / 어려운 소식
 
 <!-- set-data: {"set_id":"C088","level":"common","targets":[{"word_id":"v0059","headword":"affair","story_form":"affair"},{"word_id":"v0674","headword":"crisis","story_form":"crisis"},{"word_id":"v1600","headword":"loss","story_form":"loss"},{"word_id":"v0838","headword":"divorce","story_form":"divorce"},{"word_id":"v0060","headword":"affect","story_form":"affect"},{"word_id":"v1444","headword":"intense","story_form":"intense"},{"word_id":"v2654","headword":"tear","story_form":"tear"},{"word_id":"v2839","headword":"upset","story_form":"upset"},{"word_id":"v1769","headword":"neither","story_form":"neither"},{"word_id":"v1794","headword":"nor","story_form":"nor"}]} -->
 
@@ -3377,7 +3528,7 @@ I remind him that it is **neither** his fault **nor** his job to fix it, and I s
 
 <a id="c089"></a>
 
-## C089 — 학교에서 지켜야 할 것
+## C089 · Rules at School / 학교에서 지켜야 할 것
 
 <!-- set-data: {"set_id":"C089","level":"common","targets":[{"word_id":"v2826","headword":"uniform","story_form":"uniform"},{"word_id":"v1567","headword":"license","story_form":"license"},{"word_id":"v2172","headword":"register","story_form":"register"},{"word_id":"v2204","headword":"require","story_form":"require"},{"word_id":"v1859","headword":"ought","story_form":"ought"},{"word_id":"v2366","headword":"shall","story_form":"shall"},{"word_id":"v1234","headword":"grant","story_form":"grant"},{"word_id":"v2089","headword":"protest","story_form":"protest"},{"word_id":"v0485","headword":"civil","story_form":"civil"},{"word_id":"v1995","headword":"politics","story_form":"politics"}]} -->
 
@@ -3414,7 +3565,7 @@ In a lesson about **politics**, we learn that people can **protest** in a **civi
 
 <a id="c090"></a>
 
-## C090 — 공장에서 바뀐 하루
+## C090 · How Factory Work Has Changed / 공장에서 바뀐 하루
 
 <!-- set-data: {"set_id":"C090","level":"common","targets":[{"word_id":"v2379","headword":"shift","story_form":"shift"},{"word_id":"v1514","headword":"labor","story_form":"labor"},{"word_id":"v2895","headword":"wage","story_form":"wage"},{"word_id":"v1687","headword":"mill","story_form":"mill"},{"word_id":"v0512","headword":"coal","story_form":"coal"},{"word_id":"v2532","headword":"steam","story_form":"steam"},{"word_id":"v1466","headword":"iron","story_form":"iron"},{"word_id":"v1709","headword":"modern","story_form":"modern"},{"word_id":"v0892","headword":"economy","story_form":"economy"},{"word_id":"v1396","headword":"income","story_form":"income"}]} -->
 
@@ -3451,7 +3602,7 @@ She says the **modern** **economy** has changed many jobs, though workers still 
 
 <a id="c091"></a>
 
-## C091 — 밤의 소음 실험
+## C091 · An Experiment with Night Sounds / 밤의 소음 실험
 
 <!-- set-data: {"set_id":"C091","level":"common","targets":[{"word_id":"v0221","headword":"bang","story_form":"bang"},{"word_id":"v0315","headword":"boom","story_form":"boom"},{"word_id":"v2001","headword":"pop","story_form":"pop"},{"word_id":"v2444","headword":"snap","story_form":"snap"},{"word_id":"v0369","headword":"burst","story_form":"burst"},{"word_id":"v0304","headword":"blow","story_form":"blow"},{"word_id":"v2946","headword":"whistle","story_form":"whistle"},{"word_id":"v2989","headword":"yell","story_form":"yell"},{"word_id":"v2391","headword":"shout","story_form":"shout"},{"word_id":"v2945","headword":"whisper","story_form":"whisper"}]} -->
 
@@ -3488,7 +3639,7 @@ We compare a **yell** with a **shout**, then end with a **whisper** so the room 
 
 <a id="c092"></a>
 
-## C092 — 청소하다 생긴 일
+## C092 · An Accident While Cleaning / 청소하다 생긴 일
 
 <!-- set-data: {"set_id":"C092","level":"common","targets":[{"word_id":"v1674","headword":"mess","story_form":"mess"},{"word_id":"v0877","headword":"dump","story_form":"dump"},{"word_id":"v2571","headword":"stuff","story_form":"stuff"},{"word_id":"v0858","headword":"drag","story_form":"drag"},{"word_id":"v0364","headword":"bump","story_form":"bump"},{"word_id":"v2437","headword":"smash","story_form":"smash"},{"word_id":"v2371","headword":"sharp","story_form":"sharp"},{"word_id":"v1957","headword":"piece","story_form":"piece"},{"word_id":"v0820","headword":"disgust","story_form":"disgust"},{"word_id":"v2383","headword":"shock","story_form":"shock"}]} -->
 
@@ -3525,7 +3676,7 @@ Dad looks at the old food in the box with **disgust** and brings a brush to help
 
 <a id="c093"></a>
 
-## C093 — 촬영 동아리
+## C093 · The Film Club / 촬영 동아리
 
 <!-- set-data: {"set_id":"C093","level":"common","targets":[{"word_id":"v2569","headword":"studio","story_form":"studio"},{"word_id":"v0209","headword":"background","story_form":"background"},{"word_id":"v2385","headword":"shoot","story_form":"shoot"},{"word_id":"v0503","headword":"clip","story_form":"clip"},{"word_id":"v0815","headword":"disc","story_form":"disc"},{"word_id":"v0444","headword":"channel","story_form":"channel"},{"word_id":"v1715","headword":"monitor","story_form":"monitor"},{"word_id":"v1727","headword":"motion","story_form":"motion"},{"word_id":"v2656","headword":"technique","story_form":"technique"},{"word_id":"v2874","headword":"view","story_form":"view"}]} -->
 
@@ -3562,7 +3713,7 @@ Then we save a copy on a **disc** for the school show.
 
 <a id="c094"></a>
 
-## C094 — 시를 쓰는 오후
+## C094 · An Afternoon of Poetry / 시를 쓰는 오후
 
 <!-- set-data: {"set_id":"C094","level":"common","targets":[{"word_id":"v1986","headword":"poem","story_form":"poem"},{"word_id":"v1987","headword":"poet","story_form":"poet"},{"word_id":"v0796","headword":"diary","story_form":"diary"},{"word_id":"v0292","headword":"blank","story_form":"blank"},{"word_id":"v2375","headword":"sheet","story_form":"sheet"},{"word_id":"v1633","headword":"mark","story_form":"mark"},{"word_id":"v2463","headword":"somewhat","story_form":"somewhat"},{"word_id":"v1228","headword":"grace","story_form":"grace"},{"word_id":"v0450","headword":"charm","story_form":"charm"},{"word_id":"v1972","headword":"plain","story_form":"plain"}]} -->
 
@@ -3599,7 +3750,7 @@ I feel **somewhat** unsure, but my sister says the simple words have their own b
 
 <a id="c095"></a>
 
-## C095 — 운동장에 그린 도형
+## C095 · Shapes on the Playground / 운동장에 그린 도형
 
 <!-- set-data: {"set_id":"C095","level":"common","targets":[{"word_id":"v2508","headword":"square","story_form":"square"},{"word_id":"v2786","headword":"triangle","story_form":"triangle"},{"word_id":"v2536","headword":"step","story_form":"step"},{"word_id":"v2829","headword":"unit","story_form":"unit"},{"word_id":"v1563","headword":"level","story_form":"level"},{"word_id":"v2952","headword":"wide","story_form":"wide"},{"word_id":"v0351","headword":"broad","story_form":"broad"},{"word_id":"v2699","headword":"thin","story_form":"thin"},{"word_id":"v2697","headword":"thick","story_form":"thick"},{"word_id":"v2551","headword":"straight","story_form":"straight"}]} -->
 
@@ -3638,7 +3789,7 @@ We take one **step** at a time to check its length.
 
 <a id="c096"></a>
 
-## C096 — 크기를 비교하는 수업
+## C096 · A Lesson on Comparing Sizes / 크기를 비교하는 수업
 
 <!-- set-data: {"set_id":"C096","level":"common","targets":[{"word_id":"v1638","headword":"mass","story_form":"mass"},{"word_id":"v1645","headword":"maximum","story_form":"maximum"},{"word_id":"v1575","headword":"limit","story_form":"limit"},{"word_id":"v1398","headword":"increase","story_form":"increase"},{"word_id":"v0992","headword":"expand","story_form":"expand"},{"word_id":"v1006","headword":"extend","story_form":"extend"},{"word_id":"v0935","headword":"enormous","story_form":"enormous"},{"word_id":"v0279","headword":"billion","story_form":"billion"},{"word_id":"v2709","headword":"thousand","story_form":"thousand"},{"word_id":"v2998","headword":"zero","story_form":"zero"}]} -->
 
@@ -3675,7 +3826,7 @@ To make it stronger, we **expand** the base and **extend** the supports.
 
 <a id="c097"></a>
 
-## C097 — 공구를 빌리다
+## C097 · Borrowing Tools / 공구를 빌리다
 
 <!-- set-data: {"set_id":"C097","level":"common","targets":[{"word_id":"v1181","headword":"garage","story_form":"garage"},{"word_id":"v1214","headword":"glove","story_form":"glove"},{"word_id":"v1571","headword":"lift","story_form":"lift"},{"word_id":"v1544","headword":"lean","story_form":"lean"},{"word_id":"v1538","headword":"lay","story_form":"lay"},{"word_id":"v1568","headword":"lid","story_form":"lid"},{"word_id":"v2728","headword":"tin","story_form":"tin"},{"word_id":"v2644","headword":"tap","story_form":"tap"},{"word_id":"v2275","headword":"rub","story_form":"rub"},{"word_id":"v2537","headword":"stick","story_form":"stick"}]} -->
 
@@ -3712,7 +3863,7 @@ Then we **stick** a new label on it and put our tools away.
 
 <a id="c098"></a>
 
-## C098 — 봄맞이 옷 수선
+## C098 · Mending Clothes for Spring / 봄맞이 옷 수선
 
 <!-- set-data: {"set_id":"C098","level":"common","targets":[{"word_id":"v2361","headword":"sew","story_form":"sew"},{"word_id":"v2722","headword":"tie","story_form":"tie"},{"word_id":"v1329","headword":"hole","story_form":"hole"},{"word_id":"v2838","headword":"upper","story_form":"upper"},{"word_id":"v0317","headword":"boot","story_form":"boot"},{"word_id":"v0225","headword":"bare","story_form":"bare"},{"word_id":"v2390","headword":"shoulder","story_form":"shoulder"},{"word_id":"v2737","headword":"toe","story_form":"toe"},{"word_id":"v2757","headword":"towel","story_form":"towel"},{"word_id":"v2393","headword":"shower","story_form":"shower"}]} -->
 
@@ -3749,7 +3900,7 @@ Now the coat is ready for another walk.
 
 <a id="c099"></a>
 
-## C099 — 작은 실수의 큰 결과
+## C099 · A Small Mistake, a Big Problem / 작은 실수의 큰 결과
 
 <!-- set-data: {"set_id":"C099","level":"common","targets":[{"word_id":"v0423","headword":"cause","story_form":"cause"},{"word_id":"v1695","headword":"minor","story_form":"minor"},{"word_id":"v1619","headword":"major","story_form":"major"},{"word_id":"v2794","headword":"trouble","story_form":"trouble"},{"word_id":"v0557","headword":"complicate","story_form":"complicate"},{"word_id":"v2405","headword":"simple","story_form":"simple"},{"word_id":"v0556","headword":"complex","story_form":"complex"},{"word_id":"v1617","headword":"main","story_form":"main"},{"word_id":"v1643","headword":"matter","story_form":"matter"},{"word_id":"v1399","headword":"indeed","story_form":"indeed"}]} -->
 
@@ -3788,7 +3939,7 @@ It is **indeed** a much easier fix than we expected.
 
 <a id="c100"></a>
 
-## C100 — 새벽의 산책
+## C100 · A Walk at Dawn / 새벽의 산책
 
 <!-- set-data: {"set_id":"C100","level":"common","targets":[{"word_id":"v0721","headword":"dawn","story_form":"dawn"},{"word_id":"v2248","headword":"rise","story_form":"rise"},{"word_id":"v2380","headword":"shine","story_form":"shine"},{"word_id":"v2131","headword":"rainbow","story_form":"rainbow"},{"word_id":"v1298","headword":"hear","story_form":"hear"},{"word_id":"v1593","headword":"log","story_form":"log"},{"word_id":"v0266","headword":"bench","story_form":"bench"},{"word_id":"v2273","headword":"row","story_form":"row"},{"word_id":"v2949","headword":"whole","story_form":"whole"},{"word_id":"v2960","headword":"wing","story_form":"wing"}]} -->
 
@@ -3825,7 +3976,7 @@ We **hear** water nearby, and the **whole** morning feels quiet and new.
 
 <a id="c101"></a>
 
-## C101 — 망토 속의 지도
+## C101 · The Map Inside the Cape / 망토 속의 지도
 
 <!-- set-data: {"set_id":"C101","level":"common","targets":[{"word_id":"v0052","headword":"adventure","story_form":"adventure"},{"word_id":"v0400","headword":"cape","story_form":"cape"},{"word_id":"v0461","headword":"chest","story_form":"chest"},{"word_id":"v1135","headword":"fortune","story_form":"fortune"},{"word_id":"v2639","headword":"tale","story_form":"tale"},{"word_id":"v2813","headword":"twist","story_form":"twist"},{"word_id":"v1722","headword":"moral","story_form":"moral"},{"word_id":"v1377","headword":"imagine","story_form":"imagine"},{"word_id":"v2553","headword":"strange","story_form":"strange"},{"word_id":"v1824","headword":"odd","story_form":"odd"}]} -->
 
@@ -3862,7 +4013,7 @@ Its **moral** is that kindness can be worth more than gold.
 
 <a id="c102"></a>
 
-## C102 — 선생님이 된 언니
+## C102 · My Sister Becomes a Teacher / 선생님이 된 언니
 
 <!-- set-data: {"set_id":"C102","level":"common","targets":[{"word_id":"v0202","headword":"award","story_form":"award"},{"word_id":"v0773","headword":"deserve","story_form":"deserve"},{"word_id":"v1229","headword":"grade","story_form":"grade"},{"word_id":"v0895","headword":"educate","story_form":"educate"},{"word_id":"v2832","headword":"university","story_form":"university"},{"word_id":"v2049","headword":"prime","story_form":"prime"},{"word_id":"v0077","headword":"aim","story_form":"aim"},{"word_id":"v2034","headword":"presence","story_form":"presence"},{"word_id":"v0941","headword":"entire","story_form":"entire"},{"word_id":"v2170","headword":"regard","story_form":"regard"}]} -->
 
@@ -3899,7 +4050,7 @@ I **regard** her as someone who can make school a happier place.
 
 <a id="c103"></a>
 
-## C103 — 처음 본 오페라
+## C103 · My First Opera / 처음 본 오페라
 
 <!-- set-data: {"set_id":"C103","level":"common","targets":[{"word_id":"v2689","headword":"theater","story_form":"theater"},{"word_id":"v1840","headword":"opera","story_form":"opera"},{"word_id":"v1968","headword":"pitch","story_form":"pitch"},{"word_id":"v2141","headword":"rather","story_form":"rather"},{"word_id":"v1903","headword":"particular","story_form":"particular"},{"word_id":"v2157","headword":"recommend","story_form":"recommend"},{"word_id":"v2154","headword":"recent","story_form":"recent"},{"word_id":"v1941","headword":"person","story_form":"person"},{"word_id":"v2122","headword":"quite","story_form":"quite"},{"word_id":"v2490","headword":"spend","story_form":"spend"}]} -->
 
@@ -3936,7 +4087,7 @@ By the end, I find the whole show **quite** moving.
 
 <a id="c104"></a>
 
-## C104 — 초콜릿 간식 만들기
+## C104 · Making Chocolate Treats / 초콜릿 간식 만들기
 
 <!-- set-data: {"set_id":"C104","level":"common","targets":[{"word_id":"v1680","headword":"microwave","story_form":"microwave"},{"word_id":"v1866","headword":"oven","story_form":"oven"},{"word_id":"v1978","headword":"plate","story_form":"plate"},{"word_id":"v2017","headword":"powder","story_form":"powder"},{"word_id":"v0468","headword":"chip","story_form":"chip"},{"word_id":"v0357","headword":"bubble","story_form":"bubble"},{"word_id":"v0601","headword":"contain","story_form":"contain"},{"word_id":"v1010","headword":"extra","story_form":"extra"},{"word_id":"v1982","headword":"plenty","story_form":"plenty"},{"word_id":"v2498","headword":"spoil","story_form":"spoil"}]} -->
 
@@ -3973,7 +4124,7 @@ There is **plenty** for everyone, but we let it cool on a **plate** so we do not
 
 <a id="c105"></a>
 
-## C105 — 우리 몸 전시관
+## C105 · At the Human Body Exhibit / 우리 몸 전시관
 
 <!-- set-data: {"set_id":"C105","level":"common","targets":[{"word_id":"v0332","headword":"brain","story_form":"brain"},{"word_id":"v1771","headword":"nerve","story_form":"nerve"},{"word_id":"v2743","headword":"tongue","story_form":"tongue"},{"word_id":"v2618","headword":"swallow","story_form":"swallow"},{"word_id":"v1450","headword":"internal","story_form":"internal"},{"word_id":"v0430","headword":"cell","story_form":"cell"},{"word_id":"v2915","headword":"weak","story_form":"weak"},{"word_id":"v1026","headword":"faint","story_form":"faint"},{"word_id":"v0987","headword":"exhaust","story_form":"exhaust"},{"word_id":"v1890","headword":"panic","story_form":"panic"}]} -->
 
@@ -4010,7 +4161,7 @@ I tell Dad before I **faint**, and he helps me sit down without **panic**.
 
 <a id="c106"></a>
 
-## C106 — 우리만의 가상 도시
+## C106 · Our Own Make-Believe Town / 우리만의 가상 도시
 
 <!-- set-data: {"set_id":"C106","level":"common","targets":[{"word_id":"v2649","headword":"tax","story_form":"tax"},{"word_id":"v2764","headword":"trade","story_form":"trade"},{"word_id":"v2543","headword":"stock","story_form":"stock"},{"word_id":"v2082","headword":"property","story_form":"property"},{"word_id":"v2010","headword":"possess","story_form":"possess"},{"word_id":"v1439","headword":"insure","story_form":"insure"},{"word_id":"v1138","headword":"found","story_form":"found"},{"word_id":"v1226","headword":"govern","story_form":"govern"},{"word_id":"v2523","headword":"state","story_form":"state"},{"word_id":"v2171","headword":"region","story_form":"region"}]} -->
 
@@ -4047,7 +4198,7 @@ Some teams also **insure** their shops against fire in the game.
 
 <a id="c107"></a>
 
-## C107 — 홍수에서 구조되다
+## C107 · Rescued from a Flood / 홍수에서 구조되다
 
 <!-- set-data: {"set_id":"C107","level":"common","targets":[{"word_id":"v2137","headword":"rapid","story_form":"rapid"},{"word_id":"v1306","headword":"helicopter","story_form":"helicopter"},{"word_id":"v2263","headword":"roof","story_form":"roof"},{"word_id":"v2643","headword":"tank","story_form":"tank"},{"word_id":"v1524","headword":"lane","story_form":"lane"},{"word_id":"v1737","headword":"mud","story_form":"mud"},{"word_id":"v2612","headword":"surround","story_form":"surround"},{"word_id":"v0779","headword":"desperate","story_form":"desperate"},{"word_id":"v2711","headword":"threat","story_form":"threat"},{"word_id":"v0143","headword":"approach","story_form":"approach"}]} -->
 
@@ -4084,7 +4235,7 @@ We see a **helicopter** **approach**, and its team brings everyone to safety.
 
 <a id="c108"></a>
 
-## C108 — 처음 해 보는 골프
+## C108 · Trying Golf for the First Time / 처음 해 보는 골프
 
 <!-- set-data: {"set_id":"C108","level":"common","targets":[{"word_id":"v1222","headword":"golf","story_form":"golf"},{"word_id":"v2716","headword":"throw","story_form":"throw"},{"word_id":"v2561","headword":"strike","story_form":"strike"},{"word_id":"v1990","headword":"pole","story_form":"pole"},{"word_id":"v1088","headword":"flag","story_form":"flag"},{"word_id":"v1814","headword":"object","story_form":"object"},{"word_id":"v1822","headword":"occur","story_form":"occur"},{"word_id":"v1280","headword":"happen","story_form":"happen"},{"word_id":"v2145","headword":"react","story_form":"react"},{"word_id":"v1315","headword":"hesitate","story_form":"hesitate"}]} -->
 
@@ -4121,7 +4272,7 @@ A mistake does **occur**, but my friends **react** with kind smiles and let me t
 
 <a id="c109"></a>
 
-## C109 — 잊어버린 회의
+## C109 · The Meeting I Forgot / 잊어버린 회의
 
 <!-- set-data: {"set_id":"C109","level":"common","targets":[{"word_id":"v0453","headword":"chat","story_form":"chat"},{"word_id":"v0124","headword":"annoy","story_form":"annoy"},{"word_id":"v1668","headword":"mention","story_form":"mention"},{"word_id":"v1410","headword":"inform","story_form":"inform"},{"word_id":"v2331","headword":"secretary","story_form":"secretary"},{"word_id":"v2191","headword":"remind","story_form":"remind"},{"word_id":"v2044","headword":"previous","story_form":"previous"},{"word_id":"v2674","headword":"term","story_form":"term"},{"word_id":"v0594","headword":"constant","story_form":"constant"},{"word_id":"v1516","headword":"lack","story_form":"lack"}]} -->
 
@@ -4158,7 +4309,7 @@ I admit my **lack** of planning and put the next meeting in my calendar.
 
 <a id="c110"></a>
 
-## C110 — 게임을 멈출 시간
+## C110 · Time to Stop Playing / 게임을 멈출 시간
 
 <!-- set-data: {"set_id":"C110","level":"common","targets":[{"word_id":"v0271","headword":"bet","story_form":"bet"},{"word_id":"v0255","headword":"beg","story_form":"beg"},{"word_id":"v1048","headword":"favor","story_form":"favor"},{"word_id":"v1561","headword":"let","story_form":"let"},{"word_id":"v2211","headword":"resist","story_form":"resist"},{"word_id":"v1445","headword":"intent","story_form":"intent"},{"word_id":"v2341","headword":"self","story_form":"self"},{"word_id":"v1599","headword":"lose","story_form":"lose"},{"word_id":"v2981","headword":"worth","story_form":"worth"},{"word_id":"v1433","headword":"instead","story_form":"instead"}]} -->
 
@@ -4197,7 +4348,7 @@ A short walk is **worth** trying **instead**.
 
 <a id="c111"></a>
 
-## C111 — 휴가용 집 살펴보기
+## C111 · A Look Inside a Vacation Home / 휴가용 집 살펴보기
 
 <!-- set-data: {"set_id":"C111","level":"common","targets":[{"word_id":"v2876","headword":"villa","story_form":"villa"},{"word_id":"v0427","headword":"ceiling","story_form":"ceiling"},{"word_id":"v1521","headword":"lamp","story_form":"lamp"},{"word_id":"v2739","headword":"toilet","story_form":"toilet"},{"word_id":"v2797","headword":"trunk","story_form":"trunk"},{"word_id":"v2416","headword":"situate","story_form":"situate"},{"word_id":"v2332","headword":"section","story_form":"section"},{"word_id":"v2349","headword":"separate","story_form":"separate"},{"word_id":"v0133","headword":"apart","story_form":"apart"},{"word_id":"v2411","headword":"single","story_form":"single"}]} -->
 
@@ -4236,7 +4387,7 @@ We draw every room carefully, making sure each has a **single** door.
 
 <a id="c112"></a>
 
-## C112 — 무늬의 비밀
+## C112 · The Secret of the Pattern / 무늬의 비밀
 
 <!-- set-data: {"set_id":"C112","level":"common","targets":[{"word_id":"v2112","headword":"puzzle","story_form":"puzzle"},{"word_id":"v2436","headword":"smart","story_form":"smart"},{"word_id":"v2692","headword":"theory","story_form":"theory"},{"word_id":"v0759","headword":"demonstrate","story_form":"demonstrate"},{"word_id":"v0907","headword":"element","story_form":"element"},{"word_id":"v1578","headword":"link","story_form":"link"},{"word_id":"v1431","headword":"instance","story_form":"instance"},{"word_id":"v0447","headword":"characteristic","story_form":"characteristic"},{"word_id":"v2404","headword":"similar","story_form":"similar"},{"word_id":"v2351","headword":"series","story_form":"series"}]} -->
 
@@ -4275,7 +4426,7 @@ This is the first in a **series** of puzzles we want to try.
 
 <a id="c113"></a>
 
-## C113 — 마을 퍼레이드
+## C113 · The Town Parade / 마을 퍼레이드
 
 <!-- set-data: {"set_id":"C113","level":"common","targets":[{"word_id":"v1893","headword":"parade","story_form":"parade"},{"word_id":"v2451","headword":"social","story_form":"social"},{"word_id":"v1465","headword":"involve","story_form":"involve"},{"word_id":"v0931","headword":"engage","story_form":"engage"},{"word_id":"v0110","headword":"among","story_form":"among"},{"word_id":"v2855","headword":"various","story_form":"various"},{"word_id":"v2359","headword":"several","story_form":"several"},{"word_id":"v0883","headword":"each","story_form":"each"},{"word_id":"v2505","headword":"spread","story_form":"spread"},{"word_id":"v0104","headword":"altogether","story_form":"altogether"}]} -->
 
@@ -4312,7 +4463,7 @@ There are fifty of us **altogether**, and no one has to walk alone.
 
 <a id="c114"></a>
 
-## C114 — 완벽하지 않아도 괜찮아
+## C114 · It Is Okay Not to Be Perfect / 완벽하지 않아도 괜찮아
 
 <!-- set-data: {"set_id":"C114","level":"common","targets":[{"word_id":"v2568","headword":"struggle","story_form":"struggle"},{"word_id":"v0011","headword":"absolute","story_form":"absolute"},{"word_id":"v0745","headword":"definite","story_form":"definite"},{"word_id":"v1934","headword":"perfect","story_form":"perfect"},{"word_id":"v2061","headword":"probable","story_form":"probable"},{"word_id":"v1647","headword":"maybe","story_form":"maybe"},{"word_id":"v2606","headword":"suppose","story_form":"suppose"},{"word_id":"v2941","headword":"whether","story_form":"whether"},{"word_id":"v2942","headword":"which","story_form":"which"},{"word_id":"v0901","headword":"either","story_form":"either"}]} -->
 
@@ -4349,7 +4500,7 @@ I **suppose** the winner must be **perfect**, but my teacher says there is no **
 
 <a id="c115"></a>
 
-## C115 — 달라진 아침 습관
+## C115 · A New Morning Routine / 달라진 아침 습관
 
 <!-- set-data: {"set_id":"C115","level":"common","targets":[{"word_id":"v1805","headword":"nowadays","story_form":"nowadays"},{"word_id":"v2669","headword":"tend","story_form":"tend"},{"word_id":"v1836","headword":"once","story_form":"once"},{"word_id":"v2409","headword":"since","story_form":"since"},{"word_id":"v2834","headword":"until","story_form":"until"},{"word_id":"v2725","headword":"till","story_form":"till"},{"word_id":"v2466","headword":"soon","story_form":"soon"},{"word_id":"v2993","headword":"yet","story_form":"yet"},{"word_id":"v2539","headword":"still","story_form":"still"},{"word_id":"v2187","headword":"remain","story_form":"remain"}]} -->
 
@@ -4386,7 +4537,7 @@ I hope the change will **soon** feel easy and **remain** part of my life.
 
 <a id="c116"></a>
 
-## C116 — 창고의 그림자
+## C116 · A Shadow in the Shed / 창고의 그림자
 
 <!-- set-data: {"set_id":"C116","level":"common","targets":[{"word_id":"v2139","headword":"rat","story_form":"rat"},{"word_id":"v2306","headword":"scare","story_form":"scare"},{"word_id":"v2365","headword":"shake","story_form":"shake"},{"word_id":"v2394","headword":"shut","story_form":"shut"},{"word_id":"v2678","headword":"terrible","story_form":"terrible"},{"word_id":"v2672","headword":"tense","story_form":"tense"},{"word_id":"v2970","headword":"without","story_form":"without"},{"word_id":"v2715","headword":"through","story_form":"through"},{"word_id":"v2969","headword":"within","story_form":"within"},{"word_id":"v1857","headword":"other","story_form":"other"}]} -->
 
@@ -4423,7 +4574,7 @@ Dad explains that the sound was just a fallen can on the **other** side of the d
 
 <a id="c117"></a>
 
-## C117 — 작은 섬 여행 예약
+## C117 · Booking a Trip to a Small Island / 작은 섬 여행 예약
 
 <!-- set-data: {"set_id":"C117","level":"common","targets":[{"word_id":"v1974","headword":"plane","story_form":"plane"},{"word_id":"v2755","headword":"tour","story_form":"tour"},{"word_id":"v2063","headword":"proceed","story_form":"proceed"},{"word_id":"v1841","headword":"operate","story_form":"operate"},{"word_id":"v1932","headword":"per","story_form":"per"},{"word_id":"v1984","headword":"plus","story_form":"plus"},{"word_id":"v1063","headword":"few","story_form":"few"},{"word_id":"v1601","headword":"lot","story_form":"lot"},{"word_id":"v2982","headword":"would","story_form":"would"},{"word_id":"v2856","headword":"vary","story_form":"vary"}]} -->
 
@@ -4462,7 +4613,7 @@ Prices **vary** by day, so a weekday **would** be cheaper.
 
 <a id="c118"></a>
 
-## C118 — 자유를 향한 발걸음
+## C118 · Steps Toward Freedom / 자유를 향한 발걸음
 
 <!-- set-data: {"set_id":"C118","level":"common","targets":[{"word_id":"v0162","headword":"aside","story_form":"aside"},{"word_id":"v1136","headword":"forward","story_form":"forward"},{"word_id":"v1133","headword":"forth","story_form":"forth"},{"word_id":"v2837","headword":"upon","story_form":"upon"},{"word_id":"v2337","headword":"seek","story_form":"seek"},{"word_id":"v2426","headword":"slave","story_form":"slave"},{"word_id":"v0103","headword":"although","story_form":"although"},{"word_id":"v0780","headword":"despite","story_form":"despite"},{"word_id":"v0963","headword":"even","story_form":"even"},{"word_id":"v1791","headword":"none","story_form":"none"}]} -->
 
@@ -4501,7 +4652,7 @@ When the road is clear, he sets **forth** toward a town where people will help h
 
 <a id="c119"></a>
 
-## C119 — 바다 모양 파티
+## C119 · A Sea-Themed Party / 바다 모양 파티
 
 <!-- set-data: {"set_id":"C119","level":"common","targets":[{"word_id":"v0982","headword":"excite","story_form":"excite"},{"word_id":"v0953","headword":"especial","story_form":"especially"},{"word_id":"v0979","headword":"except","story_form":"except"},{"word_id":"v0913","headword":"else","story_form":"else"},{"word_id":"v2598","headword":"super","story_form":"super"},{"word_id":"v2101","headword":"punch","story_form":"punch"},{"word_id":"v0287","headword":"bit","story_form":"bit"},{"word_id":"v2377","headword":"shell","story_form":"shell"},{"word_id":"v1432","headword":"instant","story_form":"instant"},{"word_id":"v2584","headword":"such","story_form":"such"}]} -->
 
@@ -4540,7 +4691,7 @@ Everything is ready **except** the music, so I ask, “What **else** do we need?
 
 <a id="c120"></a>
 
-## C120 — 꾸준히 공부한 뒤의 작은 변화
+## C120 · Small Changes from Daily Study / 꾸준히 공부한 뒤의 작은 변화
 
 <!-- set-data: {"set_id":"C120","level":"common","targets":[{"word_id":"v1145","headword":"frankly","story_form":"frankly"},{"word_id":"v1723","headword":"moreover","story_form":"moreover"},{"word_id":"v2695","headword":"therefore","story_form":"therefore"},{"word_id":"v2708","headword":"though","story_form":"though"},{"word_id":"v2718","headword":"thus","story_form":"thus"},{"word_id":"v2943","headword":"while","story_form":"while"},{"word_id":"v2691","headword":"then","story_form":"then"},{"word_id":"v0966","headword":"ever","story_form":"ever"},{"word_id":"v1806","headword":"nowhere","story_form":"nowhere"},{"word_id":"v2402","headword":"silly","story_form":"silly"}]} -->
 

@@ -37,111 +37,111 @@ languages: [en, ko]
 
 ### E001–E010
 
-- [E001 · 처음 만난 친구](#e001)
-- [E002 · 우리 가족 사진](#e002)
-- [E003 · 할아버지의 손님](#e003)
-- [E004 · 내 방 꾸미기](#e004)
-- [E005 · 아침 준비](#e005)
-- [E006 · 아침 식사](#e006)
-- [E007 · 과일 바구니](#e007)
-- [E008 · 학교에 가는 길](#e008)
-- [E009 · 새로운 수업](#e009)
-- [E010 · 점심시간](#e010)
+- [E001 · Meeting a New Friend / 처음 만난 친구](#e001)
+- [E002 · Our Family Photos / 우리 가족 사진](#e002)
+- [E003 · Grandpa's Guests / 할아버지의 손님](#e003)
+- [E004 · Decorating My Room / 내 방 꾸미기](#e004)
+- [E005 · Getting Ready in the Morning / 아침 준비](#e005)
+- [E006 · Breakfast Time / 아침 식사](#e006)
+- [E007 · The Fruit Basket / 과일 바구니](#e007)
+- [E008 · On the Way to School / 학교에 가는 길](#e008)
+- [E009 · A New Lesson / 새로운 수업](#e009)
+- [E010 · Lunchtime / 점심시간](#e010)
 
 ### E011–E020
 
-- [E011 · 작은 요리사](#e011)
-- [E012 · 빵집의 하루](#e012)
-- [E013 · 저녁 외식](#e013)
-- [E014 · 즐거운 운동장](#e014)
-- [E015 · 야구 연습](#e015)
-- [E016 · 체육 시간](#e016)
-- [E017 · 호수에서 수영해요](#e017)
-- [E018 · 겨울 놀이](#e018)
-- [E019 · 그림 그리는 날](#e019)
-- [E020 · 알록달록 옷가게](#e020)
+- [E011 · The Little Cook / 작은 요리사](#e011)
+- [E012 · A Day of Baking / 빵집의 하루](#e012)
+- [E013 · Going Out for Dinner / 저녁 외식](#e013)
+- [E014 · Fun on the Playing Field / 즐거운 운동장](#e014)
+- [E015 · Baseball Practice / 야구 연습](#e015)
+- [E016 · PE Class / 체육 시간](#e016)
+- [E017 · Swimming in the Lake / 호수에서 수영해요](#e017)
+- [E018 · Winter Fun / 겨울 놀이](#e018)
+- [E019 · A Day of Drawing / 그림 그리는 날](#e019)
+- [E020 · The Colourful Clothes Shop / 알록달록 옷가게](#e020)
 
 ### E021–E030
 
-- [E021 · 동물원 나들이](#e021)
-- [E022 · 농장의 아침](#e022)
-- [E023 · 새 강아지](#e023)
-- [E024 · 정원의 선물](#e024)
-- [E025 · 숲속 산책](#e025)
-- [E026 · 바닷가에서](#e026)
-- [E027 · 비 오는 오후](#e027)
-- [E028 · 함께하는 음악](#e028)
-- [E029 · 생일 파티](#e029)
-- [E030 · 공원에서 쉼표](#e030)
+- [E021 · A Trip to the Zoo / 동물원 나들이](#e021)
+- [E022 · A Morning on the Farm / 농장의 아침](#e022)
+- [E023 · Our New Puppy / 새 강아지](#e023)
+- [E024 · Gifts from the Garden / 정원의 선물](#e024)
+- [E025 · A Walk in the Forest / 숲속 산책](#e025)
+- [E026 · At the Seaside / 바닷가에서](#e026)
+- [E027 · A Rainy Afternoon / 비 오는 오후](#e027)
+- [E028 · Making Music Together / 함께하는 음악](#e028)
+- [E029 · A Birthday Party / 생일 파티](#e029)
+- [E030 · A Break in the Park / 공원에서 쉼표](#e030)
 
 ### E031–E040
 
-- [E031 · 장난감 가게](#e031)
-- [E032 · 시장 심부름](#e032)
-- [E033 · 안전하게 건너요](#e033)
-- [E034 · 자전거 점검](#e034)
-- [E035 · 버스 여행](#e035)
-- [E036 · 첫 비행기](#e036)
-- [E037 · 시간 약속](#e037)
-- [E038 · 숫자 놀이](#e038)
-- [E039 · 달력의 표시](#e039)
-- [E040 · 경주하는 날](#e040)
+- [E031 · The Toy Shop / 장난감 가게](#e031)
+- [E032 · Shopping at the Market / 시장 심부름](#e032)
+- [E033 · Crossing the Road Safely / 안전하게 건너요](#e033)
+- [E034 · Checking My Bike / 자전거 점검](#e034)
+- [E035 · A Bus Journey / 버스 여행](#e035)
+- [E036 · My First Flight / 첫 비행기](#e036)
+- [E037 · Being on Time / 시간 약속](#e037)
+- [E038 · Playing with Numbers / 숫자 놀이](#e038)
+- [E039 · Marking the Calendar / 달력의 표시](#e039)
+- [E040 · Race Day / 경주하는 날](#e040)
 
 ### E041–E050
 
-- [E041 · 몸을 살펴봐요](#e041)
-- [E042 · 병원 견학](#e042)
-- [E043 · 감정을 말해요](#e043)
-- [E044 · 친구와 화해](#e044)
-- [E045 · 도서관의 발견](#e045)
-- [E046 · 옛 왕국 이야기](#e046)
-- [E047 · 작은 과학자](#e047)
-- [E048 · 컴퓨터 시간](#e048)
-- [E049 · 우리 반 영화](#e049)
-- [E050 · 새로운 동아리](#e050)
+- [E041 · Learning About Our Bodies / 몸을 살펴봐요](#e041)
+- [E042 · A Visit to the Hospital / 병원 견학](#e042)
+- [E043 · Talking About Feelings / 감정을 말해요](#e043)
+- [E044 · Making Up with a Friend / 친구와 화해](#e044)
+- [E045 · A Discovery at the Library / 도서관의 발견](#e045)
+- [E046 · A Story of an Old Kingdom / 옛 왕국 이야기](#e046)
+- [E047 · The Little Scientist / 작은 과학자](#e047)
+- [E048 · Computer Time / 컴퓨터 시간](#e048)
+- [E049 · Our Class Movie / 우리 반 영화](#e049)
+- [E050 · A New Club / 새로운 동아리](#e050)
 
 ### E051–E060
 
-- [E051 · 우리 동네 안내](#e051)
-- [E052 · 도움이 필요한 날](#e052)
-- [E053 · 학교 축제 준비](#e053)
-- [E054 · 가족의 특별한 날](#e054)
-- [E055 · 캠핑의 밤](#e055)
-- [E056 · 깨끗한 교실](#e056)
-- [E057 · 작은 문제 해결](#e057)
-- [E058 · 동물의 삶](#e058)
-- [E059 · 우리의 선택](#e059)
-- [E060 · 놀이 규칙](#e060)
+- [E051 · Showing a Friend Around / 우리 동네 안내](#e051)
+- [E052 · A Day for Helping / 도움이 필요한 날](#e052)
+- [E053 · Getting Ready for the School Festival / 학교 축제 준비](#e053)
+- [E054 · A Special Family Day / 가족의 특별한 날](#e054)
+- [E055 · A Night of Camping / 캠핑의 밤](#e055)
+- [E056 · A Clean Classroom / 깨끗한 교실](#e056)
+- [E057 · Solving a Small Problem / 작은 문제 해결](#e057)
+- [E058 · The Lives of Animals / 동물의 삶](#e058)
+- [E059 · Our Choice / 우리의 선택](#e059)
+- [E060 · Rules for Playing / 놀이 규칙](#e060)
 
 ### E061–E070
 
-- [E061 · 위치를 찾아요](#e061)
-- [E062 · 길을 따라가요](#e062)
-- [E063 · 언제 만날까요](#e063)
-- [E064 · 늘 하는 일](#e064)
-- [E065 · 같이 나누는 간식](#e065)
-- [E066 · 궁금한 것들](#e066)
-- [E067 · 서로 다른 모양](#e067)
-- [E068 · 공연 준비](#e068)
-- [E069 · 기억을 모으는 날](#e069)
-- [E070 · 현장 학습](#e070)
+- [E061 · Finding Things / 위치를 찾아요](#e061)
+- [E062 · Following the Path / 길을 따라가요](#e062)
+- [E063 · When Shall We Meet? / 언제 만날까요](#e063)
+- [E064 · Things We Do Every Day / 늘 하는 일](#e064)
+- [E065 · Sharing Snacks / 같이 나누는 간식](#e065)
+- [E066 · Things We Want to Know / 궁금한 것들](#e066)
+- [E067 · Different Shapes / 서로 다른 모양](#e067)
+- [E068 · Getting Ready for the Play / 공연 준비](#e068)
+- [E069 · Collecting Memories / 기억을 모으는 날](#e069)
+- [E070 · A School Trip / 현장 학습](#e070)
 
 ### E071–E080
 
-- [E071 · 달라진 하루](#e071)
-- [E072 · 문이 열렸어요](#e072)
-- [E073 · 좋은 습관](#e073)
-- [E074 · 산길의 약속](#e074)
-- [E075 · 맛과 냄새](#e075)
-- [E076 · 짝꿍과 퀴즈](#e076)
-- [E077 · 작은 발표회](#e077)
-- [E078 · 생각을 잇는 말](#e078)
-- [E079 · 작은 것을 살펴요](#e079)
-- [E080 · 소풍의 끝](#e080)
+- [E071 · A Different Kind of Day / 달라진 하루](#e071)
+- [E072 · The Door Opens / 문이 열렸어요](#e072)
+- [E073 · Good Habits / 좋은 습관](#e073)
+- [E074 · A Promise on the Mountain Path / 산길의 약속](#e074)
+- [E075 · Tastes and Smells / 맛과 냄새](#e075)
+- [E076 · A Quiz with My Partner / 짝꿍과 퀴즈](#e076)
+- [E077 · Our Little Presentation / 작은 발표회](#e077)
+- [E078 · Words That Connect Ideas / 생각을 잇는 말](#e078)
+- [E079 · Looking at Little Things / 작은 것을 살펴요](#e079)
+- [E080 · The End of the Picnic / 소풍의 끝](#e080)
 
 <a id="e001"></a>
 
-## E001 — 처음 만난 친구
+## E001 · Meeting a New Friend / 처음 만난 친구
 
 <!-- set-data: {"set_id":"E001","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1364","headword":"I","story_form":"I"},{"word_id":"v2995","headword":"you","story_form":"you"},{"word_id":"v1293","headword":"he","story_form":"he"},{"word_id":"v2373","headword":"she","story_form":"she"},{"word_id":"v2914","headword":"we","story_form":"we"},{"word_id":"v2696","headword":"they","story_form":"they"},{"word_id":"v1308","headword":"hello","story_form":"hello"},{"word_id":"v1751","headword":"name","story_form":"name"},{"word_id":"v1150","headword":"friend","story_form":"friend"},{"word_id":"v1662","headword":"meet","story_form":"meet"}]} -->
 
@@ -182,7 +182,7 @@ languages: [en, ko]
 
 <a id="e002"></a>
 
-## E002 — 우리 가족 사진
+## E002 · Our Family Photos / 우리 가족 사진
 
 <!-- set-data: {"set_id":"E002","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1033","headword":"family","story_form":"family"},{"word_id":"v1046","headword":"father","story_form":"father"},{"word_id":"v1726","headword":"mother","story_form":"mother"},{"word_id":"v0353","headword":"brother","story_form":"brother"},{"word_id":"v2413","headword":"sister","story_form":"sister"},{"word_id":"v1897","headword":"parent","story_form":"parent"},{"word_id":"v2464","headword":"son","story_form":"son"},{"word_id":"v0720","headword":"daughter","story_form":"daughter"},{"word_id":"v0207","headword":"baby","story_form":"baby"},{"word_id":"v0083","headword":"album","story_form":"album"}]} -->
 
@@ -223,7 +223,7 @@ Dad laughs and points to another photograph on the page.
 
 <a id="e003"></a>
 
-## E003 — 할아버지의 손님
+## E003 · Grandpa's Guests / 할아버지의 손님
 
 <!-- set-data: {"set_id":"E003","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1233","headword":"grandfather","story_form":"grandfather"},{"word_id":"v0192","headword":"aunt","story_form":"aunt"},{"word_id":"v2819","headword":"uncle","story_form":"uncle"},{"word_id":"v0658","headword":"cousin","story_form":"cousin"},{"word_id":"v1361","headword":"husband","story_form":"husband"},{"word_id":"v2953","headword":"wife","story_form":"wife"},{"word_id":"v1622","headword":"man","story_form":"man"},{"word_id":"v2972","headword":"woman","story_form":"woman"},{"word_id":"v0049","headword":"adult","story_form":"adult"},{"word_id":"v2996","headword":"young","story_form":"young"}]} -->
 
@@ -264,7 +264,7 @@ An **adult** helps him, and we all share the cake.
 
 <a id="e004"></a>
 
-## E004 — 내 방 꾸미기
+## E004 · Decorating My Room / 내 방 꾸미기
 
 <!-- set-data: {"set_id":"E004","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v2264","headword":"room","story_form":"room"},{"word_id":"v0250","headword":"bed","story_form":"bed"},{"word_id":"v0777","headword":"desk","story_form":"desk"},{"word_id":"v0437","headword":"chair","story_form":"chair"},{"word_id":"v0849","headword":"door","story_form":"door"},{"word_id":"v2958","headword":"window","story_form":"window"},{"word_id":"v2899","headword":"wall","story_form":"wall"},{"word_id":"v1102","headword":"floor","story_form":"floor"},{"word_id":"v0699","headword":"curtain","story_form":"curtain"},{"word_id":"v0504","headword":"clock","story_form":"clock"}]} -->
 
@@ -305,7 +305,7 @@ I open the **curtain**, and sunlight fills the **room**.
 
 <a id="e005"></a>
 
-## E005 — 아침 준비
+## E005 · Getting Ready in the Morning / 아침 준비
 
 <!-- set-data: {"set_id":"E005","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1724","headword":"morning","story_form":"morning"},{"word_id":"v2897","headword":"wake","story_form":"wake"},{"word_id":"v2907","headword":"wash","story_form":"wash"},{"word_id":"v0355","headword":"brush","story_form":"brush"},{"word_id":"v2747","headword":"tooth","story_form":"teeth"},{"word_id":"v1017","headword":"face","story_form":"face"},{"word_id":"v1269","headword":"hair","story_form":"hair"},{"word_id":"v0864","headword":"dress","story_form":"dress"},{"word_id":"v2454","headword":"sock","story_form":"sock"},{"word_id":"v2384","headword":"shoe","story_form":"shoe"}]} -->
 
@@ -346,7 +346,7 @@ It is inside a **shoe**, waiting for my foot!
 
 <a id="e006"></a>
 
-## E006 — 아침 식사
+## E006 · Breakfast Time / 아침 식사
 
 <!-- set-data: {"set_id":"E006","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0339","headword":"breakfast","story_form":"breakfast"},{"word_id":"v0337","headword":"bread","story_form":"bread"},{"word_id":"v0377","headword":"butter","story_form":"butter"},{"word_id":"v1476","headword":"jam","story_form":"jam"},{"word_id":"v0899","headword":"egg","story_form":"egg"},{"word_id":"v1686","headword":"milk","story_form":"milk"},{"word_id":"v1489","headword":"juice","story_form":"juice"},{"word_id":"v0690","headword":"cup","story_form":"cup"},{"word_id":"v0891","headword":"eat","story_form":"eat"},{"word_id":"v0866","headword":"drink","story_form":"drink"}]} -->
 
@@ -387,7 +387,7 @@ We sit down to **eat** when Mum is ready.
 
 <a id="e007"></a>
 
-## E007 — 과일 바구니
+## E007 · The Fruit Basket / 과일 바구니
 
 <!-- set-data: {"set_id":"E007","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0139","headword":"apple","story_form":"apple"},{"word_id":"v0219","headword":"banana","story_form":"banana"},{"word_id":"v1849","headword":"orange","story_form":"orange"},{"word_id":"v1235","headword":"grape","story_form":"grape"},{"word_id":"v2911","headword":"watermelon","story_form":"watermelon"},{"word_id":"v1157","headword":"fruit","story_form":"fruit"},{"word_id":"v0232","headword":"basket","story_form":"basket"},{"word_id":"v1149","headword":"fresh","story_form":"fresh"},{"word_id":"v1953","headword":"pick","story_form":"pick"},{"word_id":"v2634","headword":"table","story_form":"table"}]} -->
 
@@ -428,7 +428,7 @@ We save the big **watermelon** for everyone to enjoy later.
 
 <a id="e008"></a>
 
-## E008 — 학교에 가는 길
+## E008 · On the Way to School / 학교에 가는 길
 
 <!-- set-data: {"set_id":"E008","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v2313","headword":"school","story_form":"school"},{"word_id":"v0213","headword":"bag","story_form":"bag"},{"word_id":"v0314","headword":"book","story_form":"book"},{"word_id":"v1929","headword":"pencil","story_form":"pencil"},{"word_id":"v1927","headword":"pen","story_form":"pen"},{"word_id":"v1800","headword":"notebook","story_form":"notebook"},{"word_id":"v2684","headword":"textbook","story_form":"textbook"},{"word_id":"v1333","headword":"homework","story_form":"homework"},{"word_id":"v0489","headword":"class","story_form":"class"},{"word_id":"v0262","headword":"bell","story_form":"bell"}]} -->
 
@@ -469,7 +469,7 @@ Our **class** is ready for a new day together.
 
 <a id="e009"></a>
 
-## E009 — 새로운 수업
+## E009 · A New Lesson / 새로운 수업
 
 <!-- set-data: {"set_id":"E009","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1546","headword":"learn","story_form":"learn"},{"word_id":"v2570","headword":"study","story_form":"study"},{"word_id":"v1560","headword":"lesson","story_form":"lesson"},{"word_id":"v2652","headword":"teach","story_form":"teach"},{"word_id":"v2146","headword":"read","story_form":"read"},{"word_id":"v2986","headword":"write","story_form":"write"},{"word_id":"v1583","headword":"listen","story_form":"listen"},{"word_id":"v2482","headword":"speak","story_form":"speak"},{"word_id":"v2117","headword":"question","story_form":"question"},{"word_id":"v0127","headword":"answer","story_form":"answer"}]} -->
 
@@ -510,7 +510,7 @@ I **write** her **answer** down so I will remember it.
 
 <a id="e010"></a>
 
-## E010 — 점심시간
+## E010 · Lunchtime / 점심시간
 
 <!-- set-data: {"set_id":"E010","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1608","headword":"lunch","story_form":"lunch"},{"word_id":"v1114","headword":"food","story_form":"food"},{"word_id":"v2473","headword":"soup","story_form":"soup"},{"word_id":"v2289","headword":"salad","story_form":"salad"},{"word_id":"v2296","headword":"sandwich","story_form":"sandwich"},{"word_id":"v0458","headword":"cheese","story_form":"cheese"},{"word_id":"v0463","headword":"chicken","story_form":"chicken"},{"word_id":"v0752","headword":"delicious","story_form":"delicious"},{"word_id":"v1162","headword":"full","story_form":"full"},{"word_id":"v2500","headword":"spoon","story_form":"spoon"}]} -->
 
@@ -551,7 +551,7 @@ Soon I am **full** and ready to play outside.
 
 <a id="e011"></a>
 
-## E011 — 작은 요리사
+## E011 · The Little Cook / 작은 요리사
 
 <!-- set-data: {"set_id":"E011","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1505","headword":"kitchen","story_form":"kitchen"},{"word_id":"v0622","headword":"cook","story_form":"cook"},{"word_id":"v1507","headword":"knife","story_form":"knife"},{"word_id":"v0704","headword":"cut","story_form":"cut"},{"word_id":"v0409","headword":"carrot","story_form":"carrot"},{"word_id":"v2014","headword":"potato","story_form":"potato"},{"word_id":"v2740","headword":"tomato","story_form":"tomato"},{"word_id":"v2858","headword":"vegetable","story_form":"vegetable"},{"word_id":"v1653","headword":"meat","story_form":"meat"},{"word_id":"v1071","headword":"fill","story_form":"fill"}]} -->
 
@@ -592,7 +592,7 @@ Soon our soup is cooking, and we clean the table together.
 
 <a id="e012"></a>
 
-## E012 — 빵집의 하루
+## E012 · A Day of Baking / 빵집의 하루
 
 <!-- set-data: {"set_id":"E012","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0214","headword":"bake","story_form":"bake"},{"word_id":"v0384","headword":"cake","story_form":"cake"},{"word_id":"v0623","headword":"cookie","story_form":"cookie"},{"word_id":"v0286","headword":"biscuit","story_form":"biscuit"},{"word_id":"v0854","headword":"doughnut","story_form":"doughnut"},{"word_id":"v0469","headword":"chocolate","story_form":"chocolate"},{"word_id":"v2589","headword":"sugar","story_form":"sugar"},{"word_id":"v0667","headword":"cream","story_form":"cream"},{"word_id":"v0396","headword":"candy","story_form":"candy"},{"word_id":"v2648","headword":"taste","story_form":"taste"}]} -->
 
@@ -633,7 +633,7 @@ We add a **candy** picture and give the card to our aunt.
 
 <a id="e013"></a>
 
-## E013 — 저녁 외식
+## E013 · Going Out for Dinner / 저녁 외식
 
 <!-- set-data: {"set_id":"E013","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0808","headword":"dinner","story_form":"dinner"},{"word_id":"v2219","headword":"restaurant","story_form":"restaurant"},{"word_id":"v1273","headword":"hamburger","story_form":"hamburger"},{"word_id":"v1970","headword":"pizza","story_form":"pizza"},{"word_id":"v2478","headword":"spaghetti","story_form":"spaghetti"},{"word_id":"v2530","headword":"steak","story_form":"steak"},{"word_id":"v0252","headword":"beef","story_form":"beef"},{"word_id":"v1128","headword":"fork","story_form":"fork"},{"word_id":"v1211","headword":"glass","story_form":"glass"},{"word_id":"v1981","headword":"please","story_form":"please"}]} -->
 
@@ -674,7 +674,7 @@ We share a little of each dish and talk about our day.
 
 <a id="e014"></a>
 
-## E014 — 즐거운 운동장
+## E014 · Fun on the Playing Field / 즐거운 운동장
 
 <!-- set-data: {"set_id":"E014","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1980","headword":"play","story_form":"play"},{"word_id":"v0216","headword":"ball","story_form":"ball"},{"word_id":"v2450","headword":"soccer","story_form":"soccer"},{"word_id":"v1117","headword":"football","story_form":"football"},{"word_id":"v1498","headword":"kick","story_form":"kick"},{"word_id":"v1218","headword":"goal","story_form":"goal"},{"word_id":"v2653","headword":"team","story_form":"team"},{"word_id":"v2501","headword":"sport","story_form":"sport"},{"word_id":"v1066","headword":"field","story_form":"field"},{"word_id":"v1178","headword":"game","story_form":"game"}]} -->
 
@@ -715,7 +715,7 @@ Soon everyone is running and having fun together.
 
 <a id="e015"></a>
 
-## E015 — 야구 연습
+## E015 · Baseball Practice / 야구 연습
 
 <!-- set-data: {"set_id":"E015","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0230","headword":"baseball","story_form":"baseball"},{"word_id":"v0234","headword":"bat","story_form":"bat"},{"word_id":"v0419","headword":"catch","story_form":"catch"},{"word_id":"v1326","headword":"hit","story_form":"hit"},{"word_id":"v0229","headword":"base","story_form":"base"},{"word_id":"v1275","headword":"hand","story_form":"hand"},{"word_id":"v2280","headword":"run","story_form":"run"},{"word_id":"v1042","headword":"fast","story_form":"fast"},{"word_id":"v0331","headword":"boy","story_form":"boy"},{"word_id":"v1242","headword":"great","story_form":"great"}]} -->
 
@@ -756,7 +756,7 @@ He hits the ball, and I try to **catch** it.
 
 <a id="e016"></a>
 
-## E016 — 체육 시간
+## E016 · PE Class / 체육 시간
 
 <!-- set-data: {"set_id":"E016","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0233","headword":"basketball","story_form":"basketball"},{"word_id":"v0212","headword":"badminton","story_form":"badminton"},{"word_id":"v2671","headword":"tennis","story_form":"tennis"},{"word_id":"v0657","headword":"court","story_form":"court"},{"word_id":"v1490","headword":"jump","story_form":"jump"},{"word_id":"v1318","headword":"high","story_form":"high"},{"word_id":"v1604","headword":"low","story_form":"low"},{"word_id":"v2642","headword":"tall","story_form":"tall"},{"word_id":"v2388","headword":"short","story_form":"short"},{"word_id":"v1206","headword":"girl","story_form":"girl"}]} -->
 
@@ -797,7 +797,7 @@ We each find something new that we enjoy.
 
 <a id="e017"></a>
 
-## E017 — 호수에서 수영해요
+## E017 · Swimming in the Lake / 호수에서 수영해요
 
 <!-- set-data: {"set_id":"E017","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v2626","headword":"swim","story_form":"swim"},{"word_id":"v2910","headword":"water","story_form":"water"},{"word_id":"v0519","headword":"cold","story_form":"cold"},{"word_id":"v2904","headword":"warm","story_form":"warm"},{"word_id":"v1345","headword":"hot","story_form":"hot"},{"word_id":"v2933","headword":"wet","story_form":"wet"},{"word_id":"v0872","headword":"dry","story_form":"dry"},{"word_id":"v2595","headword":"summer","story_form":"summer"},{"word_id":"v0235","headword":"bath","story_form":"bath"},{"word_id":"v1519","headword":"lake","story_form":"lake"}]} -->
 
@@ -838,7 +838,7 @@ At home, I have a **bath** before dinner.
 
 <a id="e018"></a>
 
-## E018 — 겨울 놀이
+## E018 · Winter Fun / 겨울 놀이
 
 <!-- set-data: {"set_id":"E018","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v2961","headword":"winter","story_form":"winter"},{"word_id":"v2446","headword":"snow","story_form":"snow"},{"word_id":"v1365","headword":"ice","story_form":"ice"},{"word_id":"v2420","headword":"ski","story_form":"ski"},{"word_id":"v2419","headword":"skate","story_form":"skate"},{"word_id":"v2327","headword":"season","story_form":"season"},{"word_id":"v0514","headword":"coat","story_form":"coat"},{"word_id":"v1474","headword":"jacket","story_form":"jacket"},{"word_id":"v1288","headword":"hat","story_form":"hat"},{"word_id":"v2947","headword":"white","story_form":"white"}]} -->
 
@@ -879,7 +879,7 @@ Tomorrow, we will learn to **skate** on the **ice** at a rink.
 
 <a id="e019"></a>
 
-## E019 — 그림 그리는 날
+## E019 · A Day of Drawing / 그림 그리는 날
 
 <!-- set-data: {"set_id":"E019","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0158","headword":"art","story_form":"art"},{"word_id":"v0861","headword":"draw","story_form":"draw"},{"word_id":"v1883","headword":"paint","story_form":"paint"},{"word_id":"v0665","headword":"crayon","story_form":"crayon"},{"word_id":"v0527","headword":"color","story_form":"color"},{"word_id":"v2162","headword":"red","story_form":"red"},{"word_id":"v0305","headword":"blue","story_form":"blue"},{"word_id":"v2990","headword":"yellow","story_form":"yellow"},{"word_id":"v1244","headword":"green","story_form":"green"},{"word_id":"v1955","headword":"picture","story_form":"picture"}]} -->
 
@@ -920,7 +920,7 @@ My **picture** looks like a happy place for everyone.
 
 <a id="e020"></a>
 
-## E020 — 알록달록 옷가게
+## E020 · The Colourful Clothes Shop / 알록달록 옷가게
 
 <!-- set-data: {"set_id":"E020","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0506","headword":"clothes","story_form":"clothes"},{"word_id":"v2382","headword":"shirt","story_form":"shirt"},{"word_id":"v1891","headword":"pants","story_form":"pants"},{"word_id":"v2424","headword":"skirt","story_form":"skirt"},{"word_id":"v0265","headword":"belt","story_form":"belt"},{"word_id":"v0398","headword":"cap","story_form":"cap"},{"word_id":"v2918","headword":"wear","story_form":"wear"},{"word_id":"v2418","headword":"size","story_form":"size"},{"word_id":"v1965","headword":"pink","story_form":"pink"},{"word_id":"v2572","headword":"style","story_form":"style"}]} -->
 
@@ -961,7 +961,7 @@ We have a different **style**, but we both feel happy.
 
 <a id="e021"></a>
 
-## E021 — 동물원 나들이
+## E021 · A Trip to the Zoo / 동물원 나들이
 
 <!-- set-data: {"set_id":"E021","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v3000","headword":"zoo","story_form":"zoo"},{"word_id":"v0121","headword":"animal","story_form":"animal"},{"word_id":"v1579","headword":"lion","story_form":"lion"},{"word_id":"v2723","headword":"tiger","story_form":"tiger"},{"word_id":"v0908","headword":"elephant","story_form":"elephant"},{"word_id":"v1716","headword":"monkey","story_form":"monkey"},{"word_id":"v0243","headword":"bear","story_form":"bear"},{"word_id":"v2335","headword":"see","story_form":"see"},{"word_id":"v1597","headword":"look","story_form":"look"},{"word_id":"v0465","headword":"child","story_form":"child"}]} -->
 
@@ -1002,7 +1002,7 @@ We help him find it before visiting the elephants.
 
 <a id="e022"></a>
 
-## E022 — 농장의 아침
+## E022 · A Morning on the Farm / 농장의 아침
 
 <!-- set-data: {"set_id":"E022","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1039","headword":"farm","story_form":"farm"},{"word_id":"v0660","headword":"cow","story_form":"cow"},{"word_id":"v1958","headword":"pig","story_form":"pig"},{"word_id":"v1341","headword":"horse","story_form":"horse"},{"word_id":"v0874","headword":"duck","story_form":"duck"},{"word_id":"v1238","headword":"grass","story_form":"grass"},{"word_id":"v0500","headword":"climb","story_form":"climb"},{"word_id":"v0354","headword":"brown","story_form":"brown"},{"word_id":"v0290","headword":"black","story_form":"black"},{"word_id":"v0531","headword":"come","story_form":"come"}]} -->
 
@@ -1043,7 +1043,7 @@ From there, we can see all the animals below.
 
 <a id="e023"></a>
 
-## E023 — 새 강아지
+## E023 · Our New Puppy / 새 강아지
 
 <!-- set-data: {"set_id":"E023","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0842","headword":"dog","story_form":"dog"},{"word_id":"v2104","headword":"puppy","story_form":"puppy"},{"word_id":"v0417","headword":"cat","story_form":"cat"},{"word_id":"v2125","headword":"rabbit","story_form":"rabbit"},{"word_id":"v1732","headword":"mouse","story_form":"mouse"},{"word_id":"v2637","headword":"tail","story_form":"tail"},{"word_id":"v2435","headword":"small","story_form":"small"},{"word_id":"v2455","headword":"soft","story_form":"soft"},{"word_id":"v1782","headword":"nice","story_form":"nice"},{"word_id":"v1223","headword":"good","story_form":"good"}]} -->
 
@@ -1084,7 +1084,7 @@ Our **small** **rabbit** watches from its safe pen nearby.
 
 <a id="e024"></a>
 
-## E024 — 정원의 선물
+## E024 · Gifts from the Garden / 정원의 선물
 
 <!-- set-data: {"set_id":"E024","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1182","headword":"garden","story_form":"garden"},{"word_id":"v1105","headword":"flower","story_form":"flower"},{"word_id":"v2267","headword":"rose","story_form":"rose"},{"word_id":"v2783","headword":"tree","story_form":"tree"},{"word_id":"v1252","headword":"grow","story_form":"grow"},{"word_id":"v0251","headword":"bee","story_form":"bee"},{"word_id":"v1757","headword":"nature","story_form":"nature"},{"word_id":"v2506","headword":"spring","story_form":"spring"},{"word_id":"v0196","headword":"autumn","story_form":"autumn"},{"word_id":"v0247","headword":"beauty","story_form":"beauty"}]} -->
 
@@ -1125,7 +1125,7 @@ I begin to see the **beauty** of **nature** in every season.
 
 <a id="e025"></a>
 
-## E025 — 숲속 산책
+## E025 · A Walk in the Forest / 숲속 산책
 
 <!-- set-data: {"set_id":"E025","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1124","headword":"forest","story_form":"forest"},{"word_id":"v0284","headword":"bird","story_form":"bird"},{"word_id":"v1141","headword":"fox","story_form":"fox"},{"word_id":"v1731","headword":"mountain","story_form":"mountain"},{"word_id":"v1322","headword":"hill","story_form":"hill"},{"word_id":"v1321","headword":"hike","story_form":"hike"},{"word_id":"v2898","headword":"walk","story_form":"walk"},{"word_id":"v1250","headword":"ground","story_form":"ground"},{"word_id":"v2545","headword":"stone","story_form":"stone"},{"word_id":"v2257","headword":"rock","story_form":"rock"}]} -->
 
@@ -1166,7 +1166,7 @@ We rest beside a large **rock** before heading home.
 
 <a id="e026"></a>
 
-## E026 — 바닷가에서
+## E026 · At the Seaside / 바닷가에서
 
 <!-- set-data: {"set_id":"E026","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v2324","headword":"sea","story_form":"sea"},{"word_id":"v0240","headword":"beach","story_form":"beach"},{"word_id":"v2295","headword":"sand","story_form":"sand"},{"word_id":"v1084","headword":"fish","story_form":"fish"},{"word_id":"v0307","headword":"boat","story_form":"boat"},{"word_id":"v2381","headword":"ship","story_form":"ship"},{"word_id":"v2425","headword":"sky","story_form":"sky"},{"word_id":"v0738","headword":"deep","story_form":"deep"},{"word_id":"v2251","headword":"river","story_form":"river"},{"word_id":"v0346","headword":"bridge","story_form":"bridge"}]} -->
 
@@ -1207,7 +1207,7 @@ The **sky** turns pink as we finish our picnic.
 
 <a id="e027"></a>
 
-## E027 — 비 오는 오후
+## E027 · A Rainy Afternoon / 비 오는 오후
 
 <!-- set-data: {"set_id":"E027","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v2130","headword":"rain","story_form":"rain"},{"word_id":"v2818","headword":"umbrella","story_form":"umbrella"},{"word_id":"v2919","headword":"weather","story_form":"weather"},{"word_id":"v2957","headword":"wind","story_form":"wind"},{"word_id":"v0507","headword":"cloud","story_form":"cloud"},{"word_id":"v2597","headword":"sun","story_form":"sun"},{"word_id":"v0064","headword":"afternoon","story_form":"afternoon"},{"word_id":"v0348","headword":"bright","story_form":"bright"},{"word_id":"v0878","headword":"during","story_form":"during"},{"word_id":"v1029","headword":"fall","story_form":"fall"}]} -->
 
@@ -1248,7 +1248,7 @@ By the time we arrive home, the sky is **bright** again.
 
 <a id="e028"></a>
 
-## E028 — 함께하는 음악
+## E028 · Making Music Together / 함께하는 음악
 
 <!-- set-data: {"set_id":"E028","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1743","headword":"music","story_form":"music"},{"word_id":"v2465","headword":"song","story_form":"song"},{"word_id":"v2410","headword":"sing","story_form":"sing"},{"word_id":"v1952","headword":"piano","story_form":"piano"},{"word_id":"v1261","headword":"guitar","story_form":"guitar"},{"word_id":"v2879","headword":"violin","story_form":"violin"},{"word_id":"v0871","headword":"drum","story_form":"drum"},{"word_id":"v0711","headword":"dance","story_form":"dance"},{"word_id":"v2472","headword":"sound","story_form":"sound"},{"word_id":"v2891","headword":"voice","story_form":"voice"}]} -->
 
@@ -1289,7 +1289,7 @@ Soon everyone wants to **dance** to our happy **music**.
 
 <a id="e029"></a>
 
-## E029 — 생일 파티
+## E029 · A Birthday Party / 생일 파티
 
 <!-- set-data: {"set_id":"E029","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0285","headword":"birth","story_form":"birth"},{"word_id":"v1905","headword":"party","story_form":"party"},{"word_id":"v2035","headword":"present","story_form":"present"},{"word_id":"v2239","headword":"ribbon","story_form":"ribbon"},{"word_id":"v1464","headword":"invite","story_form":"invite"},{"word_id":"v1281","headword":"happy","story_form":"happy"},{"word_id":"v0067","headword":"age","story_form":"age"},{"word_id":"v1503","headword":"kiss","story_form":"kiss"},{"word_id":"v1603","headword":"love","story_form":"love"},{"word_id":"v0405","headword":"card","story_form":"card"}]} -->
 
@@ -1330,7 +1330,7 @@ She gives her a gentle **kiss**, and the room feels full of **love**.
 
 <a id="e030"></a>
 
-## E030 — 공원에서 쉼표
+## E030 · A Break in the Park / 공원에서 쉼표
 
 <!-- set-data: {"set_id":"E030","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1898","headword":"park","story_form":"park"},{"word_id":"v2414","headword":"sit","story_form":"sit"},{"word_id":"v2517","headword":"stand","story_form":"stand"},{"word_id":"v2120","headword":"quiet","story_form":"quiet"},{"word_id":"v2439","headword":"smile","story_form":"smile"},{"word_id":"v1163","headword":"fun","story_form":"fun"},{"word_id":"v2160","headword":"recreation","story_form":"recreation"},{"word_id":"v1196","headword":"gentleman","story_form":"gentleman"},{"word_id":"v1518","headword":"lady","story_form":"lady"},{"word_id":"v0653","headword":"couple","story_form":"couple"}]} -->
 
@@ -1371,7 +1371,7 @@ We do very little, but we still have **fun** together.
 
 <a id="e031"></a>
 
-## E031 — 장난감 가게
+## E031 · The Toy Shop / 장난감 가게
 
 <!-- set-data: {"set_id":"E031","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v2761","headword":"toy","story_form":"toy"},{"word_id":"v0843","headword":"doll","story_form":"doll"},{"word_id":"v2256","headword":"robot","story_form":"robot"},{"word_id":"v1707","headword":"model","story_form":"model"},{"word_id":"v2547","headword":"store","story_form":"store"},{"word_id":"v2386","headword":"shop","story_form":"shop"},{"word_id":"v0379","headword":"buy","story_form":"buy"},{"word_id":"v1714","headword":"money","story_form":"money"},{"word_id":"v0454","headword":"cheap","story_form":"cheap"},{"word_id":"v0378","headword":"button","story_form":"button"}]} -->
 
@@ -1412,7 +1412,7 @@ I will save more before I **buy** my new **toy**.
 
 <a id="e032"></a>
 
-## E032 — 시장 심부름
+## E032 · Shopping at the Market / 시장 심부름
 
 <!-- set-data: {"set_id":"E032","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1634","headword":"market","story_form":"market"},{"word_id":"v0703","headword":"customer","story_form":"customer"},{"word_id":"v2342","headword":"sell","story_form":"sell"},{"word_id":"v2291","headword":"sale","story_form":"sale"},{"word_id":"v0414","headword":"cash","story_form":"cash"},{"word_id":"v1920","headword":"pay","story_form":"pay"},{"word_id":"v0278","headword":"bill","story_form":"bill"},{"word_id":"v0640","headword":"cost","story_form":"cost"},{"word_id":"v0443","headword":"change","story_form":"change"},{"word_id":"v0222","headword":"bank","story_form":"bank"}]} -->
 
@@ -1453,7 +1453,7 @@ I count the **change** before putting it safely away.
 
 <a id="e033"></a>
 
-## E033 — 안전하게 건너요
+## E033 · Crossing the Road Safely / 안전하게 건너요
 
 <!-- set-data: {"set_id":"E033","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v2557","headword":"street","story_form":"street"},{"word_id":"v2252","headword":"road","story_form":"road"},{"word_id":"v0679","headword":"cross","story_form":"cross"},{"word_id":"v1572","headword":"light","story_form":"light"},{"word_id":"v2546","headword":"stop","story_form":"stop"},{"word_id":"v2287","headword":"safe","story_form":"safe"},{"word_id":"v1991","headword":"police","story_form":"police"},{"word_id":"v1930","headword":"people","story_form":"people"},{"word_id":"v1906","headword":"pass","story_form":"pass"},{"word_id":"v0493","headword":"clear","story_form":"clear"}]} -->
 
@@ -1494,7 +1494,7 @@ Then we walk across together when it is **safe**.
 
 <a id="e034"></a>
 
-## E034 — 자전거 점검
+## E034 · Checking My Bike / 자전거 점검
 
 <!-- set-data: {"set_id":"E034","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0277","headword":"bike","story_form":"bike"},{"word_id":"v1309","headword":"helmet","story_form":"helmet"},{"word_id":"v2731","headword":"tire","story_form":"tire"},{"word_id":"v1087","headword":"fix","story_form":"fix"},{"word_id":"v2434","headword":"slow","story_form":"slow"},{"word_id":"v2488","headword":"speed","story_form":"speed"},{"word_id":"v2804","headword":"turn","story_form":"turn"},{"word_id":"v2245","headword":"right","story_form":"right"},{"word_id":"v0614","headword":"control","story_form":"control"},{"word_id":"v1116","headword":"foot","story_form":"foot"}]} -->
 
@@ -1535,7 +1535,7 @@ I stop carefully and put one **foot** on the ground.
 
 <a id="e035"></a>
 
-## E035 — 버스 여행
+## E035 · A Bus Journey / 버스 여행
 
 <!-- set-data: {"set_id":"E035","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0371","headword":"bus","story_form":"bus"},{"word_id":"v2581","headword":"subway","story_form":"subway"},{"word_id":"v2769","headword":"train","story_form":"train"},{"word_id":"v2650","headword":"taxi","story_form":"taxi"},{"word_id":"v0404","headword":"car","story_form":"car"},{"word_id":"v2795","headword":"truck","story_form":"truck"},{"word_id":"v0867","headword":"drive","story_form":"drive"},{"word_id":"v2778","headword":"travel","story_form":"travel"},{"word_id":"v2791","headword":"trip","story_form":"trip"},{"word_id":"v2720","headword":"ticket","story_form":"ticket"}]} -->
 
@@ -1576,7 +1576,7 @@ At the other end, a **taxi** takes us to Grandma's door.
 
 <a id="e036"></a>
 
-## E036 — 첫 비행기
+## E036 · My First Flight / 첫 비행기
 
 <!-- set-data: {"set_id":"E036","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0080","headword":"airplane","story_form":"airplane"},{"word_id":"v1961","headword":"pilot","story_form":"pilot"},{"word_id":"v0078","headword":"air","story_form":"air"},{"word_id":"v1107","headword":"fly","story_form":"fly"},{"word_id":"v1522","headword":"land","story_form":"land"},{"word_id":"v0650","headword":"country","story_form":"country"},{"word_id":"v2978","headword":"world","story_form":"world"},{"word_id":"v1629","headword":"map","story_form":"map"},{"word_id":"v1796","headword":"north","story_form":"north"},{"word_id":"v1867","headword":"over","story_form":"over"}]} -->
 
@@ -1617,7 +1617,7 @@ I watch through the window as we **land** at last.
 
 <a id="e037"></a>
 
-## E037 — 시간 약속
+## E037 · Being on Time / 시간 약속
 
 <!-- set-data: {"set_id":"E037","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v2727","headword":"time","story_form":"time"},{"word_id":"v1347","headword":"hour","story_form":"hour"},{"word_id":"v0722","headword":"day","story_form":"day"},{"word_id":"v2924","headword":"week","story_form":"week"},{"word_id":"v1718","headword":"month","story_form":"month"},{"word_id":"v2988","headword":"year","story_form":"year"},{"word_id":"v0886","headword":"early","story_form":"early"},{"word_id":"v1530","headword":"late","story_form":"late"},{"word_id":"v2896","headword":"wait","story_form":"wait"},{"word_id":"v0156","headword":"arrive","story_form":"arrive"}]} -->
 
@@ -1658,7 +1658,7 @@ Nobody is **late**, so we can begin together.
 
 <a id="e038"></a>
 
-## E038 — 숫자 놀이
+## E038 · Playing with Numbers / 숫자 놀이
 
 <!-- set-data: {"set_id":"E038","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1837","headword":"one","story_form":"one"},{"word_id":"v2814","headword":"two","story_form":"two"},{"word_id":"v2712","headword":"three","story_form":"three"},{"word_id":"v1140","headword":"four","story_form":"four"},{"word_id":"v1086","headword":"five","story_form":"five"},{"word_id":"v2417","headword":"six","story_form":"six"},{"word_id":"v2358","headword":"seven","story_form":"seven"},{"word_id":"v0900","headword":"eight","story_form":"eight"},{"word_id":"v1785","headword":"nine","story_form":"nine"},{"word_id":"v2667","headword":"ten","story_form":"ten"}]} -->
 
@@ -1699,7 +1699,7 @@ Our tall tower stands until the cat walks past!
 
 <a id="e039"></a>
 
-## E039 — 달력의 표시
+## E039 · Marking the Calendar / 달력의 표시
 
 <!-- set-data: {"set_id":"E039","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0910","headword":"eleven","story_form":"eleven"},{"word_id":"v2806","headword":"twelve","story_form":"twelve"},{"word_id":"v2704","headword":"thirteen","story_form":"thirteen"},{"word_id":"v2807","headword":"twenty","story_form":"twenty"},{"word_id":"v2705","headword":"thirty","story_form":"thirty"},{"word_id":"v1356","headword":"hundred","story_form":"hundred"},{"word_id":"v0718","headword":"date","story_form":"date"},{"word_id":"v2808","headword":"twenty-first","story_form":"twenty-first"},{"word_id":"v2809","headword":"twenty-second","story_form":"twenty-second"},{"word_id":"v2810","headword":"twenty-third","story_form":"twenty-third"}]} -->
 
@@ -1740,7 +1740,7 @@ A **hundred** colorful paper stars make the room look lovely.
 
 <a id="e040"></a>
 
-## E040 — 경주하는 날
+## E040 · Race Day / 경주하는 날
 
 <!-- set-data: {"set_id":"E040","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v2126","headword":"race","story_form":"race"},{"word_id":"v1630","headword":"marathon","story_form":"marathon"},{"word_id":"v2763","headword":"track","story_form":"track"},{"word_id":"v2521","headword":"start","story_form":"start"},{"word_id":"v1079","headword":"finish","story_form":"finish"},{"word_id":"v1083","headword":"first","story_form":"first"},{"word_id":"v2329","headword":"second","story_form":"second"},{"word_id":"v2702","headword":"third","story_form":"third"},{"word_id":"v1656","headword":"medal","story_form":"medal"},{"word_id":"v2956","headword":"win","story_form":"win"}]} -->
 
@@ -1781,7 +1781,7 @@ I hold my **medal** and cheer for everyone behind us.
 
 <a id="e041"></a>
 
-## E041 — 몸을 살펴봐요
+## E041 · Learning About Our Bodies / 몸을 살펴봐요
 
 <!-- set-data: {"set_id":"E041","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0308","headword":"body","story_form":"body"},{"word_id":"v1294","headword":"head","story_form":"head"},{"word_id":"v1014","headword":"eye","story_form":"eyes"},{"word_id":"v0885","headword":"ear","story_form":"ears"},{"word_id":"v1797","headword":"nose","story_form":"nose"},{"word_id":"v1733","headword":"mouth","story_form":"mouth"},{"word_id":"v1580","headword":"lip","story_form":"lips"},{"word_id":"v1762","headword":"neck","story_form":"neck"},{"word_id":"v0151","headword":"arm","story_form":"arm"},{"word_id":"v1552","headword":"leg","story_form":"leg"}]} -->
 
@@ -1822,7 +1822,7 @@ Our picture helps us remember the words together.
 
 <a id="e042"></a>
 
-## E042 — 병원 견학
+## E042 · A Visit to the Hospital / 병원 견학
 
 <!-- set-data: {"set_id":"E042","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v2396","headword":"sick","story_form":"sick"},{"word_id":"v1810","headword":"nurse","story_form":"nurse"},{"word_id":"v0840","headword":"doctor","story_form":"doctor"},{"word_id":"v1342","headword":"hospital","story_form":"hospital"},{"word_id":"v0301","headword":"blood","story_form":"blood"},{"word_id":"v0313","headword":"bone","story_form":"bone"},{"word_id":"v2422","headword":"skin","story_form":"skin"},{"word_id":"v1299","headword":"heart","story_form":"heart"},{"word_id":"v1078","headword":"finger","story_form":"finger"},{"word_id":"v1077","headword":"fine","story_form":"fine"}]} -->
 
@@ -1863,7 +1863,7 @@ A **doctor** points to a **bone** beneath the model's **skin**.
 
 <a id="e043"></a>
 
-## E043 — 감정을 말해요
+## E043 · Talking About Feelings / 감정을 말해요
 
 <!-- set-data: {"set_id":"E043","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1055","headword":"feel","story_form":"feel"},{"word_id":"v2286","headword":"sad","story_form":"sad"},{"word_id":"v0062","headword":"afraid","story_form":"afraid"},{"word_id":"v1611","headword":"mad","story_form":"mad"},{"word_id":"v2395","headword":"shy","story_form":"shy"},{"word_id":"v2979","headword":"worry","story_form":"worry"},{"word_id":"v0686","headword":"cry","story_form":"cry"},{"word_id":"v1208","headword":"glad","story_form":"glad"},{"word_id":"v1338","headword":"hope","story_form":"hope"},{"word_id":"v2469","headword":"sorry","story_form":"sorry"}]} -->
 
@@ -1904,7 +1904,7 @@ I am **glad** we can talk and play again.
 
 <a id="e044"></a>
 
-## E044 — 친구와 화해
+## E044 · Making Up with a Friend / 친구와 화해
 
 <!-- set-data: {"set_id":"E044","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1068","headword":"fight","story_form":"fight"},{"word_id":"v1501","headword":"kind","story_form":"kind"},{"word_id":"v1310","headword":"help","story_form":"help"},{"word_id":"v1334","headword":"honest","story_form":"honest"},{"word_id":"v1569","headword":"lie","story_form":"lie"},{"word_id":"v2796","headword":"true","story_form":"true"},{"word_id":"v2987","headword":"wrong","story_form":"wrong"},{"word_id":"v2824","headword":"understand","story_form":"understand"},{"word_id":"v0073","headword":"agree","story_form":"agree"},{"word_id":"v1115","headword":"fool","story_form":"fool"}]} -->
 
@@ -1945,7 +1945,7 @@ Now we **understand** each other and **help** fix the toy together.
 
 <a id="e045"></a>
 
-## E045 — 도서관의 발견
+## E045 · A Discovery at the Library / 도서관의 발견
 
 <!-- set-data: {"set_id":"E045","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1566","headword":"library","story_form":"library"},{"word_id":"v0320","headword":"borrow","story_form":"borrow"},{"word_id":"v2230","headword":"return","story_form":"return"},{"word_id":"v1881","headword":"page","story_form":"page"},{"word_id":"v2549","headword":"story","story_form":"story"},{"word_id":"v2976","headword":"word","story_form":"word"},{"word_id":"v1562","headword":"letter","story_form":"letter"},{"word_id":"v1616","headword":"mail","story_form":"mail"},{"word_id":"v1900","headword":"part","story_form":"part"},{"word_id":"v0937","headword":"enter","story_form":"enter"}]} -->
 
@@ -1986,7 +1986,7 @@ I take the book home to discover the ending.
 
 <a id="e046"></a>
 
-## E046 — 옛 왕국 이야기
+## E046 · A Story of an Old Kingdom / 옛 왕국 이야기
 
 <!-- set-data: {"set_id":"E046","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1502","headword":"king","story_form":"king"},{"word_id":"v2116","headword":"queen","story_form":"queen"},{"word_id":"v2051","headword":"prince","story_form":"prince"},{"word_id":"v1221","headword":"gold","story_form":"gold"},{"word_id":"v2241","headword":"rich","story_form":"rich"},{"word_id":"v2000","headword":"poor","story_form":"poor"},{"word_id":"v1220","headword":"god","story_form":"god"},{"word_id":"v0261","headword":"believe","story_form":"believe"},{"word_id":"v1314","headword":"hero","story_form":"hero"},{"word_id":"v2816","headword":"ugly","story_form":"ugly"}]} -->
 
@@ -2027,7 +2027,7 @@ He shares his meal and becomes the little **hero** of our tale.
 
 <a id="e047"></a>
 
-## E047 — 작은 과학자
+## E047 · The Little Scientist / 작은 과학자
 
 <!-- set-data: {"set_id":"E047","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v2314","headword":"science","story_form":"science"},{"word_id":"v0888","headword":"earth","story_form":"earth"},{"word_id":"v1721","headword":"moon","story_form":"moon"},{"word_id":"v2519","headword":"star","story_form":"star"},{"word_id":"v2477","headword":"space","story_form":"space"},{"word_id":"v0930","headword":"energy","story_form":"energy"},{"word_id":"v2018","headword":"power","story_form":"power"},{"word_id":"v1300","headword":"heat","story_form":"heat"},{"word_id":"v1183","headword":"gas","story_form":"gas"},{"word_id":"v1528","headword":"laser","story_form":"laser"}]} -->
 
@@ -2068,7 +2068,7 @@ Before leaving, we see a **laser** display that uses electric **power**.
 
 <a id="e048"></a>
 
-## E048 — 컴퓨터 시간
+## E048 · Computer Time / 컴퓨터 시간
 
 <!-- set-data: {"set_id":"E048","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0564","headword":"compute","story_form":"compute"},{"word_id":"v2456","headword":"software","story_form":"software"},{"word_id":"v2071","headword":"program","story_form":"program"},{"word_id":"v1451","headword":"internet","story_form":"internet"},{"word_id":"v2921","headword":"website","story_form":"website"},{"word_id":"v1070","headword":"file","story_form":"file"},{"word_id":"v1376","headword":"image","story_form":"image"},{"word_id":"v2054","headword":"print","story_form":"print"},{"word_id":"v2815","headword":"type","story_form":"type"},{"word_id":"v2843","headword":"use","story_form":"use"}]} -->
 
@@ -2109,7 +2109,7 @@ Then I **print** my work to show my family at home.
 
 <a id="e049"></a>
 
-## E049 — 우리 반 영화
+## E049 · Our Class Movie / 우리 반 영화
 
 <!-- set-data: {"set_id":"E049","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1735","headword":"movie","story_form":"movie"},{"word_id":"v1072","headword":"film","story_form":"film"},{"word_id":"v2873","headword":"video","story_form":"video"},{"word_id":"v0389","headword":"camera","story_form":"camera"},{"word_id":"v2661","headword":"television","story_form":"television"},{"word_id":"v2127","headword":"radio","story_form":"radio"},{"word_id":"v1779","headword":"news","story_form":"news"},{"word_id":"v1780","headword":"newspaper","story_form":"newspaper"},{"word_id":"v2392","headword":"show","story_form":"show"},{"word_id":"v2909","headword":"watch","story_form":"watch"}]} -->
 
@@ -2150,7 +2150,7 @@ Our families come to **watch** and clap at the end.
 
 <a id="e050"></a>
 
-## E050 — 새로운 동아리
+## E050 · A New Club / 새로운 동아리
 
 <!-- set-data: {"set_id":"E050","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0508","headword":"club","story_form":"club"},{"word_id":"v1665","headword":"member","story_form":"member"},{"word_id":"v1482","headword":"join","story_form":"join"},{"word_id":"v1251","headword":"group","story_form":"group"},{"word_id":"v1327","headword":"hobby","story_form":"hobby"},{"word_id":"v0524","headword":"collect","story_form":"collect"},{"word_id":"v0534","headword":"comic","story_form":"comic"},{"word_id":"v1146","headword":"free","story_form":"free"},{"word_id":"v2925","headword":"weekend","story_form":"weekend"},{"word_id":"v1499","headword":"kid","story_form":"kid"}]} -->
 
@@ -2191,7 +2191,7 @@ I draw a funny cat and make two new friends.
 
 <a id="e051"></a>
 
-## E051 — 우리 동네 안내
+## E051 · Showing a Friend Around / 우리 동네 안내
 
 <!-- set-data: {"set_id":"E051","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v2759","headword":"town","story_form":"town"},{"word_id":"v0484","headword":"city","story_form":"city"},{"word_id":"v1348","headword":"house","story_form":"house"},{"word_id":"v1332","headword":"home","story_form":"home"},{"word_id":"v0134","headword":"apartment","story_form":"apartment"},{"word_id":"v0041","headword":"address","story_form":"address"},{"word_id":"v1971","headword":"place","story_form":"place"},{"word_id":"v0148","headword":"area","story_form":"area"},{"word_id":"v1759","headword":"near","story_form":"near"},{"word_id":"v1037","headword":"far","story_form":"far"}]} -->
 
@@ -2232,7 +2232,7 @@ Soon we are making plans to meet after class.
 
 <a id="e052"></a>
 
-## E052 — 도움이 필요한 날
+## E052 · A Day for Helping / 도움이 필요한 날
 
 <!-- set-data: {"set_id":"E052","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1829","headword":"office","story_form":"office"},{"word_id":"v0373","headword":"business","story_form":"business"},{"word_id":"v0546","headword":"company","story_form":"company"},{"word_id":"v1480","headword":"job","story_form":"job"},{"word_id":"v2977","headword":"work","story_form":"work"},{"word_id":"v2512","headword":"staff","story_form":"staff"},{"word_id":"v2354","headword":"service","story_form":"service"},{"word_id":"v0387","headword":"call","story_form":"call"},{"word_id":"v2660","headword":"telephone","story_form":"telephone"},{"word_id":"v1265","headword":"guy","story_form":"guy"}]} -->
 
@@ -2273,7 +2273,7 @@ He promises to **call** the customer back when the parcel arrives.
 
 <a id="e053"></a>
 
-## E053 — 학교 축제 준비
+## E053 · Getting Ready for the School Festival / 학교 축제 준비
 
 <!-- set-data: {"set_id":"E053","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1061","headword":"festival","story_form":"festival"},{"word_id":"v1973","headword":"plan","story_form":"plan"},{"word_id":"v2074","headword":"project","story_form":"project"},{"word_id":"v0774","headword":"design","story_form":"design"},{"word_id":"v1892","headword":"paper","story_form":"paper"},{"word_id":"v2315","headword":"scissors","story_form":"scissors"},{"word_id":"v2645","headword":"tape","story_form":"tape"},{"word_id":"v1279","headword":"hang","story_form":"hang"},{"word_id":"v0306","headword":"board","story_form":"board"},{"word_id":"v0360","headword":"build","story_form":"build"}]} -->
 
@@ -2314,7 +2314,7 @@ Finally, we put our show times on the classroom **board**.
 
 <a id="e054"></a>
 
-## E054 — 가족의 특별한 날
+## E054 · A Special Family Day / 가족의 특별한 날
 
 <!-- set-data: {"set_id":"E054","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v2922","headword":"wedding","story_form":"wedding"},{"word_id":"v1635","headword":"marry","story_form":"marry"},{"word_id":"v0476","headword":"church","story_form":"church"},{"word_id":"v2246","headword":"ring","story_form":"ring"},{"word_id":"v1330","headword":"holiday","story_form":"holiday"},{"word_id":"v2885","headword":"visit","story_form":"visit"},{"word_id":"v2929","headword":"welcome","story_form":"welcome"},{"word_id":"v1224","headword":"goodbye","story_form":"goodbye"},{"word_id":"v2686","headword":"thank","story_form":"thank"},{"word_id":"v0585","headword":"congratulate","story_form":"congratulate"}]} -->
 
@@ -2355,7 +2355,7 @@ I wave **goodbye**, feeling happy about our special family day.
 
 <a id="e055"></a>
 
-## E055 — 캠핑의 밤
+## E055 · A Night of Camping / 캠핑의 밤
 
 <!-- set-data: {"set_id":"E055","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0390","headword":"camp","story_form":"camp"},{"word_id":"v2673","headword":"tent","story_form":"tent"},{"word_id":"v1081","headword":"fire","story_form":"fire"},{"word_id":"v2974","headword":"wood","story_form":"wood"},{"word_id":"v0368","headword":"burn","story_form":"burn"},{"word_id":"v0714","headword":"dark","story_form":"dark"},{"word_id":"v1783","headword":"night","story_form":"night"},{"word_id":"v2427","headword":"sleep","story_form":"sleep"},{"word_id":"v0863","headword":"dream","story_form":"dream"},{"word_id":"v0964","headword":"evening","story_form":"evening"}]} -->
 
@@ -2396,7 +2396,7 @@ I have a **dream** about friendly birds visiting our **tent**.
 
 <a id="e056"></a>
 
-## E056 — 깨끗한 교실
+## E056 · A Clean Classroom / 깨끗한 교실
 
 <!-- set-data: {"set_id":"E056","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0492","headword":"clean","story_form":"clean"},{"word_id":"v2111","headword":"put","story_form":"put"},{"word_id":"v1496","headword":"keep","story_form":"keep"},{"word_id":"v0330","headword":"box","story_form":"box"},{"word_id":"v0324","headword":"bottle","story_form":"bottle"},{"word_id":"v1977","headword":"plastic","story_form":"plastic"},{"word_id":"v0659","headword":"cover","story_form":"cover"},{"word_id":"v0325","headword":"bottom","story_form":"bottom"},{"word_id":"v1826","headword":"off","story_form":"off"},{"word_id":"v2356","headword":"set","story_form":"set"}]} -->
 
@@ -2437,7 +2437,7 @@ We spread it out and turn the lights **off** before leaving.
 
 <a id="e057"></a>
 
-## E057 — 작은 문제 해결
+## E057 · Solving a Small Problem / 작은 문제 해결
 
 <!-- set-data: {"set_id":"E057","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v2062","headword":"problem","story_form":"problem"},{"word_id":"v0802","headword":"difficult","story_form":"difficult"},{"word_id":"v1283","headword":"hard","story_form":"hard"},{"word_id":"v2800","headword":"try","story_form":"try"},{"word_id":"v1025","headword":"fail","story_form":"fail"},{"word_id":"v1366","headword":"idea","story_form":"idea"},{"word_id":"v2701","headword":"think","story_form":"think"},{"word_id":"v0731","headword":"decide","story_form":"decide"},{"word_id":"v0819","headword":"discuss","story_form":"discuss"},{"word_id":"v0495","headword":"clever","story_form":"clever"}]} -->
 
@@ -2478,7 +2478,7 @@ Then Ben finds a **clever** way to fold the paper, and it works!
 
 <a id="e058"></a>
 
-## E058 — 동물의 삶
+## E058 · The Lives of Animals / 동물의 삶
 
 <!-- set-data: {"set_id":"E058","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1570","headword":"life","story_form":"life"},{"word_id":"v1586","headword":"live","story_form":"live"},{"word_id":"v0799","headword":"die","story_form":"die"},{"word_id":"v0723","headword":"dead","story_form":"dead"},{"word_id":"v0725","headword":"death","story_form":"death"},{"word_id":"v1500","headword":"kill","story_form":"kill"},{"word_id":"v1358","headword":"hunt","story_form":"hunt"},{"word_id":"v1354","headword":"human","story_form":"human"},{"word_id":"v0406","headword":"care","story_form":"care"},{"word_id":"v0211","headword":"bad","story_form":"bad"}]} -->
 
@@ -2519,7 +2519,7 @@ We decide to show more **care** for the places where animals **live**.
 
 <a id="e059"></a>
 
-## E059 — 우리의 선택
+## E059 · Our Choice / 우리의 선택
 
 <!-- set-data: {"set_id":"E059","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0472","headword":"choose","story_form":"choose"},{"word_id":"v1573","headword":"like","story_form":"like"},{"word_id":"v1289","headword":"hate","story_form":"hate"},{"word_id":"v1049","headword":"favorite","story_form":"favorite"},{"word_id":"v2901","headword":"want","story_form":"want"},{"word_id":"v1763","headword":"need","story_form":"need"},{"word_id":"v2965","headword":"wish","story_form":"wish"},{"word_id":"v1689","headword":"mind","story_form":"mind"},{"word_id":"v1847","headword":"or","story_form":"or"},{"word_id":"v2041","headword":"pretty","story_form":"pretty"}]} -->
 
@@ -2560,7 +2560,7 @@ Our **wish** is to make Mum smile when she opens the door.
 
 <a id="e060"></a>
 
-## E060 — 놀이 규칙
+## E060 · Rules for Playing / 놀이 규칙
 
 <!-- set-data: {"set_id":"E060","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1744","headword":"must","story_form":"must"},{"word_id":"v2389","headword":"should","story_form":"should"},{"word_id":"v1646","headword":"may","story_form":"may"},{"word_id":"v0392","headword":"can","story_form":"can"},{"word_id":"v0645","headword":"could","story_form":"could"},{"word_id":"v1682","headword":"might","story_form":"might"},{"word_id":"v2955","headword":"will","story_form":"will"},{"word_id":"v0839","headword":"do","story_form":"do"},{"word_id":"v0239","headword":"be","story_form":"be"},{"word_id":"v1786","headword":"no","story_form":"no"}]} -->
 
@@ -2601,7 +2601,7 @@ We **will** begin together so nobody feels left out.
 
 <a id="e061"></a>
 
-## E061 — 위치를 찾아요
+## E061 · Finding Things / 위치를 찾아요
 
 <!-- set-data: {"set_id":"E061","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1391","headword":"in","story_form":"in"},{"word_id":"v1835","headword":"on","story_form":"on"},{"word_id":"v2820","headword":"under","story_form":"under"},{"word_id":"v0008","headword":"above","story_form":"above"},{"word_id":"v0264","headword":"below","story_form":"below"},{"word_id":"v0259","headword":"behind","story_form":"behind"},{"word_id":"v0270","headword":"beside","story_form":"beside"},{"word_id":"v0273","headword":"between","story_form":"between"},{"word_id":"v1154","headword":"front","story_form":"front"},{"word_id":"v0208","headword":"back","story_form":"back"}]} -->
 
@@ -2642,7 +2642,7 @@ We take them to the **back** and make a picture together.
 
 <a id="e062"></a>
 
-## E062 — 길을 따라가요
+## E062 · Following the Path / 길을 따라가요
 
 <!-- set-data: {"set_id":"E062","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0036","headword":"across","story_form":"across"},{"word_id":"v0095","headword":"along","story_form":"along"},{"word_id":"v0153","headword":"around","story_form":"around"},{"word_id":"v1457","headword":"into","story_form":"into"},{"word_id":"v1860","headword":"out","story_form":"out"},{"word_id":"v2835","headword":"up","story_form":"up"},{"word_id":"v0855","headword":"down","story_form":"down"},{"word_id":"v1551","headword":"left","story_form":"left"},{"word_id":"v0890","headword":"east","story_form":"east"},{"word_id":"v2932","headword":"west","story_form":"west"}]} -->
 
@@ -2683,7 +2683,7 @@ We come **out** smiling with the treasure box in our hands.
 
 <a id="e063"></a>
 
-## E063 — 언제 만날까요
+## E063 · When Shall We Meet? / 언제 만날까요
 
 <!-- set-data: {"set_id":"E063","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v2736","headword":"today","story_form":"today"},{"word_id":"v2992","headword":"yesterday","story_form":"yesterday"},{"word_id":"v2741","headword":"tomorrow","story_form":"tomorrow"},{"word_id":"v2744","headword":"tonight","story_form":"tonight"},{"word_id":"v0254","headword":"before","story_form":"before"},{"word_id":"v0063","headword":"after","story_form":"after"},{"word_id":"v0072","headword":"ago","story_form":"ago"},{"word_id":"v1804","headword":"now","story_form":"now"},{"word_id":"v1217","headword":"go","story_form":"go"},{"word_id":"v2734","headword":"to","story_form":"to"}]} -->
 
@@ -2724,7 +2724,7 @@ I cannot wait **to** show Grandma our whole family smiling.
 
 <a id="e064"></a>
 
-## E064 — 늘 하는 일
+## E064 · Things We Do Every Day / 늘 하는 일
 
 <!-- set-data: {"set_id":"E064","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0105","headword":"always","story_form":"always"},{"word_id":"v1831","headword":"often","story_form":"often"},{"word_id":"v1776","headword":"never","story_form":"never"},{"word_id":"v0065","headword":"again","story_form":"again"},{"word_id":"v2811","headword":"twice","story_form":"twice"},{"word_id":"v0967","headword":"every","story_form":"every"},{"word_id":"v0098","headword":"already","story_form":"already"},{"word_id":"v1291","headword":"have","story_form":"have"},{"word_id":"v1493","headword":"just","story_form":"just"},{"word_id":"v1798","headword":"not","story_form":"not"}]} -->
 
@@ -2765,7 +2765,7 @@ I am **not** sleepy, and my favorite story **never** feels boring.
 
 <a id="e065"></a>
 
-## E065 — 같이 나누는 간식
+## E065 · Sharing Snacks / 같이 나누는 간식
 
 <!-- set-data: {"set_id":"E065","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0089","headword":"all","story_form":"all"},{"word_id":"v2462","headword":"some","story_form":"some"},{"word_id":"v0132","headword":"any","story_form":"any"},{"word_id":"v1628","headword":"many","story_form":"many"},{"word_id":"v1736","headword":"much","story_form":"much"},{"word_id":"v0936","headword":"enough","story_form":"enough"},{"word_id":"v0322","headword":"both","story_form":"both"},{"word_id":"v0852","headword":"double","story_form":"double"},{"word_id":"v1838","headword":"only","story_form":"only"},{"word_id":"v1263","headword":"gum","story_form":"gum"}]} -->
 
@@ -2806,7 +2806,7 @@ We pack **only** one small packet of **gum** for later.
 
 <a id="e066"></a>
 
-## E066 — 궁금한 것들
+## E066 · Things We Want to Know / 궁금한 것들
 
 <!-- set-data: {"set_id":"E066","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v2935","headword":"what","story_form":"what"},{"word_id":"v2948","headword":"who","story_form":"who"},{"word_id":"v2939","headword":"where","story_form":"where"},{"word_id":"v2938","headword":"when","story_form":"when"},{"word_id":"v2950","headword":"why","story_form":"why"},{"word_id":"v1350","headword":"how","story_form":"how"},{"word_id":"v0163","headword":"ask","story_form":"ask"},{"word_id":"v1511","headword":"know","story_form":"know"},{"word_id":"v1256","headword":"guess","story_form":"guess"},{"word_id":"v2607","headword":"sure","story_form":"sure"}]} -->
 
@@ -2847,7 +2847,7 @@ We hear a soft meow and feel **sure** it is a toy cat.
 
 <a id="e067"></a>
 
-## E067 — 서로 다른 모양
+## E067 · Different Shapes / 서로 다른 모양
 
 <!-- set-data: {"set_id":"E067","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0276","headword":"big","story_form":"big"},{"word_id":"v1585","headword":"little","story_form":"little"},{"word_id":"v1527","headword":"large","story_form":"large"},{"word_id":"v1596","headword":"long","story_form":"long"},{"word_id":"v0479","headword":"circle","story_form":"circle"},{"word_id":"v1576","headword":"line","story_form":"line"},{"word_id":"v1988","headword":"point","story_form":"point"},{"word_id":"v2397","headword":"side","story_form":"side"},{"word_id":"v1241","headword":"gray","story_form":"gray"},{"word_id":"v2293","headword":"same","story_form":"same"}]} -->
 
@@ -2888,7 +2888,7 @@ Our strange robot looks ready to walk off the page.
 
 <a id="e068"></a>
 
-## E068 — 공연 준비
+## E068 · Getting Ready for the Play / 공연 준비
 
 <!-- set-data: {"set_id":"E068","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0037","headword":"act","story_form":"act"},{"word_id":"v0795","headword":"dialogue","story_form":"dialogue"},{"word_id":"v1904","headword":"partner","story_form":"partner"},{"word_id":"v2147","headword":"ready","story_form":"ready"},{"word_id":"v0256","headword":"begin","story_form":"begin"},{"word_id":"v0927","headword":"end","story_form":"end"},{"word_id":"v0442","headword":"chance","story_form":"chance"},{"word_id":"v1034","headword":"fan","story_form":"fan"},{"word_id":"v1833","headword":"okay","story_form":"okay"},{"word_id":"v1606","headword":"luck","story_form":"luck"}]} -->
 
@@ -2929,7 +2929,7 @@ At the **end**, my little brother claps louder than anyone.
 
 <a id="e069"></a>
 
-## E069 — 기억을 모으는 날
+## E069 · Collecting Memories / 기억을 모으는 날
 
 <!-- set-data: {"set_id":"E069","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1666","headword":"memory","story_form":"memory"},{"word_id":"v2190","headword":"remember","story_form":"remember"},{"word_id":"v1126","headword":"forget","story_form":"forget"},{"word_id":"v1529","headword":"last","story_form":"last"},{"word_id":"v1781","headword":"next","story_form":"next"},{"word_id":"v1174","headword":"future","story_form":"future"},{"word_id":"v1834","headword":"old","story_form":"old"},{"word_id":"v1778","headword":"new","story_form":"new"},{"word_id":"v1325","headword":"history","story_form":"history"},{"word_id":"v0689","headword":"culture","story_form":"culture"}]} -->
 
@@ -2970,7 +2970,7 @@ We add a **new** class photo and plan to open the box **next** year.
 
 <a id="e070"></a>
 
-## E070 — 현장 학습
+## E070 · A School Trip / 현장 학습
 
 <!-- set-data: {"set_id":"E070","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0525","headword":"college","story_form":"college"},{"word_id":"v1755","headword":"nation","story_form":"nation"},{"word_id":"v2902","headword":"war","story_form":"war"},{"word_id":"v2476","headword":"south","story_form":"south"},{"word_id":"v1681","headword":"middle","story_form":"middle"},{"word_id":"v0432","headword":"center","story_form":"center"},{"word_id":"v2748","headword":"top","story_form":"top"},{"word_id":"v0656","headword":"course","story_form":"course"},{"word_id":"v2223","headword":"restroom","story_form":"restroom"},{"word_id":"v1425","headword":"inside","story_form":"inside"}]} -->
 
@@ -3011,7 +3011,7 @@ We learn how people rebuilt their homes after a **war**.
 
 <a id="e071"></a>
 
-## E071 — 달라진 하루
+## E071 · A Different Kind of Day / 달라진 하루
 
 <!-- set-data: {"set_id":"E071","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0249","headword":"become","story_form":"become"},{"word_id":"v1201","headword":"get","story_form":"get"},{"word_id":"v1620","headword":"make","story_form":"make"},{"word_id":"v1207","headword":"give","story_form":"give"},{"word_id":"v0350","headword":"bring","story_form":"bring"},{"word_id":"v2638","headword":"take","story_form":"take"},{"word_id":"v2343","headword":"send","story_form":"send"},{"word_id":"v1076","headword":"find","story_form":"find"},{"word_id":"v2300","headword":"save","story_form":"save"},{"word_id":"v1699","headword":"miss","story_form":"miss"}]} -->
 
@@ -3052,7 +3052,7 @@ We **save** one copy of the photograph for our classroom wall.
 
 <a id="e072"></a>
 
-## E072 — 문이 열렸어요
+## E072 · The Door Opens / 문이 열렸어요
 
 <!-- set-data: {"set_id":"E072","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1839","headword":"open","story_form":"open"},{"word_id":"v0505","headword":"close","story_form":"close"},{"word_id":"v2110","headword":"push","story_form":"push"},{"word_id":"v1328","headword":"hold","story_form":"hold"},{"word_id":"v0868","headword":"drop","story_form":"drop"},{"word_id":"v0338","headword":"break","story_form":"break"},{"word_id":"v2753","headword":"touch","story_form":"touch"},{"word_id":"v1734","headword":"move","story_form":"move"},{"word_id":"v0410","headword":"carry","story_form":"carry"},{"word_id":"v1497","headword":"key","story_form":"key"}]} -->
 
@@ -3093,7 +3093,7 @@ When everything is ready, we **close** the door and wash our hands.
 
 <a id="e073"></a>
 
-## E073 — 좋은 습관
+## E073 · Good Habits / 좋은 습관
 
 <!-- set-data: {"set_id":"E073","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1267","headword":"habit","story_form":"habit"},{"word_id":"v0986","headword":"exercise","story_form":"exercise"},{"word_id":"v2927","headword":"weight","story_form":"weight"},{"word_id":"v1044","headword":"fat","story_form":"fat"},{"word_id":"v2566","headword":"strong","story_form":"strong"},{"word_id":"v1539","headword":"lazy","story_form":"lazy"},{"word_id":"v0374","headword":"busy","story_form":"busy"},{"word_id":"v1302","headword":"heavy","story_form":"heavy"},{"word_id":"v2931","headword":"well","story_form":"well"},{"word_id":"v2866","headword":"very","story_form":"very"}]} -->
 
@@ -3134,7 +3134,7 @@ We pack less, eat **well** and enjoy becoming **strong** together.
 
 <a id="e074"></a>
 
-## E074 — 산길의 약속
+## E074 · A Promise on the Mountain Path / 산길의 약속
 
 <!-- set-data: {"set_id":"E074","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0712","headword":"danger","story_form":"danger"},{"word_id":"v0336","headword":"brave","story_form":"brave"},{"word_id":"v2119","headword":"quick","story_form":"quick"},{"word_id":"v1359","headword":"hurry","story_form":"hurry"},{"word_id":"v0075","headword":"ahead","story_form":"ahead"},{"word_id":"v0204","headword":"away","story_form":"away"},{"word_id":"v0094","headword":"alone","story_form":"alone"},{"word_id":"v2738","headword":"together","story_form":"together"},{"word_id":"v2528","headword":"stay","story_form":"stay"},{"word_id":"v2913","headword":"way","story_form":"way"}]} -->
 
@@ -3175,7 +3175,7 @@ We remind him to slow down and enjoy the view with us.
 
 <a id="e075"></a>
 
-## E075 — 맛과 냄새
+## E075 · Tastes and Smells / 맛과 냄새
 
 <!-- set-data: {"set_id":"E075","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v2438","headword":"smell","story_form":"smell"},{"word_id":"v2292","headword":"salt","story_form":"salt"},{"word_id":"v1832","headword":"oil","story_form":"oil"},{"word_id":"v0516","headword":"coffee","story_form":"coffee"},{"word_id":"v2959","headword":"wine","story_form":"wine"},{"word_id":"v2703","headword":"thirst","story_form":"thirst"},{"word_id":"v0624","headword":"cool","story_form":"cool"},{"word_id":"v1801","headword":"nothing","story_form":"nothing"},{"word_id":"v0434","headword":"certain","story_form":"certain"},{"word_id":"v0574","headword":"condition","story_form":"condition"}]} -->
 
@@ -3216,7 +3216,7 @@ After working, **cool** water is just what we need for our **thirst**.
 
 <a id="e076"></a>
 
-## E076 — 짝꿍과 퀴즈
+## E076 · A Quiz with My Partner / 짝꿍과 퀴즈
 
 <!-- set-data: {"set_id":"E076","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v2123","headword":"quiz","story_form":"quiz"},{"word_id":"v2682","headword":"test","story_form":"test"},{"word_id":"v1642","headword":"mathematics","story_form":"mathematics"},{"word_id":"v1808","headword":"number","story_form":"number"},{"word_id":"v0039","headword":"add","story_form":"add"},{"word_id":"v2317","headword":"score","story_form":"score"},{"word_id":"v0455","headword":"check","story_form":"check"},{"word_id":"v0976","headword":"example","story_form":"example"},{"word_id":"v1108","headword":"focus","story_form":"focus"},{"word_id":"v2991","headword":"yes","story_form":"yes"}]} -->
 
@@ -3257,7 +3257,7 @@ At the end, we explain our thinking to another pair.
 
 <a id="e077"></a>
 
-## E077 — 작은 발표회
+## E077 · Our Little Presentation / 작은 발표회
 
 <!-- set-data: {"set_id":"E077","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v1459","headword":"introduce","story_form":"introduce"},{"word_id":"v2662","headword":"tell","story_form":"tell"},{"word_id":"v2301","headword":"say","story_form":"say"},{"word_id":"v2641","headword":"talk","story_form":"talk"},{"word_id":"v1799","headword":"note","story_form":"note"},{"word_id":"v1129","headword":"form","story_form":"form"},{"word_id":"v1020","headword":"fact","story_form":"fact"},{"word_id":"v1471","headword":"issue","story_form":"issue"},{"word_id":"v0391","headword":"campaign","story_form":"campaign"},{"word_id":"v0413","headword":"case","story_form":"case"}]} -->
 
@@ -3298,7 +3298,7 @@ Then we put our best ideas into action together.
 
 <a id="e078"></a>
 
-## E078 — 생각을 잇는 말
+## E078 · Words That Connect Ideas / 생각을 잇는 말
 
 <!-- set-data: {"set_id":"E078","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0117","headword":"and","story_form":"and"},{"word_id":"v0375","headword":"but","story_form":"but"},{"word_id":"v0248","headword":"because","story_form":"because"},{"word_id":"v2447","headword":"so","story_form":"so"},{"word_id":"v1351","headword":"however","story_form":"however"},{"word_id":"v1371","headword":"if","story_form":"if"},{"word_id":"v0161","headword":"as","story_form":"as"},{"word_id":"v2685","headword":"than","story_form":"than"},{"word_id":"v0100","headword":"also","story_form":"also"},{"word_id":"v2745","headword":"too","story_form":"too"}]} -->
 
@@ -3339,7 +3339,7 @@ Our friends join us, **and** my little brother comes **too**.
 
 <a id="e079"></a>
 
-## E079 — 작은 것을 살펴요
+## E079 · Looking at Little Things / 작은 것을 살펴요
 
 <!-- set-data: {"set_id":"E079","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0001","headword":"a","story_form":"a"},{"word_id":"v2688","headword":"the","story_form":"the"},{"word_id":"v2706","headword":"this","story_form":"this"},{"word_id":"v2687","headword":"that","story_form":"that"},{"word_id":"v1472","headword":"it","story_form":"it"},{"word_id":"v1312","headword":"here","story_form":"here"},{"word_id":"v2694","headword":"there","story_form":"there"},{"word_id":"v2700","headword":"thing","story_form":"thing"},{"word_id":"v0634","headword":"corner","story_form":"corner"},{"word_id":"v2967","headword":"with","story_form":"with"}]} -->
 
@@ -3380,7 +3380,7 @@ She knows whose special **thing** **it** is and returns **it** safely.
 
 <a id="e080"></a>
 
-## E080 — 소풍의 끝
+## E080 · The End of the Picnic / 소풍의 끝
 
 <!-- set-data: {"set_id":"E080","level":"elementary","style":"narration_dialogue_action","targets":[{"word_id":"v0007","headword":"about","story_form":"about"},{"word_id":"v0066","headword":"against","story_form":"against"},{"word_id":"v0093","headword":"almost","story_form":"almost"},{"word_id":"v0099","headword":"alright","story_form":"alright"},{"word_id":"v0126","headword":"another","story_form":"another"},{"word_id":"v0178","headword":"at","story_form":"at"},{"word_id":"v0381","headword":"by","story_form":"by"},{"word_id":"v1118","headword":"for","story_form":"for"},{"word_id":"v1153","headword":"from","story_form":"from"},{"word_id":"v1825","headword":"of","story_form":"of"}]} -->
 

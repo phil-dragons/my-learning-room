@@ -33,138 +33,138 @@ languages: [en, ko]
 
 ### O001–O010
 
-- [O001 · 혼자 하려던 조별 과제](#o001)
-- [O002 · 음악 동아리의 소문](#o002)
-- [O003 · 첫 해외 여행](#o003)
-- [O004 · 비행기 출발 전](#o004)
-- [O005 · 섬으로 가는 배](#o005)
-- [O006 · 멈춰 버린 자동차](#o006)
-- [O007 · 작은 여관의 손님](#o007)
-- [O008 · 새집 꾸미기](#o008)
-- [O009 · 오래된 집 수리](#o009)
-- [O010 · 사라진 소포](#o010)
+- [O001 · Trying to Do the Group Project Alone / 혼자 하려던 조별 과제](#o001)
+- [O002 · A Rumor in the Music Club / 음악 동아리의 소문](#o002)
+- [O003 · My First Trip Abroad / 첫 해외 여행](#o003)
+- [O004 · Before the Plane Takes Off / 비행기 출발 전](#o004)
+- [O005 · The Boat to the Island / 섬으로 가는 배](#o005)
+- [O006 · The Car That Stopped / 멈춰 버린 자동차](#o006)
+- [O007 · Guests at a Small Inn / 작은 여관의 손님](#o007)
+- [O008 · Decorating a New Home / 새집 꾸미기](#o008)
+- [O009 · Repairing an Old House / 오래된 집 수리](#o009)
+- [O010 · The Missing Package / 사라진 소포](#o010)
 
 ### O011–O020
 
-- [O011 · 작은 가게의 시작](#o011)
-- [O012 · 바뀌는 회사](#o012)
-- [O013 · 내 발명품](#o013)
-- [O014 · 컴퓨터가 멈춘 날](#o014)
-- [O015 · 친구의 정보](#o015)
-- [O016 · 새로운 뉴스](#o016)
-- [O017 · 신문 동아리](#o017)
-- [O018 · 도서관의 발견](#o018)
-- [O019 · 선생님의 질문](#o019)
-- [O020 · 진로를 찾는 날](#o020)
+- [O011 · Starting a Small Shop / 작은 가게의 시작](#o011)
+- [O012 · A Company in Change / 바뀌는 회사](#o012)
+- [O013 · My Invention / 내 발명품](#o013)
+- [O014 · The Day the Computer Stopped / 컴퓨터가 멈춘 날](#o014)
+- [O015 · Information from a Friend / 친구의 정보](#o015)
+- [O016 · A New Piece of News / 새로운 뉴스](#o016)
+- [O017 · The Newspaper Club / 신문 동아리](#o017)
+- [O018 · A Discovery in the Library / 도서관의 발견](#o018)
+- [O019 · The Teacher's Question / 선생님의 질문](#o019)
+- [O020 · Finding a Career Path / 진로를 찾는 날](#o020)
 
 ### O021–O030
 
-- [O021 · 학교 토론회](#o021)
-- [O022 · 교실의 규칙](#o022)
-- [O023 · 작은 선거](#o023)
-- [O024 · 언어 수업](#o024)
-- [O025 · 실험실의 발견](#o025)
-- [O026 · 작은 물질의 세계](#o026)
-- [O027 · 빛의 실험](#o027)
-- [O028 · 우주 관찰](#o028)
-- [O029 · 땅의 기록](#o029)
-- [O030 · 동물 관찰](#o030)
+- [O021 · A School Debate / 학교 토론회](#o021)
+- [O022 · Rules in the Classroom / 교실의 규칙](#o022)
+- [O023 · A Small Election / 작은 선거](#o023)
+- [O024 · A Language Lesson / 언어 수업](#o024)
+- [O025 · A Discovery in the Lab / 실험실의 발견](#o025)
+- [O026 · The Tiny World of Matter / 작은 물질의 세계](#o026)
+- [O027 · An Experiment with Light / 빛의 실험](#o027)
+- [O028 · Watching Space / 우주 관찰](#o028)
+- [O029 · Records in the Earth / 땅의 기록](#o029)
+- [O030 · Watching Animals / 동물 관찰](#o030)
 
 ### O031–O040
 
-- [O031 · 농장의 하루](#o031)
-- [O032 · 정원의 변화](#o032)
-- [O033 · 산길에서](#o033)
-- [O034 · 동굴 탐험](#o034)
-- [O035 · 바다를 지키는 날](#o035)
-- [O036 · 폭풍 뒤의 구조](#o036)
-- [O037 · 운동을 시작한 날](#o037)
-- [O038 · 결승선까지](#o038)
-- [O039 · 운동장에서 생긴 일](#o039)
-- [O040 · 병원에 간 아이](#o040)
+- [O031 · A Day on the Farm / 농장의 하루](#o031)
+- [O032 · Changes in the Garden / 정원의 변화](#o032)
+- [O033 · On a Mountain Path / 산길에서](#o033)
+- [O034 · Exploring a Cave / 동굴 탐험](#o034)
+- [O035 · A Day to Protect the Sea / 바다를 지키는 날](#o035)
+- [O036 · A Rescue After the Storm / 폭풍 뒤의 구조](#o036)
+- [O037 · The Day I Started Exercising / 운동을 시작한 날](#o037)
+- [O038 · All the Way to the Finish Line / 결승선까지](#o038)
+- [O039 · An Incident on the Sports Field / 운동장에서 생긴 일](#o039)
+- [O040 · A Child's Visit to the Hospital / 병원에 간 아이](#o040)
 
 ### O041–O050
 
-- [O041 · 수술을 앞둔 가족](#o041)
-- [O042 · 건강을 배우는 시간](#o042)
-- [O043 · 점심 만들기](#o043)
-- [O044 · 부엌의 작은 실수](#o044)
-- [O045 · 옷을 고치는 날](#o045)
-- [O046 · 미술관의 그림](#o046)
-- [O047 · 작은 조각 전시회](#o047)
-- [O048 · 음악회 준비](#o048)
-- [O049 · 무대 뒤의 마술](#o049)
-- [O050 · 축제의 하루](#o050)
+- [O041 · A Family Waiting for Surgery / 수술을 앞둔 가족](#o041)
+- [O042 · Learning About Health / 건강을 배우는 시간](#o042)
+- [O043 · Making Lunch / 점심 만들기](#o043)
+- [O044 · A Small Mistake in the Kitchen / 부엌의 작은 실수](#o044)
+- [O045 · A Day for Mending Clothes / 옷을 고치는 날](#o045)
+- [O046 · A Painting at the Art Museum / 미술관의 그림](#o046)
+- [O047 · A Small Sculpture Exhibition / 작은 조각 전시회](#o047)
+- [O048 · Preparing for a Concert / 음악회 준비](#o048)
+- [O049 · Magic Behind the Scenes / 무대 뒤의 마술](#o049)
+- [O050 · A Day at the Festival / 축제의 하루](#o050)
 
 ### O051–O060
 
-- [O051 · 새로운 친구](#o051)
-- [O052 · 친구 사이의 오해](#o052)
-- [O053 · 괴롭힘을 멈추다](#o053)
-- [O054 · 말하지 못한 마음](#o054)
-- [O055 · 사진 속 가족](#o055)
-- [O056 · 다시 시작하는 하루](#o056)
-- [O057 · 생각이 달라질 때](#o057)
-- [O058 · 마음속 질문](#o058)
-- [O059 · 서로 다른 주장](#o059)
-- [O060 · 박물관의 나라 이야기](#o060)
+- [O051 · A New Friend / 새로운 친구](#o051)
+- [O052 · A Misunderstanding Between Friends / 친구 사이의 오해](#o052)
+- [O053 · Putting a Stop to Bullying / 괴롭힘을 멈추다](#o053)
+- [O054 · Feelings Left Unspoken / 말하지 못한 마음](#o054)
+- [O055 · The Family in the Photo / 사진 속 가족](#o055)
+- [O056 · A Day to Start Again / 다시 시작하는 하루](#o056)
+- [O057 · When Our Thinking Changes / 생각이 달라질 때](#o057)
+- [O058 · Questions in My Mind / 마음속 질문](#o058)
+- [O059 · Different Points of View / 서로 다른 주장](#o059)
+- [O060 · A Nation's Story at the Museum / 박물관의 나라 이야기](#o060)
 
 ### O061–O070
 
-- [O061 · 국회의 하루](#o061)
-- [O062 · 도시를 바꾸는 계획](#o062)
-- [O063 · 법정에서 밝혀진 일](#o063)
-- [O064 · 전쟁 전시관에서](#o064)
-- [O065 · 사라진 그림](#o065)
-- [O066 · 옛이야기 속 선택](#o066)
-- [O067 · 잠에서 깬 아이](#o067)
-- [O068 · 마을의 오래된 예배당](#o068)
-- [O069 · 다시 세운 다리](#o069)
-- [O070 · 숫자를 읽는 법](#o070)
+- [O061 · A Day in Parliament / 국회의 하루](#o061)
+- [O062 · A Plan to Change the City / 도시를 바꾸는 계획](#o062)
+- [O063 · The Truth Comes Out in Court / 법정에서 밝혀진 일](#o063)
+- [O064 · At the War Exhibition / 전쟁 전시관에서](#o064)
+- [O065 · The Missing Painting / 사라진 그림](#o065)
+- [O066 · A Choice in an Old Tale / 옛이야기 속 선택](#o066)
+- [O067 · The Child Who Woke Up / 잠에서 깬 아이](#o067)
+- [O068 · The Old Village Chapel / 마을의 오래된 예배당](#o068)
+- [O069 · Rebuilding a Bridge / 다시 세운 다리](#o069)
+- [O070 · Learning to Read Numbers / 숫자를 읽는 법](#o070)
 
 ### O071–O080
 
-- [O071 · 설문 조사](#o071)
-- [O072 · 환경 발표회](#o072)
-- [O073 · 새 계획을 설명하기](#o073)
-- [O074 · 일정이 바뀐 날](#o074)
-- [O075 · 의견을 전하는 연습](#o075)
-- [O076 · 물건을 나누는 날](#o076)
-- [O077 · 자연의 작은 소리](#o077)
-- [O078 · 마당에서의 사고](#o078)
-- [O079 · 나들이 사진](#o079)
-- [O080 · 길을 찾는 두 사람](#o080)
+- [O071 · A Survey / 설문 조사](#o071)
+- [O072 · A Presentation on the Environment / 환경 발표회](#o072)
+- [O073 · Explaining a New Plan / 새 계획을 설명하기](#o073)
+- [O074 · The Day the Schedule Changed / 일정이 바뀐 날](#o074)
+- [O075 · Practicing How to Share an Opinion / 의견을 전하는 연습](#o075)
+- [O076 · A Day for Sharing Things / 물건을 나누는 날](#o076)
+- [O077 · The Quiet Sounds of Nature / 자연의 작은 소리](#o077)
+- [O078 · An Accident in the Yard / 마당에서의 사고](#o078)
+- [O079 · Photos from a Day Out / 나들이 사진](#o079)
+- [O080 · Two People Finding Their Way / 길을 찾는 두 사람](#o080)
 
 ### O081–O090
 
-- [O081 · 옛 항구의 변화](#o081)
-- [O082 · 선택의 순간](#o082)
-- [O083 · 생각을 이어 가는 말](#o083)
-- [O084 · 빠르게 움직이는 팀](#o084)
-- [O085 · 끝까지 읽은 책](#o085)
-- [O086 · 다시 보는 역사](#o086)
-- [O087 · 새로운 기술의 영향](#o087)
-- [O088 · 마지막 도전](#o088)
-- [O089 · 발사 실험을 멈춘 이유](#o089)
-- [O090 · 안전 훈련의 날](#o090)
+- [O081 · Changes at the Old Harbor / 옛 항구의 변화](#o081)
+- [O082 · A Moment of Choice / 선택의 순간](#o082)
+- [O083 · Words That Connect Ideas / 생각을 이어 가는 말](#o083)
+- [O084 · A Team on the Move / 빠르게 움직이는 팀](#o084)
+- [O085 · Finishing a Book / 끝까지 읽은 책](#o085)
+- [O086 · A New Look at History / 다시 보는 역사](#o086)
+- [O087 · The Effects of New Technology / 새로운 기술의 영향](#o087)
+- [O088 · The Final Challenge / 마지막 도전](#o088)
+- [O089 · Why We Stopped the Launch Test / 발사 실험을 멈춘 이유](#o089)
+- [O090 · A Day of Safety Training / 안전 훈련의 날](#o090)
 
 ### O091–O100
 
-- [O091 · 겁먹은 개를 만나다](#o091)
-- [O092 · 새로운 요리 수업](#o092)
-- [O093 · 그림을 다시 고치다](#o093)
-- [O094 · 무대에 다시 선 배우](#o094)
-- [O095 · 비 오는 날의 행사 계획](#o095)
-- [O096 · 동아리 가입 안내](#o096)
-- [O097 · 혼자 두지 않는 마을](#o097)
-- [O098 · 조용한 휴가 마을](#o098)
-- [O099 · 우리 마을의 물가 조사](#o099)
-- [O100 · 엉망이 된 보드게임](#o100)
+- [O091 · Meeting a Frightened Dog / 겁먹은 개를 만나다](#o091)
+- [O092 · A New Cooking Class / 새로운 요리 수업](#o092)
+- [O093 · Working on a Painting Again / 그림을 다시 고치다](#o093)
+- [O094 · An Actor Returns to the Stage / 무대에 다시 선 배우](#o094)
+- [O095 · Planning an Event for a Rainy Day / 비 오는 날의 행사 계획](#o095)
+- [O096 · How to Join the Club / 동아리 가입 안내](#o096)
+- [O097 · A Village Where No One Is Left Alone / 혼자 두지 않는 마을](#o097)
+- [O098 · A Quiet Vacation Village / 조용한 휴가 마을](#o098)
+- [O099 · Checking Prices in Our Town / 우리 마을의 물가 조사](#o099)
+- [O100 · A Board Game Gone Wrong / 엉망이 된 보드게임](#o100)
 
 ---
 
 <a id="o001"></a>
-## O001 — 혼자 하려던 조별 과제
+## O001 · Trying to Do the Group Project Alone / 혼자 하려던 조별 과제
 <!-- set-data: {"set_id":"O001","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v2185","headword":"reluctant","story_form":"reluctant"},{"word_id":"v0367","headword":"burden","story_form":"burden"},{"word_id":"v0002","headword":"abandon","story_form":"abandon"},{"word_id":"v0033","headword":"acknowledge","story_form":"acknowledge"},{"word_id":"v0090","headword":"allocate","story_form":"allocate"},{"word_id":"v0625","headword":"cooperate","story_form":"cooperate"},{"word_id":"v1096","headword":"flexible","story_form":"flexible"},{"word_id":"v1869","headword":"overcome","story_form":"overcome"},{"word_id":"v0024","headword":"accomplish","story_form":"accomplish"},{"word_id":"v1861","headword":"outcome","story_form":"outcome"}]} -->
 
 ### 오늘의 단어 10개
@@ -207,7 +207,7 @@ The best **outcome** is learning to ask for help.
 ---
 
 <a id="o002"></a>
-## O002 — 음악 동아리의 소문
+## O002 · A Rumor in the Music Club / 음악 동아리의 소문
 <!-- set-data: {"set_id":"O002","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v2279","headword":"rumor","story_form":"rumor"},{"word_id":"v2231","headword":"reveal","story_form":"reveal"},{"word_id":"v0028","headword":"accurate","story_form":"accurate"},{"word_id":"v0974","headword":"exaggerate","story_form":"exaggerate"},{"word_id":"v0669","headword":"credible","story_form":"credible"},{"word_id":"v0275","headword":"bias","story_form":"bias"},{"word_id":"v1942","headword":"perspective","story_form":"perspective"},{"word_id":"v1775","headword":"neutral","story_form":"neutral"},{"word_id":"v0571","headword":"conclude","story_form":"conclude"},{"word_id":"v0828","headword":"distinguish","story_form":"distinguish"}]} -->
 
 ### 오늘의 단어 10개
@@ -250,7 +250,7 @@ She shares the teacher's answer, and the worried messages stop.
 ---
 
 <a id="o003"></a>
-## O003 — 첫 해외 여행
+## O003 · My First Trip Abroad / 첫 해외 여행
 <!-- set-data: {"set_id":"O003","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0009","headword":"abroad","story_form":"abroad"},{"word_id":"v1910","headword":"passport","story_form":"passport"},{"word_id":"v0915","headword":"embassy","story_form":"embassy"},{"word_id":"v0694","headword":"currency","story_form":"currency"},{"word_id":"v0023","headword":"accompany","story_form":"accompany"},{"word_id":"v1422","headword":"inquire","story_form":"inquire"},{"word_id":"v1818","headword":"obtain","story_form":"obtain"},{"word_id":"v0146","headword":"approximate","story_form":"approximate"},{"word_id":"v2055","headword":"prior","story_form":"prior"},{"word_id":"v1874","headword":"oversea","story_form":"overseas"}]} -->
 
 ### 오늘의 단어 10개
@@ -293,7 +293,7 @@ Jin puts the notes in his bag and feels ready to go.
 ---
 
 <a id="o004"></a>
-## O004 — 비행기 출발 전
+## O004 · Before the Plane Takes Off / 비행기 출발 전
 <!-- set-data: {"set_id":"O004","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0004","headword":"aboard","story_form":"aboard"},{"word_id":"v1908","headword":"passenger","story_form":"passenger"},{"word_id":"v2675","headword":"terminal","story_form":"terminal"},{"word_id":"v0763","headword":"depart","story_form":"depart"},{"word_id":"v1043","headword":"fasten","story_form":"fasten"},{"word_id":"v1870","headword":"overhead","story_form":"overhead"},{"word_id":"v0781","headword":"destine","story_form":"destination"},{"word_id":"v0010","headword":"absent","story_form":"absent"},{"word_id":"v0068","headword":"agency","story_form":"agency"},{"word_id":"v1873","headword":"overnight","story_form":"overnight"}]} -->
 
 ### 오늘의 단어 10개
@@ -336,7 +336,7 @@ Then I sit back and watch the city grow smaller below us.
 ---
 
 <a id="o005"></a>
-## O005 — 섬으로 가는 배
+## O005 · The Boat to the Island / 섬으로 가는 배
 <!-- set-data: {"set_id":"O005","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1059","headword":"ferry","story_form":"ferry"},{"word_id":"v1038","headword":"fare","story_form":"fare"},{"word_id":"v1282","headword":"harbor","story_form":"harbor"},{"word_id":"v0115","headword":"anchor","story_form":"anchor"},{"word_id":"v0672","headword":"crew","story_form":"crew"},{"word_id":"v0684","headword":"cruise","story_form":"cruise"},{"word_id":"v2867","headword":"vessel","story_form":"vessel"},{"word_id":"v1262","headword":"gulf","story_form":"gulf"},{"word_id":"v1339","headword":"horizon","story_form":"horizon"},{"word_id":"v0344","headword":"breeze","story_form":"breeze"}]} -->
 
 ### 오늘의 단어 10개
@@ -379,7 +379,7 @@ I watch the **horizon** until our island comes into view.
 ---
 
 <a id="o006"></a>
-## O006 — 멈춰 버린 자동차
+## O006 · The Car That Stopped / 멈춰 버린 자동차
 <!-- set-data: {"set_id":"O006","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1184","headword":"gasoline","story_form":"gasoline"},{"word_id":"v1160","headword":"fuel","story_form":"fuel"},{"word_id":"v1654","headword":"mechanic","story_form":"mechanic"},{"word_id":"v0790","headword":"device","story_form":"device"},{"word_id":"v1655","headword":"mechanism","story_form":"mechanism"},{"word_id":"v1543","headword":"leak","story_form":"leak"},{"word_id":"v0017","headword":"accelerate","story_form":"accelerate"},{"word_id":"v1272","headword":"halt","story_form":"halt"},{"word_id":"v2801","headword":"tube","story_form":"tube"},{"word_id":"v0043","headword":"adjust","story_form":"adjust"}]} -->
 
 ### 오늘의 단어 10개
@@ -422,7 +422,7 @@ The engine sounds normal again, and we continue our trip.
 ---
 
 <a id="o007"></a>
-## O007 — 작은 여관의 손님
+## O007 · Guests at a Small Inn / 작은 여관의 손님
 <!-- set-data: {"set_id":"O007","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1418","headword":"inn","story_form":"inn"},{"word_id":"v0022","headword":"accommodate","story_form":"accommodate"},{"word_id":"v1343","headword":"host","story_form":"host"},{"word_id":"v0421","headword":"cater","story_form":"cater"},{"word_id":"v0807","headword":"dine","story_form":"dine"},{"word_id":"v2593","headword":"suite","story_form":"suite"},{"word_id":"v1609","headword":"luxury","story_form":"luxury"},{"word_id":"v1557","headword":"leisure","story_form":"leisure"},{"word_id":"v0200","headword":"await","story_form":"await"},{"word_id":"v1239","headword":"grateful","story_form":"grateful"}]} -->
 
 ### 오늘의 단어 10개
@@ -465,7 +465,7 @@ We are **grateful** for a quiet meal and a warm place to sleep.
 ---
 
 <a id="o008"></a>
-## O008 — 새집 꾸미기
+## O008 · Decorating a New Home / 새집 꾸미기
 <!-- set-data: {"set_id":"O008","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1349","headword":"household","story_form":"household"},{"word_id":"v1448","headword":"interior","story_form":"interior"},{"word_id":"v1169","headword":"furnish","story_form":"furnish"},{"word_id":"v0957","headword":"estate","story_form":"estate"},{"word_id":"v1547","headword":"lease","story_form":"lease"},{"word_id":"v2668","headword":"tenant","story_form":"tenant"},{"word_id":"v2580","headword":"suburb","story_form":"suburb"},{"word_id":"v2209","headword":"reside","story_form":"reside"},{"word_id":"v2848","headword":"vacuum","story_form":"vacuum"},{"word_id":"v1534","headword":"laundry","story_form":"laundry"}]} -->
 
 ### 오늘의 단어 10개
@@ -508,7 +508,7 @@ By evening, our old table makes the new place feel like home.
 ---
 
 <a id="o009"></a>
-## O009 — 오래된 집 수리
+## O009 · Repairing an Old House / 오래된 집 수리
 <!-- set-data: {"set_id":"O009","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1274","headword":"hammer","story_form":"hammer"},{"word_id":"v2322","headword":"screw","story_form":"screw"},{"word_id":"v1517","headword":"ladder","story_form":"ladder"},{"word_id":"v2726","headword":"timber","story_form":"timber"},{"word_id":"v0597","headword":"construct","story_form":"construct"},{"word_id":"v0572","headword":"concrete","story_form":"concrete"},{"word_id":"v0950","headword":"erect","story_form":"erect"},{"word_id":"v0859","headword":"drain","story_form":"drain"},{"word_id":"v0710","headword":"damp","story_form":"damp"},{"word_id":"v2220","headword":"restore","story_form":"restore"}]} -->
 
 ### 오늘의 단어 10개
@@ -551,7 +551,7 @@ We stay clear of the tools and bring everyone water.
 ---
 
 <a id="o010"></a>
-## O010 — 사라진 소포
+## O010 · The Missing Package / 사라진 소포
 <!-- set-data: {"set_id":"O010","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v2903","headword":"warehouse","story_form":"warehouse"},{"word_id":"v2226","headword":"retail","story_form":"retail"},{"word_id":"v0540","headword":"commodity","story_form":"commodity"},{"word_id":"v0361","headword":"bulk","story_form":"bulk"},{"word_id":"v0366","headword":"bundle","story_form":"bundle"},{"word_id":"v2283","headword":"sack","story_form":"sack"},{"word_id":"v2152","headword":"receipt","story_form":"receipt"},{"word_id":"v0654","headword":"coupon","story_form":"coupon"},{"word_id":"v0226","headword":"bargain","story_form":"bargain"},{"word_id":"v2770","headword":"transact","story_form":"transact"}]} -->
 
 ### 오늘의 단어 10개
@@ -594,7 +594,7 @@ The correct cloth arrives the next morning, ready for our curtains.
 ---
 
 <a id="o011"></a>
-## O011 — 작은 가게의 시작
+## O011 · Starting a Small Shop / 작은 가게의 시작
 <!-- set-data: {"set_id":"O011","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0938","headword":"enterprise","story_form":"enterprise"},{"word_id":"v2860","headword":"venture","story_form":"venture"},{"word_id":"v1670","headword":"merchant","story_form":"merchant"},{"word_id":"v0034","headword":"acquire","story_form":"acquire"},{"word_id":"v0171","headword":"asset","story_form":"asset"},{"word_id":"v0223","headword":"bankrupt","story_form":"bankrupt"},{"word_id":"v0743","headword":"deficit","story_form":"deficit"},{"word_id":"v2086","headword":"prosper","story_form":"prosper"},{"word_id":"v2805","headword":"turnover","story_form":"turnover"},{"word_id":"v1249","headword":"gross","story_form":"gross"}]} -->
 
 ### 오늘의 단어 10개
@@ -637,7 +637,7 @@ As more readers visit, the shop begins to **prosper**.
 ---
 
 <a id="o012"></a>
-## O012 — 바뀌는 회사
+## O012 · A Company in Change / 바뀌는 회사
 <!-- set-data: {"set_id":"O012","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0635","headword":"corporate","story_form":"corporate"},{"word_id":"v0985","headword":"executive","story_form":"executive"},{"word_id":"v0523","headword":"colleague","story_form":"colleague"},{"word_id":"v1295","headword":"headquarters","story_form":"headquarters"},{"word_id":"v1317","headword":"hierarchy","story_form":"hierarchy"},{"word_id":"v2210","headword":"resign","story_form":"resign"},{"word_id":"v1672","headword":"merge","story_form":"merge"},{"word_id":"v2167","headword":"reform","story_form":"reform"},{"word_id":"v0044","headword":"administer","story_form":"administration"},{"word_id":"v0035","headword":"acquisition","story_form":"acquisition"}]} -->
 
 ### 오늘의 단어 10개
@@ -680,7 +680,7 @@ I see that buying a company is only the start of the work.
 ---
 
 <a id="o013"></a>
-## O013 — 내 발명품
+## O013 · My Invention / 내 발명품
 <!-- set-data: {"set_id":"O013","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1420","headword":"innovate","story_form":"innovate"},{"word_id":"v1914","headword":"patent","story_form":"patent"},{"word_id":"v0566","headword":"conceive","story_form":"conceive"},{"word_id":"v0558","headword":"component","story_form":"component"},{"word_id":"v0168","headword":"assemble","story_form":"assemble"},{"word_id":"v0548","headword":"compatible","story_form":"compatible"},{"word_id":"v1706","headword":"modify","story_form":"modify"},{"word_id":"v1397","headword":"incorporate","story_form":"incorporate"},{"word_id":"v1093","headword":"flaw","story_form":"flaw"},{"word_id":"v0792","headword":"devise","story_form":"devise"}]} -->
 
 ### 오늘의 단어 10개
@@ -723,7 +723,7 @@ This time, the soil becomes wet slowly, just as we planned.
 ---
 
 <a id="o014"></a>
-## O014 — 컴퓨터가 멈춘 날
+## O014 · The Day the Computer Stopped / 컴퓨터가 멈춘 날
 <!-- set-data: {"set_id":"O014","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0905","headword":"electronic","story_form":"electronic"},{"word_id":"v1430","headword":"install","story_form":"install"},{"word_id":"v1421","headword":"input","story_form":"input"},{"word_id":"v1863","headword":"output","story_form":"output"},{"word_id":"v0717","headword":"database","story_form":"database"},{"word_id":"v0719","headword":"datum","story_form":"data"},{"word_id":"v0749","headword":"delete","story_form":"delete"},{"word_id":"v1424","headword":"insert","story_form":"insert"},{"word_id":"v2836","headword":"update","story_form":"update"},{"word_id":"v1705","headword":"mode","story_form":"mode"}]} -->
 
 ### 오늘의 단어 10개
@@ -766,7 +766,7 @@ We check every date before putting the sign by the door.
 ---
 
 <a id="o015"></a>
-## O015 — 친구의 정보
+## O015 · Information from a Friend / 친구의 정보
 <!-- set-data: {"set_id":"O015","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1774","headword":"network","story_form":"network"},{"word_id":"v0845","headword":"domain","story_form":"domain"},{"word_id":"v0590","headword":"consent","story_form":"consent"},{"word_id":"v1556","headword":"legitimate","story_form":"legitimate"},{"word_id":"v2222","headword":"restrict","story_form":"restrict"},{"word_id":"v1008","headword":"external","story_form":"external"},{"word_id":"v2303","headword":"scan","story_form":"scan"},{"word_id":"v2882","headword":"virus","story_form":"virus"},{"word_id":"v0959","headword":"ethic","story_form":"ethical"},{"word_id":"v1938","headword":"permanent","story_form":"permanent"}]} -->
 
 ### 오늘의 단어 10개
@@ -809,7 +809,7 @@ I tell my friend about the message instead of sending her picture.
 ---
 
 <a id="o016"></a>
-## O016 — 새로운 뉴스
+## O016 · A New Piece of News / 새로운 뉴스
 <!-- set-data: {"set_id":"O016","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0352","headword":"broadcast","story_form":"broadcast"},{"word_id":"v1661","headword":"medium","story_form":"media"},{"word_id":"v0431","headword":"censor","story_form":"censor"},{"word_id":"v1030","headword":"false","story_form":"false"},{"word_id":"v0829","headword":"distort","story_form":"distort"},{"word_id":"v0482","headword":"cite","story_form":"cite"},{"word_id":"v0615","headword":"controversy","story_form":"controversy"},{"word_id":"v0136","headword":"apparent","story_form":"apparent"},{"word_id":"v2039","headword":"presume","story_form":"presume"},{"word_id":"v0480","headword":"circulate","story_form":"circulate"}]} -->
 
 ### 오늘의 단어 10개
@@ -852,7 +852,7 @@ Our report gives classmates enough information to think for themselves.
 ---
 
 <a id="o017"></a>
-## O017 — 신문 동아리
+## O017 · The Newspaper Club / 신문 동아리
 <!-- set-data: {"set_id":"O017","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1485","headword":"journal","story_form":"journal"},{"word_id":"v0194","headword":"author","story_form":"author"},{"word_id":"v2098","headword":"publish","story_form":"publish"},{"word_id":"v0630","headword":"copyright","story_form":"copyright"},{"word_id":"v0857","headword":"draft","story_form":"draft"},{"word_id":"v2234","headword":"revise","story_form":"revise"},{"word_id":"v1130","headword":"format","story_form":"format"},{"word_id":"v0528","headword":"column","story_form":"column"},{"word_id":"v2181","headword":"relevant","story_form":"relevant"},{"word_id":"v0552","headword":"compile","story_form":"compile"}]} -->
 
 ### 오늘의 단어 10개
@@ -895,7 +895,7 @@ At lunch, our first readers laugh at a story about burnt toast.
 ---
 
 <a id="o018"></a>
-## O018 — 도서관의 발견
+## O018 · A Discovery in the Library / 도서관의 발견
 <!-- set-data: {"set_id":"O018","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1803","headword":"novel","story_form":"novel"},{"word_id":"v1065","headword":"fiction","story_form":"fiction"},{"word_id":"v1584","headword":"literature","story_form":"literature"},{"word_id":"v0282","headword":"biography","story_form":"biography"},{"word_id":"v1752","headword":"narrate","story_form":"narrate"},{"word_id":"v1983","headword":"plot","story_form":"plot"},{"word_id":"v2862","headword":"verse","story_form":"verse"},{"word_id":"v1907","headword":"passage","story_form":"passage"},{"word_id":"v1856","headword":"origin","story_form":"origin"},{"word_id":"v0193","headword":"authentic","story_form":"authentic"}]} -->
 
 ### 오늘의 단어 10개
@@ -938,7 +938,7 @@ I borrow both books to see how a writer can turn history into a story.
 ---
 
 <a id="o019"></a>
-## O019 — 선생님의 질문
+## O019 · The Teacher's Question / 선생님의 질문
 <!-- set-data: {"set_id":"O019","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0016","headword":"academy","story_form":"academy"},{"word_id":"v1435","headword":"institute","story_form":"institute"},{"word_id":"v0696","headword":"curriculum","story_form":"curriculum"},{"word_id":"v1023","headword":"faculty","story_form":"faculty"},{"word_id":"v1550","headword":"lecture","story_form":"lecture"},{"word_id":"v2067","headword":"professor","story_form":"professor"},{"word_id":"v2312","headword":"scholar","story_form":"scholar"},{"word_id":"v1441","headword":"intellect","story_form":"intellect"},{"word_id":"v1237","headword":"grasp","story_form":"grasp"},{"word_id":"v0561","headword":"comprehend","story_form":"comprehend"}]} -->
 
 ### 오늘의 단어 10개
@@ -981,7 +981,7 @@ I leave with a new question written in my notebook.
 ---
 
 <a id="o020"></a>
-## O020 — 진로를 찾는 날
+## O020 · Finding a Career Path / 진로를 찾는 날
 <!-- set-data: {"set_id":"O020","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1230","headword":"graduate","story_form":"graduate"},{"word_id":"v2890","headword":"vocation","story_form":"vocation"},{"word_id":"v0166","headword":"aspire","story_form":"aspire"},{"word_id":"v0108","headword":"ambition","story_form":"ambition"},{"word_id":"v2109","headword":"pursue","story_form":"pursue"},{"word_id":"v1909","headword":"passion","story_form":"passion"},{"word_id":"v2640","headword":"talent","story_form":"talent"},{"word_id":"v0998","headword":"expertise","story_form":"expertise"},{"word_id":"v1865","headword":"outstanding","story_form":"outstanding"},{"word_id":"v1843","headword":"opportune","story_form":"opportunity"}]} -->
 
 ### 오늘의 단어 10개
@@ -1024,7 +1024,7 @@ She comes home with many notes and a clearer idea of what she enjoys.
 ---
 
 <a id="o021"></a>
-## O021 — 학교 토론회
+## O021 · A School Debate / 학교 토론회
 <!-- set-data: {"set_id":"O021","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0069","headword":"agenda","story_form":"agenda"},{"word_id":"v0748","headword":"delegate","story_form":"delegate"},{"word_id":"v0616","headword":"convene","story_form":"convene"},{"word_id":"v0576","headword":"confer","story_form":"confer"},{"word_id":"v0817","headword":"discourse","story_form":"discourse"},{"word_id":"v0603","headword":"contend","story_form":"contend"},{"word_id":"v0169","headword":"assert","story_form":"assert"},{"word_id":"v0610","headword":"contradict","story_form":"contradict"},{"word_id":"v2142","headword":"rational","story_form":"rational"},{"word_id":"v1594","headword":"logic","story_form":"logic"}]} -->
 
 ### 오늘의 단어 10개
@@ -1065,7 +1065,7 @@ Our teacher calls this respectful **discourse**, and we agree to ask all the cla
 ---
 
 <a id="o022"></a>
-## O022 — 교실의 규칙
+## O022 · Rules in the Classroom / 교실의 규칙
 <!-- set-data: {"set_id":"O022","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1259","headword":"guideline","story_form":"guideline"},{"word_id":"v1795","headword":"norm","story_form":"norm"},{"word_id":"v0582","headword":"conform","story_form":"conform"},{"word_id":"v1813","headword":"obey","story_form":"obey"},{"word_id":"v1815","headword":"oblige","story_form":"oblige"},{"word_id":"v2073","headword":"prohibit","story_form":"prohibit"},{"word_id":"v1119","headword":"forbid","story_form":"forbid"},{"word_id":"v1939","headword":"permit","story_form":"permit"},{"word_id":"v1388","headword":"impose","story_form":"impose"},{"word_id":"v2560","headword":"strict","story_form":"strict"}]} -->
 
 ### 오늘의 단어 10개
@@ -1106,7 +1106,7 @@ After the meeting, even the youngest member helps put the brushes away.
 ---
 
 <a id="o023"></a>
-## O023 — 작은 선거
+## O023 · A Small Election / 작은 선거
 <!-- set-data: {"set_id":"O023","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0395","headword":"candidate","story_form":"candidate"},{"word_id":"v1790","headword":"nominate","story_form":"nominate"},{"word_id":"v1996","headword":"poll","story_form":"poll"},{"word_id":"v2136","headword":"rank","story_form":"rank"},{"word_id":"v0676","headword":"criterion","story_form":"criterion"},{"word_id":"v1673","headword":"merit","story_form":"merit"},{"word_id":"v2052","headword":"principal","story_form":"principal"},{"word_id":"v1901","headword":"participate","story_form":"participate"},{"word_id":"v0257","headword":"behalf","story_form":"behalf"},{"word_id":"v2037","headword":"preside","story_form":"preside"}]} -->
 
 ### 오늘의 단어 10개
@@ -1147,7 +1147,7 @@ After winning, she asks the other candidate to help collect everyone's ideas.
 ---
 
 <a id="o024"></a>
-## O024 — 언어 수업
+## O024 · A Language Lesson / 언어 수업
 <!-- set-data: {"set_id":"O024","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1577","headword":"linguistic","story_form":"linguistic"},{"word_id":"v1452","headword":"interpret","story_form":"interpret"},{"word_id":"v2774","headword":"translate","story_form":"translate"},{"word_id":"v1949","headword":"phrase","story_form":"phrase"},{"word_id":"v1848","headword":"oral","story_form":"oral"},{"word_id":"v2889","headword":"vocabulary","story_form":"vocabulary"},{"word_id":"v1449","headword":"intermediate","story_form":"intermediate"},{"word_id":"v0637","headword":"correspond","story_form":"correspond"},{"word_id":"v0619","headword":"convey","story_form":"convey"},{"word_id":"v2861","headword":"verb","story_form":"verb"}]} -->
 
 ### 오늘의 단어 10개
@@ -1188,7 +1188,7 @@ I try again, and this time my partner understands how the speaker feels.
 ---
 
 <a id="o025"></a>
-## O025 — 실험실의 발견
+## O025 · A Discovery in the Lab / 실험실의 발견
 <!-- set-data: {"set_id":"O025","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1363","headword":"hypothesis","story_form":"hypothesis"},{"word_id":"v0114","headword":"analyze","story_form":"analyze"},{"word_id":"v0962","headword":"evaluate","story_form":"evaluate"},{"word_id":"v2025","headword":"precise","story_form":"precise"},{"word_id":"v0951","headword":"err","story_form":"err"},{"word_id":"v1407","headword":"infer","story_form":"infer"},{"word_id":"v2080","headword":"proof","story_form":"proof"},{"word_id":"v2850","headword":"valid","story_form":"valid"},{"word_id":"v1946","headword":"phenomenon","story_form":"phenomenon"},{"word_id":"v1415","headword":"initial","story_form":"initial"}]} -->
 
 ### 오늘의 단어 10개
@@ -1229,7 +1229,7 @@ We collect more results before deciding whether our explanation is **valid**.
 ---
 
 <a id="o026"></a>
-## O026 — 작은 물질의 세계
+## O026 · The Tiny World of Matter / 작은 물질의 세계
 <!-- set-data: {"set_id":"O026","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0181","headword":"atom","story_form":"atom"},{"word_id":"v1712","headword":"molecule","story_form":"molecule"},{"word_id":"v1902","headword":"particle","story_form":"particle"},{"word_id":"v2577","headword":"substance","story_form":"substance"},{"word_id":"v0560","headword":"compound","story_form":"compound"},{"word_id":"v0460","headword":"chemical","story_form":"chemical"},{"word_id":"v0032","headword":"acid","story_form":"acid"},{"word_id":"v1581","headword":"liquid","story_form":"liquid"},{"word_id":"v0012","headword":"absorb","story_form":"absorb"},{"word_id":"v1011","headword":"extract","story_form":"extract"}]} -->
 
 ### 오늘의 단어 10개
@@ -1270,7 +1270,7 @@ We follow her instructions and watch a pale brown color spread.
 ---
 
 <a id="o027"></a>
-## O027 — 빛의 실험
+## O027 · An Experiment with Light / 빛의 실험
 <!-- set-data: {"set_id":"O027","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1951","headword":"physics","story_form":"physics"},{"word_id":"v2486","headword":"spectrum","story_form":"spectrum"},{"word_id":"v0241","headword":"beam","story_form":"beam"},{"word_id":"v1614","headword":"magnet","story_form":"magnet"},{"word_id":"v1173","headword":"fuse","story_form":"fuse"},{"word_id":"v2481","headword":"spark","story_form":"spark"},{"word_id":"v1215","headword":"glow","story_form":"glow"},{"word_id":"v2883","headword":"visible","story_form":"visible"},{"word_id":"v0120","headword":"angle","story_form":"angle"},{"word_id":"v0687","headword":"crystal","story_form":"crystal"}]} -->
 
 ### 오늘의 단어 10개
@@ -1311,7 +1311,7 @@ We watch a tiny **spark** in a sealed display, then draw our favorite experiment
 ---
 
 <a id="o028"></a>
-## O028 — 우주 관찰
+## O028 · Watching Space / 우주 관찰
 <!-- set-data: {"set_id":"O028","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v2831","headword":"universe","story_form":"universe"},{"word_id":"v1850","headword":"orbit","story_form":"orbit"},{"word_id":"v2297","headword":"satellite","story_form":"satellite"},{"word_id":"v1807","headword":"nuclear","story_form":"nuclear"},{"word_id":"v1380","headword":"immense","story_form":"immense"},{"word_id":"v2857","headword":"vast","story_form":"vast"},{"word_id":"v2491","headword":"sphere","story_form":"sphere"},{"word_id":"v1895","headword":"parallel","story_form":"parallel"},{"word_id":"v2865","headword":"vertical","story_form":"vertical"},{"word_id":"v2840","headword":"upward","story_form":"upward"}]} -->
 
 ### 오늘의 단어 10개
@@ -1352,7 +1352,7 @@ I add a tiny window and imagine seeing Earth from far away.
 ---
 
 <a id="o029"></a>
-## O029 — 땅의 기록
+## O029 · Records in the Earth / 땅의 기록
 <!-- set-data: {"set_id":"O029","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1198","headword":"geography","story_form":"geography"},{"word_id":"v1199","headword":"geology","story_form":"geology"},{"word_id":"v1691","headword":"mineral","story_form":"mineral"},{"word_id":"v1690","headword":"mine","story_form":"mine"},{"word_id":"v0116","headword":"ancient","story_form":"ancient"},{"word_id":"v0948","headword":"era","story_form":"era"},{"word_id":"v0971","headword":"evolution","story_form":"evolution"},{"word_id":"v1009","headword":"extinct","story_form":"extinct"},{"word_id":"v2050","headword":"primitive","story_form":"primitive"},{"word_id":"v0972","headword":"evolve","story_form":"evolve"}]} -->
 
 ### 오늘의 단어 10개
@@ -1393,7 +1393,7 @@ We add dates to our drawings so that we do not mix up the different ages.
 ---
 
 <a id="o030"></a>
-## O030 — 동물 관찰
+## O030 · Watching Animals / 동물 관찰
 <!-- set-data: {"set_id":"O030","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1268","headword":"habitat","story_form":"habitat"},{"word_id":"v1412","headword":"inhabit","story_form":"inhabit"},{"word_id":"v2026","headword":"predator","story_form":"predator"},{"word_id":"v2045","headword":"prey","story_form":"prey"},{"word_id":"v1434","headword":"instinct","story_form":"instinct"},{"word_id":"v0343","headword":"breed","story_form":"breed"},{"word_id":"v1100","headword":"flock","story_form":"flock"},{"word_id":"v1683","headword":"migrate","story_form":"migrate"},{"word_id":"v1632","headword":"marine","story_form":"marine"},{"word_id":"v1423","headword":"insect","story_form":"insect"}]} -->
 
 ### 오늘의 단어 10개
@@ -1434,7 +1434,7 @@ We finish at a **marine** display and compare sea animals with the wetland birds
 ---
 
 <a id="o031"></a>
-## O031 — 농장의 하루
+## O031 · A Day on the Farm / 농장의 하루
 <!-- set-data: {"set_id":"O031","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0074","headword":"agriculture","story_form":"agriculture"},{"word_id":"v0688","headword":"cultivate","story_form":"cultivate"},{"word_id":"v1060","headword":"fertile","story_form":"fertile"},{"word_id":"v0678","headword":"crop","story_form":"crop"},{"word_id":"v1287","headword":"harvest","story_form":"harvest"},{"word_id":"v1231","headword":"grain","story_form":"grain"},{"word_id":"v2936","headword":"wheat","story_form":"wheat"},{"word_id":"v0633","headword":"corn","story_form":"corn"},{"word_id":"v0708","headword":"dairy","story_form":"dairy"},{"word_id":"v0422","headword":"cattle","story_form":"cattle"}]} -->
 
 ### 오늘의 단어 10개
@@ -1475,7 +1475,7 @@ The farmer nods, and we follow her to see where the milk is collected.
 ---
 
 <a id="o032"></a>
-## O032 — 정원의 변화
+## O032 · Changes in the Garden / 정원의 변화
 <!-- set-data: {"set_id":"O032","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0303","headword":"blossom","story_form":"blossom"},{"word_id":"v2535","headword":"stem","story_form":"stem"},{"word_id":"v2923","headword":"weed","story_form":"weed"},{"word_id":"v1155","headword":"frost","story_form":"frost"},{"word_id":"v1711","headword":"moist","story_form":"moisture"},{"word_id":"v0729","headword":"decay","story_form":"decay"},{"word_id":"v2268","headword":"rot","story_form":"rot"},{"word_id":"v1103","headword":"flourish","story_form":"flourish"},{"word_id":"v0006","headword":"abound","story_form":"abundant"},{"word_id":"v2994","headword":"yield","story_form":"yield"}]} -->
 
 ### 오늘의 단어 10개
@@ -1516,7 +1516,7 @@ Old leaves **decay**, but we remove damaged fruit before more can **rot**.
 ---
 
 <a id="o033"></a>
-## O033 — 산길에서
+## O033 · On a Mountain Path / 산길에서
 <!-- set-data: {"set_id":"O033","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v2768","headword":"trail","story_form":"trail"},{"word_id":"v2433","headword":"slope","story_form":"slope"},{"word_id":"v2534","headword":"steep","story_form":"steep"},{"word_id":"v1922","headword":"peak","story_form":"peak"},{"word_id":"v2596","headword":"summit","story_form":"summit"},{"word_id":"v0770","headword":"descend","story_form":"descend"},{"word_id":"v1394","headword":"incline","story_form":"incline"},{"word_id":"v0760","headword":"dense","story_form":"dense"},{"word_id":"v2192","headword":"remote","story_form":"remote"},{"word_id":"v1362","headword":"hut","story_form":"hut"}]} -->
 
 ### 오늘의 단어 10개
@@ -1557,7 +1557,7 @@ We return by the same path, pleased with the view we did see.
 ---
 
 <a id="o034"></a>
-## O034 — 동굴 탐험
+## O034 · Exploring a Cave / 동굴 탐험
 <!-- set-data: {"set_id":"O034","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0425","headword":"cave","story_form":"cave"},{"word_id":"v1002","headword":"explore","story_form":"explore"},{"word_id":"v0926","headword":"encounter","story_form":"encounter"},{"word_id":"v1595","headword":"lone","story_form":"lone"},{"word_id":"v2900","headword":"wander","story_form":"wander"},{"word_id":"v0403","headword":"capture","story_form":"capture"},{"word_id":"v0085","headword":"alert","story_form":"alert"},{"word_id":"v0424","headword":"caution","story_form":"caution"},{"word_id":"v0327","headword":"boundary","story_form":"boundary"},{"word_id":"v0545","headword":"companion","story_form":"companion"}]} -->
 
 ### 오늘의 단어 10개
@@ -1598,7 +1598,7 @@ She joins them, and we take our pictures from behind the rope.
 ---
 
 <a id="o035"></a>
-## O035 — 바다를 지키는 날
+## O035 · A Day to Protect the Sea / 바다를 지키는 날
 <!-- set-data: {"set_id":"O035","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0944","headword":"environ","story_form":"environment"},{"word_id":"v0591","headword":"conserve","story_form":"conserve"},{"word_id":"v2036","headword":"preserve","story_form":"preserve"},{"word_id":"v2760","headword":"toxic","story_form":"toxic"},{"word_id":"v0919","headword":"emit","story_form":"emit"},{"word_id":"v1073","headword":"filter","story_form":"filter"},{"word_id":"v1080","headword":"finite","story_form":"finite"},{"word_id":"v2617","headword":"sustain","story_form":"sustain"},{"word_id":"v2305","headword":"scarce","story_form":"scarce"},{"word_id":"v1212","headword":"globe","story_form":"globe"}]} -->
 
 ### 오늘의 단어 10개
@@ -1639,7 +1639,7 @@ We end our display with small actions our own school can take.
 ---
 
 <a id="o036"></a>
-## O036 — 폭풍 뒤의 구조
+## O036 · A Rescue After the Storm / 폭풍 뒤의 구조
 <!-- set-data: {"set_id":"O036","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0814","headword":"disaster","story_form":"disaster"},{"word_id":"v0918","headword":"emergency","story_form":"emergency"},{"word_id":"v0961","headword":"evacuate","story_form":"evacuate"},{"word_id":"v2205","headword":"rescue","story_form":"rescue"},{"word_id":"v0869","headword":"drown","story_form":"drown"},{"word_id":"v2985","headword":"wreck","story_form":"wreck"},{"word_id":"v0521","headword":"collapse","story_form":"collapse"},{"word_id":"v2360","headword":"severe","story_form":"severe"},{"word_id":"v1292","headword":"hazard","story_form":"hazard"},{"word_id":"v0784","headword":"destruct","story_form":"destruction"}]} -->
 
 ### 오늘의 단어 10개
@@ -1680,7 +1680,7 @@ We stay at the shelter until officials say it is safe to return.
 ---
 
 <a id="o037"></a>
-## O037 — 운동을 시작한 날
+## O037 · The Day I Started Exercising / 운동을 시작한 날
 <!-- set-data: {"set_id":"O037","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0179","headword":"athlete","story_form":"athlete"},{"word_id":"v1266","headword":"gymnasium","story_form":"gymnasium"},{"word_id":"v1481","headword":"jog","story_form":"jog"},{"word_id":"v2620","headword":"sweat","story_form":"sweat"},{"word_id":"v2552","headword":"strain","story_form":"strain"},{"word_id":"v2538","headword":"stiff","story_form":"stiff"},{"word_id":"v1303","headword":"heel","story_form":"heel"},{"word_id":"v1526","headword":"lap","story_form":"lap"},{"word_id":"v1878","headword":"pace","story_form":"pace"},{"word_id":"v2875","headword":"vigor","story_form":"vigorous"}]} -->
 
 ### 오늘의 단어 10개
@@ -1721,7 +1721,7 @@ I rest beside the track and make a plan to ask about the pain before running aga
 ---
 
 <a id="o038"></a>
-## O038 — 결승선까지
+## O038 · All the Way to the Finish Line / 결승선까지
 <!-- set-data: {"set_id":"O038","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0551","headword":"compete","story_form":"compete"},{"word_id":"v2250","headword":"rival","story_form":"rival"},{"word_id":"v0739","headword":"defeat","story_form":"defeat"},{"word_id":"v2872","headword":"victory","story_form":"victory"},{"word_id":"v2792","headword":"triumph","story_form":"triumph"},{"word_id":"v1940","headword":"persist","story_form":"persist"},{"word_id":"v0928","headword":"endure","story_form":"endure"},{"word_id":"v2237","headword":"reward","story_form":"reward"},{"word_id":"v0316","headword":"boost","story_form":"boost"},{"word_id":"v1276","headword":"handicap","story_form":"handicap"}]} -->
 
 ### 오늘의 단어 10개
@@ -1762,7 +1762,7 @@ My **reward** is a happy walk home with a new friend.
 ---
 
 <a id="o039"></a>
-## O039 — 운동장에서 생긴 일
+## O039 · An Incident on the Sports Field / 운동장에서 생긴 일
 <!-- set-data: {"set_id":"O039","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1393","headword":"incident","story_form":"incident"},{"word_id":"v2971","headword":"witness","story_form":"witness"},{"word_id":"v2149","headword":"rear","story_form":"rear"},{"word_id":"v1247","headword":"grip","story_form":"grip"},{"word_id":"v2339","headword":"seize","story_form":"seize"},{"word_id":"v1912","headword":"pat","story_form":"pat"},{"word_id":"v1788","headword":"nod","story_form":"nod"},{"word_id":"v2398","headword":"sigh","story_form":"sigh"},{"word_id":"v1886","headword":"pale","story_form":"pale"},{"word_id":"v1754","headword":"nasty","story_form":"nasty"}]} -->
 
 ### 오늘의 단어 10개
@@ -1803,7 +1803,7 @@ We both **sigh** with relief when we see that his lunch is still dry.
 ---
 
 <a id="o040"></a>
-## O040 — 병원에 간 아이
+## O040 · A Child's Visit to the Hospital / 병원에 간 아이
 <!-- set-data: {"set_id":"O040","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0502","headword":"clinic","story_form":"clinic"},{"word_id":"v2632","headword":"symptom","story_form":"symptom"},{"word_id":"v0030","headword":"ache","story_form":"ache"},{"word_id":"v0850","headword":"dose","story_form":"dose"},{"word_id":"v1960","headword":"pill","story_form":"pill"},{"word_id":"v2033","headword":"prescribe","story_form":"prescribe"},{"word_id":"v2183","headword":"relieve","story_form":"relieve"},{"word_id":"v2189","headword":"remedy","story_form":"remedy"},{"word_id":"v1296","headword":"heal","story_form":"heal"},{"word_id":"v1684","headword":"mild","story_form":"mild"}]} -->
 
 ### 오늘의 단어 10개
@@ -1844,7 +1844,7 @@ We leave with instructions for my situation and a number to call with questions.
 ---
 
 <a id="o041"></a>
-## O041 — 수술을 앞둔 가족
+## O041 · A Family Waiting for Surgery / 수술을 앞둔 가족
 <!-- set-data: {"set_id":"O041","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v2609","headword":"surgery","story_form":"surgery"},{"word_id":"v2821","headword":"undergo","story_form":"undergo"},{"word_id":"v1416","headword":"inject","story_form":"inject"},{"word_id":"v2732","headword":"tissue","story_form":"tissue"},{"word_id":"v1095","headword":"flesh","story_form":"flesh"},{"word_id":"v1382","headword":"immune","story_form":"immune"},{"word_id":"v1406","headword":"infect","story_form":"infect"},{"word_id":"v2847","headword":"vaccine","story_form":"vaccine"},{"word_id":"v2693","headword":"therapy","story_form":"therapy"},{"word_id":"v0394","headword":"cancer","story_form":"cancer"}]} -->
 
 ### 오늘의 단어 10개
@@ -1885,7 +1885,7 @@ The doctor explains that protection varies, and we write down questions for our 
 ---
 
 <a id="o042"></a>
-## O042 — 건강을 배우는 시간
+## O042 · Learning About Health / 건강을 배우는 시간
 <!-- set-data: {"set_id":"O042","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0283","headword":"biology","story_form":"biology"},{"word_id":"v1190","headword":"gene","story_form":"gene"},{"word_id":"v1854","headword":"organ","story_form":"organ"},{"word_id":"v0794","headword":"diabetes","story_form":"diabetes"},{"word_id":"v2088","headword":"protein","story_form":"protein"},{"word_id":"v0742","headword":"deficiency","story_form":"deficiency"},{"word_id":"v2603","headword":"supplement","story_form":"supplement"},{"word_id":"v0475","headword":"chronic","story_form":"chronic"},{"word_id":"v2175","headword":"regulate","story_form":"regulate"},{"word_id":"v1708","headword":"moderate","story_form":"moderate"}]} -->
 
 ### 오늘의 단어 10개
@@ -1926,7 +1926,7 @@ We then discuss **protein** and what a nutrient **deficiency** means.
 ---
 
 <a id="o043"></a>
-## O043 — 점심 만들기
+## O043 · Making Lunch / 점심 만들기
 <!-- set-data: {"set_id":"O043","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0459","headword":"chef","story_form":"chef"},{"word_id":"v1411","headword":"ingredient","story_form":"ingredient"},{"word_id":"v1092","headword":"flavor","story_form":"flavor"},{"word_id":"v0697","headword":"curry","story_form":"curry"},{"word_id":"v2254","headword":"roast","story_form":"roast"},{"word_id":"v2143","headword":"raw","story_form":"raw"},{"word_id":"v1925","headword":"peel","story_form":"peel"},{"word_id":"v2428","headword":"slice","story_form":"slice"},{"word_id":"v2006","headword":"portion","story_form":"portion"},{"word_id":"v2168","headword":"refrigerate","story_form":"refrigerate"}]} -->
 
 ### 오늘의 단어 10개
@@ -1967,7 +1967,7 @@ We enjoy lunch, then help her **refrigerate** the food she has set aside.
 ---
 
 <a id="o044"></a>
-## O044 — 부엌의 작은 실수
+## O044 · A Small Mistake in the Kitchen / 부엌의 작은 실수
 <!-- set-data: {"set_id":"O044","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1477","headword":"jar","story_form":"jar"},{"word_id":"v2448","headword":"soak","story_form":"soak"},{"word_id":"v2509","headword":"squeeze","story_form":"squeeze"},{"word_id":"v1963","headword":"pinch","story_form":"pinch"},{"word_id":"v2492","headword":"spill","story_form":"spill"},{"word_id":"v2496","headword":"splash","story_form":"splash"},{"word_id":"v1106","headword":"flush","story_form":"flush"},{"word_id":"v2550","headword":"stove","story_form":"stove"},{"word_id":"v2449","headword":"soap","story_form":"soap"},{"word_id":"v1607","headword":"lump","story_form":"lump"}]} -->
 
 ### 오늘의 단어 10개
@@ -2008,7 +2008,7 @@ I turn the water down, and we finish with a clean kitchen.
 ---
 
 <a id="o045"></a>
-## O045 — 옷을 고치는 날
+## O045 · A Day for Mending Clothes / 옷을 고치는 날
 <!-- set-data: {"set_id":"O045","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1016","headword":"fabric","story_form":"fabric"},{"word_id":"v1064","headword":"fiber","story_form":"fiber"},{"word_id":"v1548","headword":"leather","story_form":"leather"},{"word_id":"v1764","headword":"needle","story_form":"needle"},{"word_id":"v2710","headword":"thread","story_form":"thread"},{"word_id":"v2542","headword":"stitch","story_form":"stitch"},{"word_id":"v2920","headword":"weave","story_form":"weave"},{"word_id":"v1510","headword":"knot","story_form":"knot"},{"word_id":"v2563","headword":"strip","story_form":"strip"},{"word_id":"v2564","headword":"stripe","story_form":"stripe"}]} -->
 
 ### 오늘의 단어 10개
@@ -2049,7 +2049,7 @@ I carry the repaired bag to school and point proudly to my small row of stitches
 ---
 
 <a id="o046"></a>
-## O046 — 미술관의 그림
+## O046 · A Painting at the Art Museum / 미술관의 그림
 <!-- set-data: {"set_id":"O046","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1176","headword":"gallery","story_form":"gallery"},{"word_id":"v0988","headword":"exhibit","story_form":"exhibit"},{"word_id":"v0397","headword":"canvas","story_form":"canvas"},{"word_id":"v2007","headword":"portrait","story_form":"portrait"},{"word_id":"v1523","headword":"landscape","story_form":"landscape"},{"word_id":"v0765","headword":"depict","story_form":"depict"},{"word_id":"v0058","headword":"aesthetic","story_form":"aesthetic"},{"word_id":"v0013","headword":"abstract","story_form":"abstract"},{"word_id":"v0612","headword":"contrast","story_form":"contrast"},{"word_id":"v2579","headword":"subtle","story_form":"subtle"}]} -->
 
 ### 오늘의 단어 10개
@@ -2090,7 +2090,7 @@ I step back and begin to see a quiet mood in the shapes.
 ---
 
 <a id="o047"></a>
-## O047 — 작은 조각 전시회
+## O047 · A Small Sculpture Exhibition / 작은 조각 전시회
 <!-- set-data: {"set_id":"O047","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v2323","headword":"sculpt","story_form":"sculpt"},{"word_id":"v0491","headword":"clay","story_form":"clay"},{"word_id":"v0412","headword":"carve","story_form":"carve"},{"word_id":"v2526","headword":"statue","story_form":"statue"},{"word_id":"v1719","headword":"monument","story_form":"monument"},{"word_id":"v1615","headword":"magnificent","story_form":"magnificent"},{"word_id":"v1012","headword":"extraordinary","story_form":"extraordinary"},{"word_id":"v2485","headword":"spectacle","story_form":"spectacle"},{"word_id":"v0205","headword":"awe","story_form":"awe"},{"word_id":"v1187","headword":"gaze","story_form":"gaze"}]} -->
 
 ### 오늘의 단어 10개
@@ -2131,7 +2131,7 @@ Her tiny bird seems ready to fly, and I draw it in my notebook.
 ---
 
 <a id="o048"></a>
-## O048 — 음악회 준비
+## O048 · Preparing for a Concert / 음악회 준비
 <!-- set-data: {"set_id":"O048","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1851","headword":"orchestra","story_form":"orchestra"},{"word_id":"v0471","headword":"choir","story_form":"choir"},{"word_id":"v0474","headword":"chorus","story_form":"chorus"},{"word_id":"v0559","headword":"compose","story_form":"compose"},{"word_id":"v2238","headword":"rhythm","story_form":"rhythm"},{"word_id":"v1285","headword":"harmony","story_form":"harmony"},{"word_id":"v2631","headword":"symphony","story_form":"symphony"},{"word_id":"v1679","headword":"microphone","story_form":"microphone"},{"word_id":"v1454","headword":"interval","story_form":"interval"},{"word_id":"v0487","headword":"clap","story_form":"clap"}]} -->
 
 ### 오늘의 단어 10개
@@ -2172,7 +2172,7 @@ When we finish, the audience begins to **clap**, and I finally relax.
 ---
 
 <a id="o049"></a>
-## O049 — 무대 뒤의 마술
+## O049 · Magic Behind the Scenes / 무대 뒤의 마술
 <!-- set-data: {"set_id":"O049","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1374","headword":"illude","story_form":"illusion"},{"word_id":"v0160","headword":"artifice","story_form":"artificial"},{"word_id":"v1378","headword":"imitate","story_form":"imitate"},{"word_id":"v1197","headword":"genuine","story_form":"genuine"},{"word_id":"v2854","headword":"vanish","story_form":"vanish"},{"word_id":"v0177","headword":"astonish","story_form":"astonish"},{"word_id":"v1458","headword":"intrigue","story_form":"intrigue"},{"word_id":"v2713","headword":"thrill","story_form":"thrill"},{"word_id":"v0298","headword":"blink","story_form":"blink"},{"word_id":"v2928","headword":"weird","story_form":"weird"}]} -->
 
 ### 오늘의 단어 10개
@@ -2215,7 +2215,7 @@ I try with a paper bird at home, but he sees it under my sleeve.
 ---
 
 <a id="o050"></a>
-## O050 — 축제의 하루
+## O050 · A Day at the Festival / 축제의 하루
 <!-- set-data: {"set_id":"O050","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0428","headword":"celebrate","story_form":"celebrate"},{"word_id":"v0122","headword":"anniversary","story_form":"anniversary"},{"word_id":"v0641","headword":"costume","story_form":"costume"},{"word_id":"v0702","headword":"custom","story_form":"custom"},{"word_id":"v0960","headword":"ethnic","story_form":"ethnic"},{"word_id":"v1313","headword":"heritage","story_form":"heritage"},{"word_id":"v2787","headword":"tribe","story_form":"tribe"},{"word_id":"v0835","headword":"diverse","story_form":"diverse"},{"word_id":"v2828","headword":"unique","story_form":"unique"},{"word_id":"v2629","headword":"symbol","story_form":"symbol"}]} -->
 
 ### 오늘의 단어 10개
@@ -2256,7 +2256,7 @@ I ask permission and write her explanation beside my photograph.
 ---
 
 <a id="o051"></a>
-## O051 — 새로운 친구
+## O051 · A New Friend / 새로운 친구
 <!-- set-data: {"set_id":"O051","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1381","headword":"immigrate","story_form":"immigrate"},{"word_id":"v0086","headword":"alien","story_form":"alien"},{"word_id":"v2030","headword":"prejudice","story_form":"prejudice"},{"word_id":"v0818","headword":"discriminate","story_form":"discriminate"},{"word_id":"v0983","headword":"exclude","story_form":"exclude"},{"word_id":"v1440","headword":"integrate","story_form":"integrate"},{"word_id":"v0096","headword":"alongside","story_form":"alongside"},{"word_id":"v0087","headword":"alike","story_form":"alike"},{"word_id":"v1745","headword":"mutual","story_form":"mutual"},{"word_id":"v0916","headword":"embrace","story_form":"embrace"}]} -->
 
 ### 오늘의 단어 10개
@@ -2297,7 +2297,7 @@ We **embrace** his different ideas, and our shared drawing becomes more interest
 ---
 
 <a id="o052"></a>
-## O052 — 친구 사이의 오해
+## O052 · A Misunderstanding Between Friends / 친구 사이의 오해
 <!-- set-data: {"set_id":"O052","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0135","headword":"apology","story_form":"apology"},{"word_id":"v1827","headword":"offend","story_form":"offend"},{"word_id":"v1438","headword":"insult","story_form":"insult"},{"word_id":"v1704","headword":"mock","story_form":"mock"},{"word_id":"v2655","headword":"tease","story_form":"tease"},{"word_id":"v2244","headword":"ridicule","story_form":"ridicule"},{"word_id":"v2094","headword":"provoke","story_form":"provoke"},{"word_id":"v1172","headword":"fury","story_form":"furious"},{"word_id":"v2128","headword":"rage","story_form":"rage"},{"word_id":"v2173","headword":"regret","story_form":"regret"}]} -->
 
 ### 오늘의 단어 10개
@@ -2338,7 +2338,7 @@ I give him space, and later ask if he would like to explain his picture.
 ---
 
 <a id="o053"></a>
-## O053 — 괴롭힘을 멈추다
+## O053 · Putting a Stop to Bullying / 괴롭힘을 멈추다
 <!-- set-data: {"set_id":"O053","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0363","headword":"bully","story_form":"bully"},{"word_id":"v0015","headword":"abuse","story_form":"abuse"},{"word_id":"v0583","headword":"confront","story_form":"confront"},{"word_id":"v1455","headword":"intervene","story_form":"intervene"},{"word_id":"v1447","headword":"interfere","story_form":"interfere"},{"word_id":"v2221","headword":"restrain","story_form":"restrain"},{"word_id":"v0573","headword":"condemn","story_form":"condemn"},{"word_id":"v0804","headword":"dignity","story_form":"dignity"},{"word_id":"v0655","headword":"courage","story_form":"courage"},{"word_id":"v0071","headword":"aggress","story_form":"aggressive"}]} -->
 
 ### 오늘의 단어 10개
@@ -2379,7 +2379,7 @@ We stay with the younger student while the adults make sure he is safe.
 ---
 
 <a id="o054"></a>
-## O054 — 말하지 못한 마음
+## O054 · Feelings Left Unspoken / 말하지 못한 마음
 <!-- set-data: {"set_id":"O054","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0130","headword":"anxiety","story_form":"anxiety"},{"word_id":"v0862","headword":"dread","story_form":"dread"},{"word_id":"v0778","headword":"despair","story_form":"despair"},{"word_id":"v1875","headword":"overwhelm","story_form":"overwhelm"},{"word_id":"v0578","headword":"confide","story_form":"confide"},{"word_id":"v1456","headword":"intimate","story_form":"intimate"},{"word_id":"v2630","headword":"sympathy","story_form":"sympathy"},{"word_id":"v1246","headword":"grief","story_form":"grief"},{"word_id":"v1167","headword":"funeral","story_form":"funeral"},{"word_id":"v1240","headword":"grave","story_form":"grave"}]} -->
 
 ### 오늘의 단어 10개
@@ -2420,7 +2420,7 @@ I choose a short walk with her and tell Mom that I would like more support.
 ---
 
 <a id="o055"></a>
-## O055 — 사진 속 가족
+## O055 · The Family in the Photo / 사진 속 가족
 <!-- set-data: {"set_id":"O055","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1405","headword":"infant","story_form":"infant"},{"word_id":"v0047","headword":"adolescent","story_form":"adolescent"},{"word_id":"v1644","headword":"mature","story_form":"mature"},{"word_id":"v2503","headword":"spouse","story_form":"spouse"},{"word_id":"v1770","headword":"nephew","story_form":"nephew"},{"word_id":"v1255","headword":"guardian","story_form":"guardian"},{"word_id":"v1305","headword":"heir","story_form":"heir"},{"word_id":"v1189","headword":"gender","story_form":"gender"},{"word_id":"v1113","headword":"fond","story_form":"fond"},{"word_id":"v2207","headword":"resemble","story_form":"resemble"}]} -->
 
 ### 오늘의 단어 10개
@@ -2461,7 +2461,7 @@ I am especially **fond** of the last photo, where everyone is laughing together.
 ---
 
 <a id="o056"></a>
-## O056 — 다시 시작하는 하루
+## O056 · A Day to Start Again / 다시 시작하는 하루
 <!-- set-data: {"set_id":"O056","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v2272","headword":"routine","story_form":"routine"},{"word_id":"v0830","headword":"distract","story_form":"distract"},{"word_id":"v1766","headword":"neglect","story_form":"neglect"},{"word_id":"v2666","headword":"tempt","story_form":"tempt"},{"word_id":"v1817","headword":"obsess","story_form":"obsess"},{"word_id":"v0040","headword":"addict","story_form":"addict"},{"word_id":"v1177","headword":"gamble","story_form":"gamble"},{"word_id":"v0945","headword":"envy","story_form":"envy"},{"word_id":"v1243","headword":"greed","story_form":"greed"},{"word_id":"v0588","headword":"conscience","story_form":"conscience"}]} -->
 
 ### 오늘의 단어 10개
@@ -2502,7 +2502,7 @@ Together, we close the payment page and ask for help making a healthier plan.
 ---
 
 <a id="o057"></a>
-## O057 — 생각이 달라질 때
+## O057 · When Our Thinking Changes / 생각이 달라질 때
 <!-- set-data: {"set_id":"O057","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1846","headword":"optimist","story_form":"optimist"},{"word_id":"v0707","headword":"cynical","story_form":"cynical"},{"word_id":"v1749","headword":"naive","story_form":"naive"},{"word_id":"v1495","headword":"keen","story_form":"keen"},{"word_id":"v0884","headword":"eager","story_form":"eager"},{"word_id":"v0940","headword":"enthusiastic","story_form":"enthusiastic"},{"word_id":"v0882","headword":"dynamic","story_form":"dynamic"},{"word_id":"v1710","headword":"modest","story_form":"modest"},{"word_id":"v1193","headword":"generous","story_form":"generous"},{"word_id":"v2346","headword":"sensible","story_form":"sensible"}]} -->
 
 ### 오늘의 단어 10개
@@ -2543,7 +2543,7 @@ He suggests shorter work periods, and more classmates agree to join.
 ---
 
 <a id="o058"></a>
-## O058 — 마음속 질문
+## O058 · Questions in My Mind / 마음속 질문
 <!-- set-data: {"set_id":"O058","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v2095","headword":"psychology","story_form":"psychology"},{"word_id":"v1933","headword":"perceive","story_form":"perceive"},{"word_id":"v1426","headword":"insight","story_form":"insight"},{"word_id":"v1413","headword":"inherent","story_form":"inherent"},{"word_id":"v2822","headword":"underlie","story_form":"underlie"},{"word_id":"v1728","headword":"motive","story_form":"motive"},{"word_id":"v1386","headword":"imply","story_form":"imply"},{"word_id":"v2540","headword":"stimulate","story_form":"stimulate"},{"word_id":"v1403","headword":"induce","story_form":"induce"},{"word_id":"v1414","headword":"inhibit","story_form":"inhibit"}]} -->
 
 ### 오늘의 단어 10개
@@ -2584,7 +2584,7 @@ This **insight** helps me wait kindly when my quiet partner begins to speak.
 ---
 
 <a id="o059"></a>
-## O059 — 서로 다른 주장
+## O059 · Different Points of View / 서로 다른 주장
 <!-- set-data: {"set_id":"O059","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0563","headword":"compromise","story_form":"compromise"},{"word_id":"v1767","headword":"negotiate","story_form":"negotiate"},{"word_id":"v1657","headword":"mediate","story_form":"mediate"},{"word_id":"v0824","headword":"dispute","story_form":"dispute"},{"word_id":"v2212","headword":"resolve","story_form":"resolve"},{"word_id":"v0488","headword":"clash","story_form":"clash"},{"word_id":"v0092","headword":"ally","story_form":"ally"},{"word_id":"v2782","headword":"treaty","story_form":"treaty"},{"word_id":"v0025","headword":"accord","story_form":"accord"},{"word_id":"v0649","headword":"counterpart","story_form":"counterpart"}]} -->
 
 ### 오늘의 단어 10개
@@ -2625,7 +2625,7 @@ Both classes plant seeds on the same afternoon.
 ---
 
 <a id="o060"></a>
-## O060 — 박물관의 나라 이야기
+## O060 · A Nation's Story at the Museum / 박물관의 나라 이야기
 <!-- set-data: {"set_id":"O060","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1384","headword":"imperial","story_form":"imperial"},{"word_id":"v0526","headword":"colony","story_form":"colony"},{"word_id":"v1460","headword":"invade","story_form":"invade"},{"word_id":"v1821","headword":"occupy","story_form":"occupy"},{"word_id":"v1924","headword":"peasant","story_form":"peasant"},{"word_id":"v2151","headword":"rebel","story_form":"rebel"},{"word_id":"v2236","headword":"revolution","story_form":"revolution"},{"word_id":"v1565","headword":"liberty","story_form":"liberty"},{"word_id":"v2201","headword":"republic","story_form":"republic"},{"word_id":"v0607","headword":"continent","story_form":"continent"}]} -->
 
 ### 오늘의 단어 10개
@@ -2666,7 +2666,7 @@ We learn that a new name alone does not guarantee a fair society.
 ---
 
 <a id="o061"></a>
-## O061 — 국회의 하루
+## O061 · A Day in Parliament / 국회의 하루
 <!-- set-data: {"set_id":"O061","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1899","headword":"parliament","story_form":"parliament"},{"word_id":"v0586","headword":"congress","story_form":"congress"},{"word_id":"v1555","headword":"legislate","story_form":"legislate"},{"word_id":"v0756","headword":"democracy","story_form":"democracy"},{"word_id":"v0757","headword":"democrat","story_form":"democrat"},{"word_id":"v1564","headword":"liberal","story_form":"liberal"},{"word_id":"v1370","headword":"ideology","story_form":"ideology"},{"word_id":"v0543","headword":"communist","story_form":"communist"},{"word_id":"v1052","headword":"federal","story_form":"federal"},{"word_id":"v1694","headword":"ministry","story_form":"ministry"}]} -->
 
 ### 오늘의 단어 10개
@@ -2707,7 +2707,7 @@ We give each **ministry** a job and let the class question its plans.
 ---
 
 <a id="o062"></a>
-## O062 — 도시를 바꾸는 계획
+## O062 · A Plan to Change the City / 도시를 바꾸는 계획
 <!-- set-data: {"set_id":"O062","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1648","headword":"mayor","story_form":"mayor"},{"word_id":"v1678","headword":"metropolitan","story_form":"metropolitan"},{"word_id":"v2841","headword":"urban","story_form":"urban"},{"word_id":"v2281","headword":"rural","story_form":"rural"},{"word_id":"v2093","headword":"province","story_form":"province"},{"word_id":"v2333","headword":"sector","story_form":"sector"},{"word_id":"v2930","headword":"welfare","story_form":"welfare"},{"word_id":"v1385","headword":"implement","story_form":"implement"},{"word_id":"v1018","headword":"facilitate","story_form":"facilitate"},{"word_id":"v2003","headword":"populate","story_form":"populate"}]} -->
 
 ### 오늘의 단어 10개
@@ -2748,7 +2748,7 @@ We leave with a list of questions to ask the people who would use the bus.
 ---
 
 <a id="o063"></a>
-## O063 — 법정에서 밝혀진 일
+## O063 · The Truth Comes Out in Court / 법정에서 밝혀진 일
 <!-- set-data: {"set_id":"O063","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1492","headword":"jury","story_form":"jury"},{"word_id":"v0620","headword":"convict","story_form":"convict"},{"word_id":"v1475","headword":"jail","story_form":"jail"},{"word_id":"v0701","headword":"custody","story_form":"custody"},{"word_id":"v1739","headword":"murder","story_form":"murder"},{"word_id":"v0167","headword":"assault","story_form":"assault"},{"word_id":"v0740","headword":"defend","story_form":"defend"},{"word_id":"v0647","headword":"counsel","story_form":"counsel"},{"word_id":"v1928","headword":"penalty","story_form":"penalty"},{"word_id":"v0750","headword":"deliberate","story_form":"deliberate"}]} -->
 
 ### 오늘의 단어 10개
@@ -2789,7 +2789,7 @@ We rewrite the scene so the audience can follow the evidence.
 ---
 
 <a id="o064"></a>
-## O064 — 전쟁 전시관에서
+## O064 · At the War Exhibition / 전쟁 전시관에서
 <!-- set-data: {"set_id":"O064","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1179","headword":"gang","story_form":"gang"},{"word_id":"v2247","headword":"riot","story_form":"riot"},{"word_id":"v2681","headword":"terror","story_form":"terror"},{"word_id":"v1344","headword":"hostile","story_form":"hostile"},{"word_id":"v0529","headword":"combat","story_form":"combat"},{"word_id":"v1700","headword":"missile","story_form":"missile"},{"word_id":"v2793","headword":"troop","story_form":"troop"},{"word_id":"v2574","headword":"submarine","story_form":"submarine"},{"word_id":"v2611","headword":"surrender","story_form":"surrender"},{"word_id":"v2229","headword":"retreat","story_form":"retreat"}]} -->
 
 ### 오늘의 단어 10개
@@ -2830,7 +2830,7 @@ I write about the families returning home rather than the weapons in the display
 ---
 
 <a id="o065"></a>
-## O065 — 사라진 그림
+## O065 · The Missing Painting / 사라진 그림
 <!-- set-data: {"set_id":"O065","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0565","headword":"conceal","story_form":"conceal"},{"word_id":"v0577","headword":"confess","story_form":"confess"},{"word_id":"v0272","headword":"betray","story_form":"betray"},{"word_id":"v0639","headword":"corrupt","story_form":"corrupt"},{"word_id":"v2304","headword":"scandal","story_form":"scandal"},{"word_id":"v1625","headword":"manipulate","story_form":"manipulate"},{"word_id":"v1864","headword":"outrage","story_form":"outrage"},{"word_id":"v2232","headword":"revenge","story_form":"revenge"},{"word_id":"v2906","headword":"warrant","story_form":"warrant"},{"word_id":"v0189","headword":"attribute","story_form":"attribute"}]} -->
 
 ### 오늘의 단어 10개
@@ -2871,7 +2871,7 @@ We end the story with the painting returned and the evidence sent to court.
 ---
 
 <a id="o066"></a>
-## O066 — 옛이야기 속 선택
+## O066 · A Choice in an Old Tale / 옛이야기 속 선택
 <!-- set-data: {"set_id":"O066","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1508","headword":"knight","story_form":"knight"},{"word_id":"v1787","headword":"noble","story_form":"noble"},{"word_id":"v1725","headword":"mortal","story_form":"mortal"},{"word_id":"v0782","headword":"destiny","story_form":"destiny"},{"word_id":"v1045","headword":"fate","story_form":"fate"},{"word_id":"v2284","headword":"sacred","story_form":"sacred"},{"word_id":"v2285","headword":"sacrifice","story_form":"sacrifice"},{"word_id":"v2881","headword":"virtue","story_form":"virtue"},{"word_id":"v2951","headword":"wicked","story_form":"wicked"},{"word_id":"v0245","headword":"beast","story_form":"beast"}]} -->
 
 ### 오늘의 단어 10개
@@ -2912,7 +2912,7 @@ The animal moves aside, and the knight finds a peaceful road around the castle.
 ---
 
 <a id="o067"></a>
-## O067 — 잠에서 깬 아이
+## O067 · The Child Who Woke Up / 잠에서 깬 아이
 <!-- set-data: {"set_id":"O067","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1784","headword":"nightmare","story_form":"nightmare"},{"word_id":"v1717","headword":"monster","story_form":"monster"},{"word_id":"v0758","headword":"demon","story_form":"demon"},{"word_id":"v0791","headword":"devil","story_form":"devil"},{"word_id":"v1290","headword":"haunt","story_form":"haunt"},{"word_id":"v1340","headword":"horror","story_form":"horror"},{"word_id":"v0698","headword":"curse","story_form":"curse"},{"word_id":"v0837","headword":"divine","story_form":"divine"},{"word_id":"v1331","headword":"holy","story_form":"holy"},{"word_id":"v1554","headword":"legend","story_form":"legend"}]} -->
 
 ### 오늘의 단어 10개
@@ -2953,7 +2953,7 @@ We imagine the mountain in daylight, and I feel ready to close the book.
 ---
 
 <a id="o068"></a>
-## O068 — 마을의 오래된 예배당
+## O068 · The Old Village Chapel / 마을의 오래된 예배당
 <!-- set-data: {"set_id":"O068","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v2184","headword":"religion","story_form":"religion"},{"word_id":"v2048","headword":"priest","story_form":"priest"},{"word_id":"v2023","headword":"preach","story_form":"preach"},{"word_id":"v2980","headword":"worship","story_form":"worship"},{"word_id":"v2408","headword":"sin","story_form":"sin"},{"word_id":"v2664","headword":"temple","story_form":"temple"},{"word_id":"v1947","headword":"philosophy","story_form":"philosophy"},{"word_id":"v1747","headword":"myth","story_form":"myth"},{"word_id":"v2348","headword":"sentiment","story_form":"sentiment"},{"word_id":"v2870","headword":"vice","story_form":"vice"}]} -->
 
 ### 오늘의 단어 10개
@@ -2994,7 +2994,7 @@ We listen respectfully and write what we learned without expecting everyone to s
 ---
 
 <a id="o069"></a>
-## O069 — 다시 세운 다리
+## O069 · Rebuilding a Bridge / 다시 세운 다리
 <!-- set-data: {"set_id":"O069","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0147","headword":"architect","story_form":"architect"},{"word_id":"v0805","headword":"dimension","story_form":"dimension"},{"word_id":"v1144","headword":"framework","story_form":"framework"},{"word_id":"v1483","headword":"joint","story_form":"joint"},{"word_id":"v2259","headword":"rod","story_form":"rod"},{"word_id":"v0631","headword":"cord","story_form":"cord"},{"word_id":"v2479","headword":"span","story_form":"span"},{"word_id":"v2176","headword":"reinforce","story_form":"reinforce"},{"word_id":"v0626","headword":"coordinate","story_form":"coordinate"},{"word_id":"v1889","headword":"panel","story_form":"panel"}]} -->
 
 ### 오늘의 단어 10개
@@ -3035,7 +3035,7 @@ She counts slowly as we add small weights and record when the model bends.
 ---
 
 <a id="o070"></a>
-## O070 — 숫자를 읽는 법
+## O070 · Learning to Read Numbers / 숫자를 읽는 법
 <!-- set-data: {"set_id":"O070","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v2525","headword":"statistic","story_form":"statistic"},{"word_id":"v2114","headword":"quantity","story_form":"quantity"},{"word_id":"v2083","headword":"proportion","story_form":"proportion"},{"word_id":"v1142","headword":"fraction","story_form":"fraction"},{"word_id":"v1693","headword":"minimum","story_form":"minimum"},{"word_id":"v0736","headword":"decrease","story_form":"decrease"},{"word_id":"v0806","headword":"diminish","story_form":"diminish"},{"word_id":"v0977","headword":"exceed","story_form":"exceed"},{"word_id":"v0980","headword":"excess","story_form":"excess"},{"word_id":"v1688","headword":"million","story_form":"million"}]} -->
 
 ### 오늘의 단어 10개
@@ -3076,7 +3076,7 @@ We begin by measuring our own school's use for a week.
 ---
 
 <a id="o071"></a>
-## O071 — 설문 조사
+## O071 · A Survey / 설문 조사
 <!-- set-data: {"set_id":"O071","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v2118","headword":"questionnaire","story_form":"questionnaire"},{"word_id":"v2134","headword":"random","story_form":"random"},{"word_id":"v1400","headword":"index","story_form":"index"},{"word_id":"v2068","headword":"profile","story_form":"profile"},{"word_id":"v2785","headword":"trend","story_form":"trend"},{"word_id":"v2027","headword":"predict","story_form":"predict"},{"word_id":"v0575","headword":"conduct","story_form":"conduct"},{"word_id":"v1926","headword":"peer","story_form":"peer"},{"word_id":"v0769","headword":"derive","story_form":"derive"},{"word_id":"v0827","headword":"distinct","story_form":"distinct"}]} -->
 
 ### 오늘의 단어 10개
@@ -3117,7 +3117,7 @@ We share the report and invite students to explain answers we may have misunders
 ---
 
 <a id="o072"></a>
-## O072 — 환경 발표회
+## O072 · A Presentation on the Environment / 환경 발표회
 <!-- set-data: {"set_id":"O072","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v2690","headword":"theme","story_form":"theme"},{"word_id":"v1862","headword":"outline","story_form":"outline"},{"word_id":"v1319","headword":"highlight","story_form":"highlight"},{"word_id":"v0921","headword":"emphasis","story_form":"emphasis"},{"word_id":"v1166","headword":"fundamental","story_form":"fundamental"},{"word_id":"v0682","headword":"crucial","story_form":"crucial"},{"word_id":"v2887","headword":"vital","story_form":"vital"},{"word_id":"v0955","headword":"essence","story_form":"essential"},{"word_id":"v1171","headword":"furthermore","story_form":"furthermore"},{"word_id":"v1311","headword":"hence","story_form":"hence"}]} -->
 
 ### 오늘의 단어 10개
@@ -3158,7 +3158,7 @@ We shorten the slides and show one action the class can try today.
 ---
 
 <a id="o073"></a>
-## O073 — 새 계획을 설명하기
+## O073 · Explaining a New Plan / 새 계획을 설명하기
 <!-- set-data: {"set_id":"O073","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1000","headword":"explicit","story_form":"explicit"},{"word_id":"v2849","headword":"vague","story_form":"vague"},{"word_id":"v0902","headword":"elaborate","story_form":"elaborate"},{"word_id":"v2316","headword":"scope","story_form":"scope"},{"word_id":"v1007","headword":"extent","story_form":"extent"},{"word_id":"v0165","headword":"aspect","story_form":"aspect"},{"word_id":"v0632","headword":"core","story_form":"core"},{"word_id":"v0596","headword":"constrain","story_form":"constrain"},{"word_id":"v0598","headword":"consult","story_form":"consult"},{"word_id":"v2575","headword":"submit","story_form":"submit"}]} -->
 
 ### 오늘의 단어 10개
@@ -3199,7 +3199,7 @@ When we **submit** the new plan, everyone can see exactly what we want to build.
 ---
 
 <a id="o074"></a>
-## O074 — 일정이 바뀐 날
+## O074 · The Day the Schedule Changed / 일정이 바뀐 날
 <!-- set-data: {"set_id":"O074","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0129","headword":"anticipate","story_form":"anticipate"},{"word_id":"v0150","headword":"arise","story_form":"arise"},{"word_id":"v0825","headword":"disrupt","story_form":"disrupt"},{"word_id":"v0393","headword":"cancel","story_form":"cancel"},{"word_id":"v2665","headword":"temporary","story_form":"temporary"},{"word_id":"v2616","headword":"suspend","story_form":"suspend"},{"word_id":"v2225","headword":"resume","story_form":"resume"},{"word_id":"v2676","headword":"terminate","story_form":"terminate"},{"word_id":"v2773","headword":"transition","story_form":"transition"},{"word_id":"v1945","headword":"phase","story_form":"phase"}]} -->
 
 ### 오늘의 단어 10개
@@ -3240,7 +3240,7 @@ We move the signs, and the fair opens with only a short delay.
 ---
 
 <a id="o075"></a>
-## O075 — 의견을 전하는 연습
+## O075 · Practicing How to Share an Opinion / 의견을 전하는 연습
 <!-- set-data: {"set_id":"O075","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0057","headword":"advocate","story_form":"advocate"},{"word_id":"v0176","headword":"assure","story_form":"assure"},{"word_id":"v1943","headword":"persuade","story_form":"persuade"},{"word_id":"v0549","headword":"compel","story_form":"compel"},{"word_id":"v2842","headword":"urge","story_form":"urge"},{"word_id":"v2078","headword":"prompt","story_form":"prompt"},{"word_id":"v2177","headword":"reject","story_form":"reject"},{"word_id":"v0145","headword":"approve","story_form":"approve"},{"word_id":"v0733","headword":"declare","story_form":"declare"},{"word_id":"v2845","headword":"utter","story_form":"utter"}]} -->
 
 ### 오늘의 단어 10개
@@ -3281,7 +3281,7 @@ I happily **declare** the corner open after we move two chairs.
 ---
 
 <a id="o076"></a>
-## O076 — 물건을 나누는 날
+## O076 · A Day for Sharing Things / 물건을 나누는 날
 <!-- set-data: {"set_id":"O076","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0449","headword":"charity","story_form":"charity"},{"word_id":"v0831","headword":"distribute","story_form":"distribute"},{"word_id":"v0550","headword":"compensate","story_form":"compensate"},{"word_id":"v0768","headword":"deprive","story_form":"deprive"},{"word_id":"v2227","headword":"retain","story_form":"retain"},{"word_id":"v1876","headword":"owe","story_form":"owe"},{"word_id":"v2916","headword":"wealth","story_form":"wealth"},{"word_id":"v2031","headword":"premium","story_form":"premium"},{"word_id":"v0766","headword":"deposit","story_form":"deposit"},{"word_id":"v0190","headword":"auction","story_form":"auction"}]} -->
 
 ### 오늘의 단어 10개
@@ -3322,7 +3322,7 @@ We help label the chairs and keep the payment records clear.
 ---
 
 <a id="o077"></a>
-## O077 — 자연의 작은 소리
+## O077 · The Quiet Sounds of Nature / 자연의 작은 소리
 <!-- set-data: {"set_id":"O077","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0380","headword":"buzz","story_form":"buzz"},{"word_id":"v2253","headword":"roar","story_form":"roar"},{"word_id":"v0466","headword":"chill","story_form":"chill"},{"word_id":"v1156","headword":"frown","story_form":"frown"},{"word_id":"v1210","headword":"glare","story_form":"glare"},{"word_id":"v1015","headword":"eyebrow","story_form":"eyebrow"},{"word_id":"v1122","headword":"forehead","story_form":"forehead"},{"word_id":"v0467","headword":"chin","story_form":"chin"},{"word_id":"v0244","headword":"beard","story_form":"beard"},{"word_id":"v0671","headword":"creep","story_form":"creep"}]} -->
 
 ### 오늘의 단어 10개
@@ -3363,7 +3363,7 @@ We whisper our explanation, and soon all three of us are laughing quietly.
 ---
 
 <a id="o078"></a>
-## O078 — 마당에서의 사고
+## O078 · An Accident in the Yard / 마당에서의 사고
 <!-- set-data: {"set_id":"O078","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0362","headword":"bull","story_form":"bull"},{"word_id":"v1219","headword":"goat","story_form":"goat"},{"word_id":"v1337","headword":"hook","story_form":"hook"},{"word_id":"v2944","headword":"whip","story_form":"whip"},{"word_id":"v2495","headword":"spit","story_form":"spit"},{"word_id":"v2585","headword":"suck","story_form":"suck"},{"word_id":"v1750","headword":"naked","story_form":"naked"},{"word_id":"v1887","headword":"palm","story_form":"palm"},{"word_id":"v2717","headword":"thumb","story_form":"thumb"},{"word_id":"v2624","headword":"swell","story_form":"swell"}]} -->
 
 ### 오늘의 단어 10개
@@ -3406,7 +3406,7 @@ I rest for a while, then finish the visit more carefully.
 ---
 
 <a id="o079"></a>
-## O079 — 나들이 사진
+## O079 · Photos from a Day Out / 나들이 사진
 <!-- set-data: {"set_id":"O079","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1139","headword":"fountain","story_form":"fountain"},{"word_id":"v2677","headword":"terrace","story_form":"terrace"},{"word_id":"v1998","headword":"pond","story_form":"pond"},{"word_id":"v2367","headword":"shallow","story_form":"shallow"},{"word_id":"v0851","headword":"dot","story_form":"dot"},{"word_id":"v1913","headword":"patch","story_form":"patch"},{"word_id":"v1098","headword":"flip","story_form":"flip"},{"word_id":"v2636","headword":"tag","story_form":"tag"},{"word_id":"v2886","headword":"visual","story_form":"visual"},{"word_id":"v2888","headword":"vivid","story_form":"vivid"}]} -->
 
 ### 오늘의 단어 10개
@@ -3447,7 +3447,7 @@ At home, the photograph helps us remember even the sound of the water.
 ---
 
 <a id="o080"></a>
-## O080 — 길을 찾는 두 사람
+## O080 · Two People Finding Their Way / 길을 찾는 두 사람
 <!-- set-data: {"set_id":"O080","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0638","headword":"corridor","story_form":"corridor"},{"word_id":"v2803","headword":"tunnel","story_form":"tunnel"},{"word_id":"v1979","headword":"platform","story_form":"platform"},{"word_id":"v0318","headword":"border","story_form":"border"},{"word_id":"v2999","headword":"zone","story_form":"zone"},{"word_id":"v2680","headword":"territory","story_form":"territory"},{"word_id":"v1855","headword":"orient","story_form":"orient"},{"word_id":"v2869","headword":"via","story_form":"via"},{"word_id":"v0942","headword":"entry","story_form":"entry"},{"word_id":"v0157","headword":"arrow","story_form":"arrow"}]} -->
 
 ### 오늘의 단어 10개
@@ -3488,7 +3488,7 @@ She shows us the way, and we reach our train without running.
 ---
 
 <a id="o081"></a>
-## O081 — 옛 항구의 변화
+## O081 · Changes at the Old Harbor / 옛 항구의 변화
 <!-- set-data: {"set_id":"O081","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0728","headword":"decade","story_form":"decade"},{"word_id":"v0602","headword":"contemporary","story_form":"contemporary"},{"word_id":"v1131","headword":"former","story_form":"former"},{"word_id":"v1531","headword":"latter","story_form":"latter"},{"word_id":"v1651","headword":"meanwhile","story_form":"meanwhile"},{"word_id":"v1777","headword":"nevertheless","story_form":"nevertheless"},{"word_id":"v1792","headword":"nonetheless","story_form":"nonetheless"},{"word_id":"v2940","headword":"whereas","story_form":"whereas"},{"word_id":"v1574","headword":"likewise","story_form":"likewise"},{"word_id":"v1003","headword":"export","story_form":"export"}]} -->
 
 ### 오늘의 단어 10개
@@ -3529,7 +3529,7 @@ I taste some, and Dad does **likewise**; we all find something to enjoy.
 ---
 
 <a id="o082"></a>
-## O082 — 선택의 순간
+## O082 · A Moment of Choice / 선택의 순간
 <!-- set-data: {"set_id":"O082","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0102","headword":"alternate","story_form":"alternative"},{"word_id":"v1845","headword":"opt","story_form":"option"},{"word_id":"v2459","headword":"sole","story_form":"sole"},{"word_id":"v0873","headword":"dual","story_form":"dual"},{"word_id":"v1738","headword":"multiple","story_form":"multiple"},{"word_id":"v1809","headword":"numerous","story_form":"numerous"},{"word_id":"v0197","headword":"avail","story_form":"available"},{"word_id":"v0042","headword":"adequate","story_form":"adequate"},{"word_id":"v2588","headword":"suffice","story_form":"suffice"},{"word_id":"v1161","headword":"fulfil","story_form":"fulfil"}]} -->
 
 ### 오늘의 단어 10개
@@ -3570,7 +3570,7 @@ We arrange the room and **fulfil** our promise to welcome everyone.
 ---
 
 <a id="o083"></a>
-## O083 — 생각을 이어 가는 말
+## O083 · Words That Connect Ideas / 생각을 이어 가는 말
 <!-- set-data: {"set_id":"O083","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0611","headword":"contrary","story_form":"contrary"},{"word_id":"v0801","headword":"differ","story_form":"differ"},{"word_id":"v1368","headword":"identical","story_form":"identical"},{"word_id":"v1671","headword":"mere","story_form":"mere"},{"word_id":"v1467","headword":"irony","story_form":"irony"},{"word_id":"v0014","headword":"absurd","story_form":"absurd"},{"word_id":"v1765","headword":"negate","story_form":"negate"},{"word_id":"v2864","headword":"versus","story_form":"versus"},{"word_id":"v2009","headword":"posit","story_form":"posit"},{"word_id":"v1624","headword":"manifest","story_form":"manifest"}]} -->
 
 ### 오늘의 단어 10개
@@ -3611,7 +3611,7 @@ The difference is now **manifest**, and we agree that guessing by labels alone c
 ---
 
 <a id="o084"></a>
-## O084 — 빠르게 움직이는 팀
+## O084 · A Team on the Move / 빠르게 움직이는 팀
 <!-- set-data: {"set_id":"O084","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v2625","headword":"swift","story_form":"swift"},{"word_id":"v0716","headword":"dash","story_form":"dash"},{"word_id":"v2318","headword":"scramble","story_form":"scramble"},{"word_id":"v2308","headword":"scatter","story_form":"scatter"},{"word_id":"v2497","headword":"split","story_form":"split"},{"word_id":"v2511","headword":"stack","story_form":"stack"},{"word_id":"v0785","headword":"detach","story_form":"detach"},{"word_id":"v1871","headword":"overlap","story_form":"overlap"},{"word_id":"v0518","headword":"coincide","story_form":"coincide"},{"word_id":"v2407","headword":"simultaneous","story_form":"simultaneous"}]} -->
 
 ### 오늘의 단어 10개
@@ -3652,7 +3652,7 @@ We finish safely, then carry the games into the hall.
 ---
 
 <a id="o085"></a>
-## O085 — 끝까지 읽은 책
+## O085 · Finishing a Book / 끝까지 읽은 책
 <!-- set-data: {"set_id":"O085","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v2070","headword":"profound","story_form":"profound"},{"word_id":"v2075","headword":"prominent","story_form":"prominent"},{"word_id":"v2600","headword":"superior","story_form":"superior"},{"word_id":"v2599","headword":"superb","story_form":"superb"},{"word_id":"v2679","headword":"terrific","story_form":"terrific"},{"word_id":"v1194","headword":"genius","story_form":"genius"},{"word_id":"v0906","headword":"elegant","story_form":"elegant"},{"word_id":"v0751","headword":"delicate","story_form":"delicate"},{"word_id":"v2670","headword":"tender","story_form":"tender"},{"word_id":"v2262","headword":"romantic","story_form":"romantic"}]} -->
 
 ### 오늘의 단어 10개
@@ -3693,7 +3693,7 @@ I lend it to her instead of deciding; we may find different reasons to call it *
 ---
 
 <a id="o086"></a>
-## O086 — 다시 보는 역사
+## O086 · A New Look at History / 다시 보는 역사
 <!-- set-data: {"set_id":"O086","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1031","headword":"fame","story_form":"famous"},{"word_id":"v1966","headword":"pioneer","story_form":"pioneer"},{"word_id":"v2024","headword":"precede","story_form":"precede"},{"word_id":"v1660","headword":"medieval","story_form":"medieval"},{"word_id":"v0912","headword":"elite","story_form":"elite"},{"word_id":"v2059","headword":"privilege","story_form":"privilege"},{"word_id":"v0810","headword":"diplomat","story_form":"diplomat"},{"word_id":"v0107","headword":"ambassador","story_form":"ambassador"},{"word_id":"v1605","headword":"loyal","story_form":"loyal"},{"word_id":"v0310","headword":"bold","story_form":"bold"}]} -->
 
 ### 오늘의 단어 10개
@@ -3734,7 +3734,7 @@ We revise our reports to show differences instead of treating every period as th
 ---
 
 <a id="o087"></a>
-## O087 — 새로운 기술의 영향
+## O087 · The Effects of New Technology / 새로운 기술의 영향
 <!-- set-data: {"set_id":"O087","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1383","headword":"impact","story_form":"impact"},{"word_id":"v2085","headword":"prospect","story_form":"prospect"},{"word_id":"v0934","headword":"enhance","story_form":"enhance"},{"word_id":"v0911","headword":"eliminate","story_form":"eliminate"},{"word_id":"v0618","headword":"convert","story_form":"convert"},{"word_id":"v2772","headword":"transform","story_form":"transform"},{"word_id":"v2844","headword":"utilize","story_form":"utilize"},{"word_id":"v1387","headword":"import","story_form":"import"},{"word_id":"v1392","headword":"incentive","story_form":"incentive"},{"word_id":"v1192","headword":"generate","story_form":"generate"}]} -->
 
 ### 오늘의 단어 10개
@@ -3775,7 +3775,7 @@ I bring home a balanced report listing both hopes and unanswered questions.
 ---
 
 <a id="o088"></a>
-## O088 — 마지막 도전
+## O088 · The Final Challenge / 마지막 도전
 <!-- set-data: {"set_id":"O088","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v2825","headword":"undertake","story_form":"undertake"},{"word_id":"v0793","headword":"devote","story_form":"devote"},{"word_id":"v0737","headword":"dedicate","story_form":"dedicate"},{"word_id":"v2647","headword":"task","story_form":"task"},{"word_id":"v2817","headword":"ultimate","story_form":"ultimate"},{"word_id":"v1429","headword":"inspire","story_form":"inspire"},{"word_id":"v2021","headword":"praise","story_form":"praise"},{"word_id":"v0978","headword":"excel","story_form":"excel"},{"word_id":"v0538","headword":"commit","story_form":"commit"},{"word_id":"v2635","headword":"tackle","story_form":"tackle"}]} -->
 
 ### 오늘의 단어 10개
@@ -3816,7 +3816,7 @@ When we finish, we **dedicate** it to the teacher who encouraged our first stori
 ---
 
 <a id="o089"></a>
-## O089 — 발사 실험을 멈춘 이유
+## O089 · Why We Stopped the Launch Test / 발사 실험을 멈춘 이유
 <!-- set-data: {"set_id":"O089","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0005","headword":"abort","story_form":"abort"},{"word_id":"v1533","headword":"launch","story_form":"launch"},{"word_id":"v0294","headword":"blast","story_form":"blast"},{"word_id":"v1001","headword":"explode","story_form":"explode"},{"word_id":"v2406","headword":"simulate","story_form":"simulate"},{"word_id":"v2789","headword":"trigger","story_form":"trigger"},{"word_id":"v2775","headword":"transmit","story_form":"transmit"},{"word_id":"v2659","headword":"telegraph","story_form":"telegraph"},{"word_id":"v1703","headword":"mobile","story_form":"mobile"},{"word_id":"v1504","headword":"kit","story_form":"kit"}]} -->
 
 ### 오늘의 단어 10개
@@ -3857,7 +3857,7 @@ When the warning appears, we stop the simulation and explain our choice.
 ---
 
 <a id="o090"></a>
-## O090 — 안전 훈련의 날
+## O090 · A Day of Safety Training / 안전 훈련의 날
 <!-- set-data: {"set_id":"O090","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0865","headword":"drill","story_form":"drill"},{"word_id":"v0947","headword":"equip","story_form":"equip"},{"word_id":"v2601","headword":"supervise","story_form":"supervise"},{"word_id":"v1019","headword":"facility","story_form":"facility"},{"word_id":"v0228","headword":"barrier","story_form":"barrier"},{"word_id":"v0218","headword":"ban","story_form":"ban"},{"word_id":"v0579","headword":"confine","story_form":"confine"},{"word_id":"v0426","headword":"cease","story_form":"cease"},{"word_id":"v2968","headword":"withdraw","story_form":"withdraw"},{"word_id":"v1094","headword":"flee","story_form":"flee"}]} -->
 
 ### 오늘의 단어 10개
@@ -3898,7 +3898,7 @@ Outside, we wait while the teacher checks that everyone has arrived.
 ---
 
 <a id="o091"></a>
-## O091 — 겁먹은 개를 만나다
+## O091 · Meeting a Frightened Dog / 겁먹은 개를 만나다
 <!-- set-data: {"set_id":"O091","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v2868","headword":"veterinarian","story_form":"veterinarian"},{"word_id":"v0522","headword":"collar","story_form":"collar"},{"word_id":"v0501","headword":"cling","story_form":"cling"},{"word_id":"v2522","headword":"starve","story_form":"starve"},{"word_id":"v1470","headword":"isolate","story_form":"isolate"},{"word_id":"v1286","headword":"harsh","story_form":"harsh"},{"word_id":"v0356","headword":"brute","story_form":"brute"},{"word_id":"v2750","headword":"torture","story_form":"torture"},{"word_id":"v1137","headword":"foster","story_form":"foster"},{"word_id":"v0258","headword":"behave","story_form":"behave"}]} -->
 
 ### 오늘의 단어 10개
@@ -3939,7 +3939,7 @@ We leave our contact details and later hear that the dog is resting safely.
 ---
 
 <a id="o092"></a>
-## O092 — 새로운 요리 수업
+## O092 · A New Cooking Class / 새로운 요리 수업
 <!-- set-data: {"set_id":"O092","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0376","headword":"butcher","story_form":"butcher"},{"word_id":"v0991","headword":"exotic","story_form":"exotic"},{"word_id":"v0295","headword":"blend","story_form":"blend"},{"word_id":"v0809","headword":"dip","story_form":"dip"},{"word_id":"v0685","headword":"crush","story_form":"crush"},{"word_id":"v2751","headword":"toss","story_form":"toss"},{"word_id":"v2578","headword":"substitute","story_form":"substitute"},{"word_id":"v2790","headword":"trim","story_form":"trim"},{"word_id":"v0730","headword":"decent","story_form":"decent"},{"word_id":"v0554","headword":"complement","story_form":"complement"}]} -->
 
 ### 오늘의 단어 10개
@@ -3980,7 +3980,7 @@ We write down both versions so everyone can choose the one they prefer.
 ---
 
 <a id="o093"></a>
-## O093 — 그림을 다시 고치다
+## O093 · Working on a Painting Again / 그림을 다시 고치다
 <!-- set-data: {"set_id":"O093","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0662","headword":"craft","story_form":"craft"},{"word_id":"v0700","headword":"curve","story_form":"curve"},{"word_id":"v1993","headword":"polish","story_form":"polish"},{"word_id":"v2565","headword":"stroke","story_form":"stroke"},{"word_id":"v2514","headword":"stain","story_form":"stain"},{"word_id":"v1880","headword":"pad","story_form":"pad"},{"word_id":"v0949","headword":"erase","story_form":"erase"},{"word_id":"v1024","headword":"fade","story_form":"fade"},{"word_id":"v2165","headword":"refine","story_form":"refine"},{"word_id":"v0677","headword":"critic","story_form":"critic"}]} -->
 
 ### 오늘의 단어 10개
@@ -4021,7 +4021,7 @@ My brother acts as a **critic**, but even he likes the new leaf.
 ---
 
 <a id="o094"></a>
-## O094 — 무대에 다시 선 배우
+## O094 · An Actor Returns to the Stage / 무대에 다시 선 배우
 <!-- set-data: {"set_id":"O094","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0429","headword":"celebrity","story_form":"celebrity"},{"word_id":"v0666","headword":"craze","story_form":"craze"},{"word_id":"v2202","headword":"reputation","story_form":"reputation"},{"word_id":"v0847","headword":"dominate","story_form":"dominate"},{"word_id":"v0822","headword":"dismiss","story_form":"dismiss"},{"word_id":"v1442","headword":"intelligent","story_form":"intelligent"},{"word_id":"v2966","headword":"wit","story_form":"wit"},{"word_id":"v0876","headword":"dull","story_form":"dull"},{"word_id":"v2401","headword":"silent","story_form":"silent"},{"word_id":"v0917","headword":"emerge","story_form":"emerge"}]} -->
 
 ### 오늘의 단어 10개
@@ -4062,7 +4062,7 @@ When the play ends, I remember the quiet moments most clearly.
 ---
 
 <a id="o095"></a>
-## O095 — 비 오는 날의 행사 계획
+## O095 · Planning an Event for a Rainy Day / 비 오는 날의 행사 계획
 <!-- set-data: {"set_id":"O095","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v1121","headword":"forecast","story_form":"forecast"},{"word_id":"v0053","headword":"adverse","story_form":"adverse"},{"word_id":"v0970","headword":"evitable","story_form":"inevitable"},{"word_id":"v0897","headword":"efficient","story_form":"efficient"},{"word_id":"v1132","headword":"formula","story_form":"formula"},{"word_id":"v1631","headword":"margin","story_form":"margin"},{"word_id":"v1692","headword":"minimal","story_form":"minimal"},{"word_id":"v1872","headword":"overlook","story_form":"overlook"},{"word_id":"v2311","headword":"scheme","story_form":"scheme"},{"word_id":"v2707","headword":"thorough","story_form":"thorough"}]} -->
 
 ### 오늘의 단어 10개
@@ -4105,7 +4105,7 @@ The rain comes, but our indoor games give everyone a happy afternoon.
 ---
 
 <a id="o096"></a>
-## O096 — 동아리 가입 안내
+## O096 · How to Join the Club / 동아리 가입 안내
 <!-- set-data: {"set_id":"O096","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0435","headword":"certificate","story_form":"certificate"},{"word_id":"v0490","headword":"clause","story_form":"clause"},{"word_id":"v0775","headword":"designate","story_form":"designate"},{"word_id":"v0797","headword":"dictate","story_form":"dictate"},{"word_id":"v0562","headword":"comprise","story_form":"comprise"},{"word_id":"v0593","headword":"consist","story_form":"consist"},{"word_id":"v0595","headword":"constitute","story_form":"constitute"},{"word_id":"v2103","headword":"pupil","story_form":"pupil"},{"word_id":"v2576","headword":"subscribe","story_form":"subscribe"},{"word_id":"v2527","headword":"status","story_form":"status"}]} -->
 
 ### 오늘의 단어 10개
@@ -4146,7 +4146,7 @@ We add a simple calendar so new members can understand the plan at a glance.
 ---
 
 <a id="o097"></a>
-## O097 — 혼자 두지 않는 마을
+## O097 · A Village Where No One Is Left Alone / 혼자 두지 않는 마을
 <!-- set-data: {"set_id":"O097","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v2591","headword":"suicide","story_form":"suicide"},{"word_id":"v2767","headword":"tragic","story_form":"tragic"},{"word_id":"v2133","headword":"rally","story_form":"rally"},{"word_id":"v2161","headword":"recruit","story_form":"recruit"},{"word_id":"v0520","headword":"collaborate","story_form":"collaborate"},{"word_id":"v2042","headword":"prevail","story_form":"prevail"},{"word_id":"v2827","headword":"unify","story_form":"unify"},{"word_id":"v2823","headword":"undermine","story_form":"undermine"},{"word_id":"v2235","headword":"revive","story_form":"revive"},{"word_id":"v1697","headword":"miracle","story_form":"miracle"}]} -->
 
 ### 오늘의 단어 10개
@@ -4187,7 +4187,7 @@ We make a clear list of trusted adults and support services students can contact
 ---
 
 <a id="o098"></a>
-## O098 — 조용한 휴가 마을
+## O098 · A Quiet Vacation Village / 조용한 휴가 마을
 <!-- set-data: {"set_id":"O098","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v2846","headword":"vacate","story_form":"vacation"},{"word_id":"v2213","headword":"resort","story_form":"resort"},{"word_id":"v2780","headword":"treasure","story_form":"treasure"},{"word_id":"v2880","headword":"virgin","story_form":"virgin"},{"word_id":"v1919","headword":"pave","story_form":"pave"},{"word_id":"v0510","headword":"cluster","story_form":"cluster"},{"word_id":"v0881","headword":"dwell","story_form":"dwell"},{"word_id":"v0909","headword":"elevate","story_form":"elevator"},{"word_id":"v2784","headword":"tremendous","story_form":"tremendous"},{"word_id":"v1367","headword":"ideal","story_form":"ideal"}]} -->
 
 ### 오늘의 단어 10개
@@ -4228,7 +4228,7 @@ We stay on the marked paths and leave the quiet forest as we found it.
 ---
 
 <a id="o099"></a>
-## O099 — 우리 마을의 물가 조사
+## O099 · Checking Prices in Our Town / 우리 마을의 물가 조사
 <!-- set-data: {"set_id":"O099","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0027","headword":"accumulate","story_form":"accumulate"},{"word_id":"v0440","headword":"chamber","story_form":"chamber"},{"word_id":"v0734","headword":"decline","story_form":"decline"},{"word_id":"v1180","headword":"gap","story_form":"gap"},{"word_id":"v1408","headword":"inflate","story_form":"inflate"},{"word_id":"v2008","headword":"pose","story_form":"pose"},{"word_id":"v2453","headword":"sociology","story_form":"sociology"},{"word_id":"v2467","headword":"sophisticate","story_form":"sophisticated"},{"word_id":"v1148","headword":"frequent","story_form":"frequent"},{"word_id":"v2719","headword":"tick","story_form":"tick"}]} -->
 
 ### 오늘의 단어 10개
@@ -4271,7 +4271,7 @@ We check our records again and separate what we measured from what we only guess
 ---
 
 <a id="o100"></a>
-## O100 — 엉망이 된 보드게임
+## O100 · A Board Game Gone Wrong / 엉망이 된 보드게임
 <!-- set-data: {"set_id":"O100","level":"other","style":"narration_dialogue_action","targets":[{"word_id":"v0445","headword":"chaos","story_form":"chaos"},{"word_id":"v1067","headword":"fierce","story_form":"fierce"},{"word_id":"v1468","headword":"irritate","story_form":"irritate"},{"word_id":"v2233","headword":"reverse","story_form":"reverse"},{"word_id":"v2242","headword":"rid","story_form":"rid"},{"word_id":"v2350","headword":"sequence","story_form":"sequence"},{"word_id":"v2423","headword":"skip","story_form":"skip"},{"word_id":"v2431","headword":"slim","story_form":"slim"},{"word_id":"v2445","headword":"sneak","story_form":"sneak"},{"word_id":"v2619","headword":"swear","story_form":"swear"}]} -->
 
 ### 오늘의 단어 10개
