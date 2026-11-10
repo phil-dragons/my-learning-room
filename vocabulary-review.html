@@ -184,20 +184,15 @@ h2{font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;
 
 .quit #quit{display:inline-flex;align-items:center;justify-content:center;min-height:32px;padding:6px 13px;border:1px solid #d2c7e6;border-radius:999px;background:#eee8f6;color:#654482;font-size:12px;font-weight:600;line-height:1.55;transition:filter .15s,transform .15s}.quit #quit:hover{filter:brightness(1.1)}.quit #quit:active{transform:scale(.97)}.quit #quit:focus-visible{outline:2px solid #bfa4df;outline-offset:3px}@media(prefers-color-scheme:dark){.quit #quit{background:#342a45;color:#d7bceb;border-color:#514062}}html[data-theme="dark"] .quit #quit{background:#342a45;color:#d7bceb;border-color:#514062}
 </style>
-<style id="learning-room-navigation-style">
-#learning-room-menu{box-sizing:border-box;display:flex;align-items:center;justify-content:flex-start;flex-wrap:nowrap;gap:6px;padding:12px 24px;margin:0;overflow-x:auto;background:#fffdf8;border-bottom:1px solid #e4dfd4;color:#263e35;font:600 14px/1.5 -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo",sans-serif;position:relative;z-index:10;-webkit-overflow-scrolling:touch}
-#learning-room-menu a{box-sizing:border-box;display:inline-flex;flex:0 0 auto;align-items:center;justify-content:center;min-height:44px;min-width:64px;margin:0;padding:10px 16px;border:0;border-radius:10px;color:#4e5d55;background:transparent;font:inherit;text-decoration:none;white-space:nowrap}
-#learning-room-menu a:hover{background:#eeeae0}#learning-room-menu a[aria-current="page"]{background:#e1eee5;color:#23543e}#learning-room-menu a:focus-visible{outline:3px solid #b77532;outline-offset:-3px}
-@media(max-width:600px){#learning-room-menu{gap:4px;padding:8px}#learning-room-menu a{min-width:44px;padding:10px 8px}}
-@media print{#learning-room-menu{display:none!important}}
-</style><style id="daily-hidden-menu">#learning-room-menu{position:fixed;top:0;left:0;right:0;z-index:1000;transform:translateY(-110%);visibility:hidden;pointer-events:none;transition:transform .2s ease,visibility .2s;box-shadow:0 3px 14px #203d3414;padding-top:max(12px,env(safe-area-inset-top));margin:0}#learning-room-menu.is-visible{transform:translateY(0);visibility:visible;pointer-events:auto}@media(max-width:600px){#learning-room-menu{padding-top:max(8px,env(safe-area-inset-top))}}@media(prefers-reduced-motion:reduce){#learning-room-menu{transition:none}}</style></head>
-<body><nav id="learning-room-menu" class="learning-room-navigation" inert aria-hidden="true" aria-label="학습실 메뉴"><a href="./index.html">홈</a><a href="./vocabulary-review.html" aria-current="page">단어</a><a href="./workbook.html">교재</a><a href="./typing-practice.html">타자</a><a href="./subtitle-textbook-library.html">자막</a><a href="./source-library.html">자료실</a></nav>
+<style id="daily-home-style">.app>.daily-header{display:grid;grid-template-columns:minmax(0,1fr) auto auto;align-items:center;gap:8px 12px}.daily-home{display:inline-flex;align-items:center;justify-content:center;min-width:48px;min-height:44px;padding:8px 14px;border:1px solid var(--line);border-radius:10px;background:var(--surface-2);color:var(--ink);font:500 14px var(--sans);text-decoration:none;white-space:nowrap}.daily-home:hover{background:var(--accent-soft)}.daily-home:focus-visible{outline:3px solid var(--accent);outline-offset:3px}@media(max-width:600px){.daily-header .brand{grid-column:1;grid-row:1}.daily-header .daily-home{grid-column:2;grid-row:1}.app>.daily-header{grid-template-columns:minmax(0,1fr) auto;gap:4px 8px}.daily-header .sync{grid-column:1/-1;grid-row:2}.daily-header .brand small{display:inline-block}}@media print{.daily-home{display:none!important}}</style></head>
+<body>
 
 
 <div class="app">
-  <header>
+  <header class="daily-header">
     <div class="brand">Daily 3000<small>고교 기본 어휘</small></div>
     <div class="sync" id="sync"><i></i><span>이 기기에만 저장</span></div>
+    <a class="daily-home" href="./index.html" aria-label="학습실 홈으로 이동">홈</a>
   </header>
 
   <nav class="tabs" role="tablist">
@@ -831,18 +826,5 @@ renderHome();
 })();
 </script>
 
-<script id="daily-hidden-menu-script">(()=>{
- const nav=document.getElementById('learning-room-menu');let amount=0,direction=0,shown=false,touch=null,lastTime=0,lastY=window.scrollY;
- function show(value){if(!value&&nav.contains(document.activeElement))return;shown=value;nav.classList.toggle('is-visible',value);nav.inert=!value;nav.setAttribute('aria-hidden',String(!value))}
- function feed(delta){if(!delta)return;const now=Date.now(),sign=Math.sign(delta);if(sign!==direction||now-lastTime>300)amount=0;direction=sign;lastTime=now;amount+=Math.abs(delta);if(amount>=36){show(sign>0);amount=0}}
- function excluded(target){return target?.closest?.('#learning-room-menu,input,textarea,select,[contenteditable="true"],dialog[open],[role="dialog"]')}
- window.addEventListener('wheel',e=>{if(e.ctrlKey||excluded(e.target)||Math.abs(e.deltaX)>Math.abs(e.deltaY))return;feed(-e.deltaY*(e.deltaMode===1?16:e.deltaMode===2?window.innerHeight:1))},{passive:true});
- window.addEventListener('touchstart',e=>{touch=e.touches.length===1&&!excluded(e.target)?{x:e.touches[0].clientX,y:e.touches[0].clientY}:null},{passive:true});
- window.addEventListener('touchmove',e=>{if(!touch||e.touches.length!==1)return;const t=e.touches[0],dx=t.clientX-touch.x,dy=t.clientY-touch.y;if(Math.abs(dx)>Math.abs(dy)&&Math.abs(dx)>8){touch=null;return}if(Math.abs(dy)>=8){feed(dy);touch={x:t.clientX,y:t.clientY}}},{passive:true});
- for(const name of ['touchend','touchcancel'])window.addEventListener(name,()=>{touch=null},{passive:true});
- window.addEventListener('scroll',()=>{const y=window.scrollY,delta=lastY-y;lastY=y;if(touch||Date.now()-lastTime<150)return;feed(delta)},{passive:true});
- document.addEventListener('keydown',e=>{if(e.key==='Tab'&&!shown)show(true);if(e.key==='Escape'){if(nav.contains(document.activeElement))document.activeElement.blur();show(false)}});
- show(false);
-})();
-</script></body>
+</body>
 </html>
